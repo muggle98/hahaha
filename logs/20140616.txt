@@ -1,0 +1,27 @@
+Mon Jun 16 2014 15:54:09 GMT+0000 (UTC)  azureuser restarting his server.
+Mon Jun 16 2014 15:55:04 GMT+0000 (UTC)  New connection "YO3QEe4YGg0twHbUYrt-"
+Mon Jun 16 2014 15:55:04 GMT+0000 (UTC)  New connection "GBfLk6dFYI19eG_nYrt_"
+Mon Jun 16 2014 15:55:04 GMT+0000 (UTC)  hello Adam
+Mon Jun 16 2014 15:55:04 GMT+0000 (UTC)  waiting Adam
+Mon Jun 16 2014 15:55:04 GMT+0000 (UTC)  hello mwen
+Mon Jun 16 2014 15:55:04 GMT+0000 (UTC)  Creating conversation 2014061615554547-Adam-mwen-0.4.3
+Mon Jun 16 2014 15:55:08 GMT+0000 (UTC)  Updating convid 2014061615554547-Adam-mwen-0.4.3 to length 1
+Mon Jun 16 2014 15:55:08 GMT+0000 (UTC)  Simsimi: Hi! ==> Hi! Mind :D
+Mon Jun 16 2014 15:55:22 GMT+0000 (UTC)  Updating convid 2014061615554547-Adam-mwen-0.4.3 to length 2
+Mon Jun 16 2014 15:55:24 GMT+0000 (UTC)  Simsimi: Why did the chicken cross the road? ==> It didn't. It got hit by a car..
+Mon Jun 16 2014 15:55:31 GMT+0000 (UTC)  Updating convid 2014061615554547-Adam-mwen-0.4.3 to length 3
+Mon Jun 16 2014 15:55:31 GMT+0000 (UTC)  Simsimi: It didn't. It got hit by a car.. ==> omg r u okay!? im sooooo srry ill care of u baby I'm so sorry if I find out who that person is im a hurt them!!!!! BC I  love you too much! and I mean it !♥♡♥♡♥♡♥♡
+Mon Jun 16 2014 15:55:38 GMT+0000 (UTC)  Updating convid 2014061615554547-Adam-mwen-0.4.3 to length 4
+Mon Jun 16 2014 15:55:38 GMT+0000 (UTC)  Using cached Simsimi: It didn't. It got hit by a car.. ==> omg r u okay!? im sooooo srry ill care of u baby I'm so sorry if I find out who that person is im a hurt them!!!!! BC I  love you too much! and I mean it !♥♡♥♡♥♡♥♡
+Mon Jun 16 2014 15:56:27 GMT+0000 (UTC)  Updating convid 2014061615554547-Adam-mwen-0.4.3 to length 5
+Mon Jun 16 2014 15:56:27 GMT+0000 (UTC)  Simsimi: <div style="display:inline-block;position:relative; font-family: &quot;Comic Sans MS&quot;, &quot;Comic Sans&quot;, doge, &quot;Marker Felt&quot;, Sans; font-size: 15px;">
+<img src="Images/doge.png" class="meme-pic" width="300" height="300">
+<div style="position:absolute;color:green;right:157.85085697844625px;top:54.50942159816623px;">WOW</div>
+<div style="position:absolute;color:maroon;right:109.31737856660038px;top:146.77980750985444px;">such it</div>
+<div style="position:absolute;color:maroon;right:136.33111979998648px;bottom:174.19150310754776px;"> so didnt</div>
+<div style="position:absolute;color:darkcyan;right:166.42751413118094px;bottom:110.78403342235833px;">much it.&nbsp;</div>
+</div> ==> HOT!!!! I love his smile
+Mon Jun 16 2014 15:57:04 GMT+0000 (UTC)  Updating convid 2014061615554547-Adam-mwen-0.4.3 to length 6
+Mon Jun 16 2014 15:57:04 GMT+0000 (UTC)  Simsimi: I see you know your doge ==> such happiness!! much enjoyment!! wow!
+Mon Jun 16 2014 16:03:25 GMT+0000 (UTC)  Adam disconnected
+Mon Jun 16 2014 17:43:19 GMT+0000 (UTC)  mwen disconnected

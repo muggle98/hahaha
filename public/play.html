@@ -1,0 +1,58 @@
+<html>
+<head>
+    <title>LoLPong</title>
+    <script type="text/ecmascript" src="Scripts/jquery-1.8.2.js"></script>
+    <script type="text/ecmascript" src="Scripts/socket.io.js"></script>
+    <script type="text/ecmascript" src="Scripts/CHATS.js"></script>
+    <script type="text/ecmascript" src="Scripts/suggest.js"></script>
+    <script type="text/ecmascript" src="Scripts/play.js"></script>
+    <script type="text/ecmascript" src="Scripts/hahaha.js"></script>
+    <script type="text/ecmascript" src="Scripts/doge.js"></script>
+    <script type="text/ecmascript" src="dic/TooSexyNouns.js"></script>
+    <script type="text/ecmascript" src="dic/LIWCSexual.js"></script>
+    <script type="text/ecmascript" src="dic/AUTOCORRECT.js"></script>
+    <link rel="stylesheet" href="Styles/play.css" />
+    <link rel="stylesheet" href="Styles/hahaha.css" />
+    <link rel="stylesheet" href="Styles/buttons.css" />
+
+</head>
+<body>
+    <audio id="ha" src="Audio/ha.wav" preload="auto"></audio>
+    <audio id="haha" src="Audio/haha.wav" preload="auto"></audio>
+    <audio id="hahaha" src="Audio/hahaha.wav" preload="auto"></audio>
+    <h3> LoLPoNG <!---<span id="version"></span>---></h3>
+    <div class="main">
+        <div class="instructions well" id="instructions">
+            <div class="close-button"
+            onclick="$('#instructions').hide()">x</div>
+            <div class="well-title"> Instructions </div>
+            <ul>
+                <li> Try to make your chat partner laugh by choosing a funny response or
+                    typing one yourself.</li>
+                <li> Click "ha", "haha" or "hahaha" if you think the
+                other person was funny.</li>
+                <li> The data you provide will help create funnier
+                    suggestions and artificially intelligent computers.</li>
+                <li> We may also show this to others or publish it, so
+                    beware of including private information.</li>
+                <li><b>Thanks and please have fun!</b></li>
+            </ul>
+        </div>
+        <div id="chat" class="chat history">
+                <div id="waitingDiv" class="my-chats button bracket green
+                                            disabled">Waiting for chat game partner...</div>
+        </div>
+        <div id="timer"></div>
+        <div>
+            <div class="instructions" id="suggestion-instructions"></div>
+            <div id="suggestion-list-free" style="display:none;">
+                <div id="suggestion-list">
+                </div>
+                <input name="custom" type="text" style="margin-left:10pt;font-size:175%" placeholder="...or type your own." id="free-text" size="60" />
+                <input type='button' value='AutoCorrect' onclick='AutoCorrect()' />
+            </div>
+        </div>
+    </div>
+    <div id="endedDiv" style="display:none">The conversation has ended. You may close the window.</div>
+</body>
+</html>

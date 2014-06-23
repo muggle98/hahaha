@@ -1,0 +1,180 @@
+                                                            Sat Feb 22 2014 07:58:28 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 07:58:28 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 07:58:30 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 07:58:30 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 07:58:30 GMT+0200 (IST)
+Waiting omer1
+                                                            Sat Feb 22 2014 07:58:37 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 07:58:38 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 07:58:38 GMT+0200 (IST)
+Creating conversation 20140222055838771-omer1-omer2-0.4.3
+                                                            Sat Feb 22 2014 07:59:21 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 07:59:22 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:00:10 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:00:12 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 08:00:13 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 08:00:13 GMT+0200 (IST)
+Waiting omer1
+                                                            Sat Feb 22 2014 08:00:17 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 08:00:17 GMT+0200 (IST)
+Creating conversation 20140222060017306-omer1-omer2-0.4.3
+                                                            Sat Feb 22 2014 08:00:24 GMT+0200 (IST)
+Updating convid 20140222060017306-omer1-omer2-0.4.3 to 
+                                                            Sat Feb 22 2014 08:00:24 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:00:32 GMT+0200 (IST)
+Updating convid 20140222060017306-omer1-omer2-0.4.3 to 
+                                                            Sat Feb 22 2014 08:00:32 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:00:38 GMT+0200 (IST)
+Updating convid 20140222060017306-omer1-omer2-0.4.3 to 
+                                                            Sat Feb 22 2014 08:00:38 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:07:33 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:07:33 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:08:37 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:08:37 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:10:31 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:10:31 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:10:36 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 08:10:36 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 08:10:36 GMT+0200 (IST)
+Waiting omer1
+                                                            Sat Feb 22 2014 08:10:38 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 08:10:39 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 08:10:39 GMT+0200 (IST)
+Creating conversation 20140222061039618-omer1-omer2-0.4.3
+                                                            Sat Feb 22 2014 08:12:08 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:12:09 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:12:09 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 08:12:10 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 08:12:10 GMT+0200 (IST)
+Waiting omer2
+                                                            Sat Feb 22 2014 08:12:12 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 08:12:13 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 08:12:13 GMT+0200 (IST)
+Creating conversation 20140222061213029-omer2-omer1-0.4.3
+                                                            Sat Feb 22 2014 08:12:16 GMT+0200 (IST)
+Disconnecting omer1
+                                                            Sat Feb 22 2014 08:12:17 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 08:12:17 GMT+0200 (IST)
+Waiting omer1
+                                                            Sat Feb 22 2014 08:12:19 GMT+0200 (IST)
+Disconnecting omer2
+                                                            Sat Feb 22 2014 08:12:20 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 08:12:20 GMT+0200 (IST)
+Creating conversation 20140222061220359-omer1-omer2-0.4.3
+                                                            Sat Feb 22 2014 08:12:21 GMT+0200 (IST)
+Disconnecting omer1
+                                                            Sat Feb 22 2014 08:12:22 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 08:12:22 GMT+0200 (IST)
+Waiting omer1
+                                                            Sat Feb 22 2014 08:12:24 GMT+0200 (IST)
+Disconnecting omer2
+                                                            Sat Feb 22 2014 08:12:25 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 08:12:25 GMT+0200 (IST)
+Creating conversation 20140222061225109-omer1-omer2-0.4.3
+                                                            Sat Feb 22 2014 08:12:26 GMT+0200 (IST)
+Disconnecting omer2
+                                                            Sat Feb 22 2014 08:12:27 GMT+0200 (IST)
+hello omer2
+                                                            Sat Feb 22 2014 08:12:27 GMT+0200 (IST)
+Waiting omer2
+                                                            Sat Feb 22 2014 08:12:28 GMT+0200 (IST)
+Disconnecting omer1
+                                                            Sat Feb 22 2014 08:12:28 GMT+0200 (IST)
+hello omer1
+                                                            Sat Feb 22 2014 08:12:28 GMT+0200 (IST)
+Creating conversation 20140222061228968-omer2-omer1-0.4.3
+                                                            Sat Feb 22 2014 08:12:34 GMT+0200 (IST)
+Disconnecting omer2
+                                                            Sat Feb 22 2014 08:12:35 GMT+0200 (IST)
+hello omer3
+                                                            Sat Feb 22 2014 08:12:35 GMT+0200 (IST)
+Waiting omer3
+                                                            Sat Feb 22 2014 08:12:37 GMT+0200 (IST)
+Disconnecting omer1
+                                                            Sat Feb 22 2014 08:12:38 GMT+0200 (IST)
+hello omer4
+                                                            Sat Feb 22 2014 08:12:38 GMT+0200 (IST)
+Creating conversation 20140222061238568-omer3-omer4-0.4.3
+                                                            Sat Feb 22 2014 08:12:54 GMT+0200 (IST)
+rlog [object Object]
+                                                            Sat Feb 22 2014 08:12:57 GMT+0200 (IST)
+hello omer3
+                                                            Sat Feb 22 2014 08:12:57 GMT+0200 (IST)
+Waiting omer3
+                                                            Sat Feb 22 2014 08:13:02 GMT+0200 (IST)
+Disconnecting before hello.
+                                                            Sat Feb 22 2014 08:13:03 GMT+0200 (IST)
+hello omer4
+                                                            Sat Feb 22 2014 08:13:03 GMT+0200 (IST)
+Creating conversation 2014022206133145-omer3-omer4-0.4.3
+                                                            Sat Feb 22 2014 08:13:08 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:08 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:13 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:13 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:17 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:17 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:20 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:20 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:23 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:23 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:28 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:28 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:36 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:36 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:13:52 GMT+0200 (IST)
+Updating convid 2014022206133145-omer3-omer4-0.4.3 to 
+                                                            Sat Feb 22 2014 08:13:52 GMT+0200 (IST)
+[object Object]
+                                                            Sat Feb 22 2014 08:21:23 GMT+0200 (IST)
+Disconnecting omer4
+                                                            Sat Feb 22 2014 08:21:31 GMT+0200 (IST)
+Disconnecting omer3

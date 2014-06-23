@@ -1,0 +1,30 @@
+Tue Mar 25 2014 01:32:07 GMT+0000 (UTC)  azureuser restarting his server.
+Tue Mar 25 2014 05:58:34 GMT+0000 (UTC)  New connection "8rJLacjgwds6LKHm3bEd"
+Tue Mar 25 2014 05:58:34 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"foo"}
+Tue Mar 25 2014 05:58:34 GMT+0000 (UTC)  Thanks for reconnecting foo. Please continue your conversation.
+Tue Mar 25 2014 05:58:34 GMT+0000 (UTC)  Updating convid 20140324140011132-foo-bar-0.4.3 to length 0
+Tue Mar 25 2014 05:58:34 GMT+0000 (UTC)  New connection "Y3IAuc1FxpGXBc5p3bEe"
+Tue Mar 25 2014 05:58:35 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"adam"}
+Tue Mar 25 2014 05:58:35 GMT+0000 (UTC)  Thanks for reconnecting adam. Please continue your conversation.
+Tue Mar 25 2014 05:58:35 GMT+0000 (UTC)  Updating convid 20140324140721142-adan-adam-0.4.3 to length 12
+Tue Mar 25 2014 10:40:05 GMT+0000 (UTC)  New connection "7FVXx2p4IL3VEnjY3bEf"
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  New connection "F1yYEqd328pC6u6c3bEg"
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"foo"}
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  Thanks for reconnecting foo. Please continue your conversation.
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  Updating convid 20140324140011132-foo-bar-0.4.3 to length 0
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"adam"}
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  Thanks for reconnecting adam. Please continue your conversation.
+Tue Mar 25 2014 10:40:06 GMT+0000 (UTC)  Updating convid 20140324140721142-adan-adam-0.4.3 to length 12
+Tue Mar 25 2014 10:41:00 GMT+0000 (UTC)  Someone disconnected before hello.
+Tue Mar 25 2014 10:41:01 GMT+0000 (UTC)  Someone disconnected before hello.
+Tue Mar 25 2014 13:27:49 GMT+0000 (UTC)  New connection "QovDvzjWoLOAERSa3bEh"
+Tue Mar 25 2014 13:27:50 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Juliana"}
+Tue Mar 25 2014 13:27:50 GMT+0000 (UTC)  Thanks for reconnecting Juliana. We are still looking for a partner for you.
+Tue Mar 25 2014 13:27:50 GMT+0000 (UTC)  waiting Juliana
+Tue Mar 25 2014 13:48:19 GMT+0000 (UTC)  Juliana disconnected
+Tue Mar 25 2014 14:21:20 GMT+0000 (UTC)  Someone disconnected before hello.
+Tue Mar 25 2014 14:21:20 GMT+0000 (UTC)  Someone disconnected before hello.
+Tue Mar 25 2014 20:23:03 GMT+0000 (UTC)  New connection "37F2douhZfPlNtuA3bEi"
+Tue Mar 25 2014 20:23:04 GMT+0000 (UTC)  hello Et
+Tue Mar 25 2014 20:23:04 GMT+0000 (UTC)  waiting Et
+Tue Mar 25 2014 20:23:10 GMT+0000 (UTC)  Et disconnected

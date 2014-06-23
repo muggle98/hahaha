@@ -1,0 +1,29 @@
+Fri Mar 21 2014 21:00:31 GMT+0000 (UTC)  waiting adam
+Fri Mar 21 2014 21:00:31 GMT+0000 (UTC)  hello adam
+Fri Mar 21 2014 21:00:58 GMT+0000 (UTC)  adam disconnected
+Fri Mar 21 2014 21:00:59 GMT+0000 (UTC)  hello adam
+Fri Mar 21 2014 21:00:59 GMT+0000 (UTC)  waiting adam
+Fri Mar 21 2014 21:01:06 GMT+0000 (UTC)  adam disconnected
+Fri Mar 21 2014 21:01:07 GMT+0000 (UTC)  hello adam
+Fri Mar 21 2014 21:01:07 GMT+0000 (UTC)  waiting adam
+Fri Mar 21 2014 21:01:22 GMT+0000 (UTC)  adam disconnected
+Fri Mar 21 2014 21:01:24 GMT+0000 (UTC)  hello adam2
+Fri Mar 21 2014 21:01:24 GMT+0000 (UTC)  waiting adam2
+Fri Mar 21 2014 21:02:00 GMT+0000 (UTC)  Someone disconnected before hello.
+Fri Mar 21 2014 21:02:01 GMT+0000 (UTC)  adam2 disconnected
+Fri Mar 21 2014 21:02:03 GMT+0000 (UTC)  hello adam2
+Fri Mar 21 2014 21:02:03 GMT+0000 (UTC)  waiting adam2
+Fri Mar 21 2014 21:02:04 GMT+0000 (UTC)  adam2 disconnected
+Fri Mar 21 2014 21:02:09 GMT+0000 (UTC)  hello foo
+Fri Mar 21 2014 21:02:09 GMT+0000 (UTC)  waiting foo
+Fri Mar 21 2014 21:02:17 GMT+0000 (UTC)  Someone disconnected before hello.
+Fri Mar 21 2014 21:02:25 GMT+0000 (UTC)  hello omer
+Fri Mar 21 2014 21:02:25 GMT+0000 (UTC)  Creating conversation 20140321210225598-foo-omer-0.4.3
+Fri Mar 21 2014 21:02:37 GMT+0000 (UTC)  Someone disconnected before hello.
+Fri Mar 21 2014 21:02:38 GMT+0000 (UTC)  Updating convid 20140321210225598-foo-omer-0.4.3 to length 1
+Fri Mar 21 2014 21:02:56 GMT+0000 (UTC)  Updating convid 20140321210225598-foo-omer-0.4.3 to length 2
+Fri Mar 21 2014 21:03:22 GMT+0000 (UTC)  Someone disconnected before hello.
+Fri Mar 21 2014 21:14:24 GMT+0000 (UTC)  Updating convid 20140321210225598-foo-omer-0.4.3 to length 3
+Fri Mar 21 2014 21:14:46 GMT+0000 (UTC)  Updating convid 20140321210225598-foo-omer-0.4.3 to length 4
+Fri Mar 21 2014 21:53:08 GMT+0000 (UTC)  foo disconnected
+Fri Mar 21 2014 22:16:55 GMT+0000 (UTC)  omer disconnected

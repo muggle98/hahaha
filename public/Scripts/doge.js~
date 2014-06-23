@@ -1,0 +1,20 @@
+﻿var doge2html = function (texts, width) {
+    function choose(list) {
+        return list[Math.floor(Math.random()*list.length)];
+    }
+    width = width || 600;
+    var fontSize = 30*parseFloat(width)/600.0;
+    var html = '<div style=\'display:inline-block;position:relative; font-family: "Comic Sans MS", "Comic Sans", doge, "Marker Felt", Sans; font-size: '+fontSize+'px;\'>\n'
+        + '<img src="http://dogr.io/doge.png" class="meme-pic" width="' + width + '" height="' + width + '" />\n';
+    texts.forEach(function (text) {
+        html += '<div style="position:absolute;';
+        html += 'color:' + choose(['darkcyan', 'turquoise', 'maroon', 'navy', 'red', 'green', 'fuchsia', 'crimson', 'indigo', 'yellow']) + ';';
+        html += choose(["left", "right"]) + ":" + (Math.random()+0.1) * width * 0.6 + "px;";
+        html += choose(["top", "bottom"]) + ":" + (Math.random()+0.1) * width * 0.6 + "px;";
+        html += '">' + text + '</div>\n';
+    });
+    html += '</div>';
+    return html;
+}
+
+if (typeof module !== 'undefined' && module.exports) exports.doge2html = doge2html; // so node server.js can read this too!

@@ -1,0 +1,59 @@
+Wed Jun 18 2014 13:02:40 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Wed Jun 18 2014 13:06:08 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Wed Jun 18 2014 14:38:05 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Wed Jun 18 2014 14:44:55 GMT-0400 (Eastern Daylight Time)  New connection "216iPozc0jQwr-nmRYe5"
+Wed Jun 18 2014 14:44:55 GMT-0400 (Eastern Daylight Time)  hello mwen
+Wed Jun 18 2014 14:44:55 GMT-0400 (Eastern Daylight Time)  waiting mwen
+Wed Jun 18 2014 14:45:08 GMT-0400 (Eastern Daylight Time)  New connection "EhzboUZ-VNI4b1ogRYe6"
+Wed Jun 18 2014 14:45:08 GMT-0400 (Eastern Daylight Time)  hello miao
+Wed Jun 18 2014 14:45:08 GMT-0400 (Eastern Daylight Time)  Creating conversation 2014061818458408-mwen-miao-0.4.3
+Wed Jun 18 2014 14:45:12 GMT-0400 (Eastern Daylight Time)  Updating convid 2014061818458408-mwen-miao-0.4.3 to length 1
+Wed Jun 18 2014 14:45:13 GMT-0400 (Eastern Daylight Time)  Simsimi: Why did the chicken cross the road? ==> to run away from onew 
+Wed Jun 18 2014 14:45:16 GMT-0400 (Eastern Daylight Time)  Updating convid 2014061818458408-mwen-miao-0.4.3 to length 2
+Wed Jun 18 2014 14:45:16 GMT-0400 (Eastern Daylight Time)  Simsimi: stop asking me that! ==> Okay, okay. What do you want me to ask you then?
+Wed Jun 18 2014 14:45:25 GMT-0400 (Eastern Daylight Time)  Updating convid 2014061818458408-mwen-miao-0.4.3 to length 3
+Wed Jun 18 2014 14:45:25 GMT-0400 (Eastern Daylight Time)  Simsimi: "stop asking me that!" your mom ==> Yes, will you be mine?
+Wed Jun 18 2014 14:45:27 GMT-0400 (Eastern Daylight Time)  Updating convid 2014061818458408-mwen-miao-0.4.3 to length 4
+Wed Jun 18 2014 14:45:27 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: "stop asking me that!" your mom ==> Yes, will you be mine?
+Wed Jun 18 2014 16:21:50 GMT-0400 (Eastern Daylight Time)  Updating convid 2014061818458408-mwen-miao-0.4.3 to length 5
+Wed Jun 18 2014 16:21:50 GMT-0400 (Eastern Daylight Time)  Simsimi: Knock Knock! ==> pasok! ;)
+Wed Jun 18 2014 16:22:13 GMT-0400 (Eastern Daylight Time)  Updating convid 2014061818458408-mwen-miao-0.4.3 to length 6
+Wed Jun 18 2014 16:22:13 GMT-0400 (Eastern Daylight Time)  Simsimi: Knock knock! ==> What Youu want?:P
+Wed Jun 18 2014 16:22:44 GMT-0400 (Eastern Daylight Time)  miao disconnected
+Wed Jun 18 2014 16:22:45 GMT-0400 (Eastern Daylight Time)  mwen disconnected
+Wed Jun 18 2014 16:23:07 GMT-0400 (Eastern Daylight Time)  New connection "yeGyAaEfm5tzF_pFRYe7"
+Wed Jun 18 2014 16:23:07 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Wed Jun 18 2014 16:23:07 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Wed Jun 18 2014 16:23:12 GMT-0400 (Eastern Daylight Time)  New connection "okCa3rUkDADgnsEdRYe8"
+Wed Jun 18 2014 16:23:12 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Wed Jun 18 2014 16:23:12 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140618202312744-mwen1-mwen2-0.4.3
+Wed Jun 18 2014 16:23:15 GMT-0400 (Eastern Daylight Time)  Updating convid 20140618202312744-mwen1-mwen2-0.4.3 to length 1
+Wed Jun 18 2014 16:23:15 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: Knock knock! ==> What Youu want?:P
+Wed Jun 18 2014 17:33:25 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Wed Jun 18 2014 17:33:27 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Wed Jun 18 2014 17:33:46 GMT-0400 (Eastern Daylight Time)  New connection "8USw0FzEUZ7oh0bGRYe9"
+Wed Jun 18 2014 17:33:46 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Wed Jun 18 2014 17:33:46 GMT-0400 (Eastern Daylight Time)  waiting mwen2
+Wed Jun 18 2014 17:34:00 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Wed Jun 18 2014 17:34:07 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Wed Jun 18 2014 17:34:23 GMT-0400 (Eastern Daylight Time)  New connection "Yjp6ZuKPnYOQM4e15rRg"
+Wed Jun 18 2014 17:34:23 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Wed Jun 18 2014 17:34:23 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Wed Jun 18 2014 17:34:36 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Wed Jun 18 2014 17:34:58 GMT-0400 (Eastern Daylight Time)  New connection "09TvhuPWDFj98P5J5rRh"
+Wed Jun 18 2014 17:34:58 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Wed Jun 18 2014 17:34:58 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Wed Jun 18 2014 17:35:06 GMT-0400 (Eastern Daylight Time)  New connection "eqWCeLvV1clfftuy5rRi"
+Wed Jun 18 2014 17:35:06 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Wed Jun 18 2014 17:35:06 GMT-0400 (Eastern Daylight Time)  Creating conversation 2014061821356642-mwen1-mwen2-0.4.3
+Wed Jun 18 2014 17:38:33 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Wed Jun 18 2014 17:38:39 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Wed Jun 18 2014 17:40:12 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Wed Jun 18 2014 17:40:35 GMT-0400 (Eastern Daylight Time)  New connection "U6y000jV1HC1XXCa7EKW"
+Wed Jun 18 2014 17:40:35 GMT-0400 (Eastern Daylight Time)  hello mwen11
+Wed Jun 18 2014 17:40:35 GMT-0400 (Eastern Daylight Time)  waiting mwen11
+Wed Jun 18 2014 17:40:43 GMT-0400 (Eastern Daylight Time)  New connection "0c87saawW6oZHK8u7EKX"
+Wed Jun 18 2014 17:40:43 GMT-0400 (Eastern Daylight Time)  hello mwen3
+Wed Jun 18 2014 17:40:43 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140618214043465-mwen11-mwen3-0.4.3
+Wed Jun 18 2014 17:41:08 GMT-0400 (Eastern Daylight Time)  Updating convid 20140618214043465-mwen11-mwen3-0.4.3 to length 1
+Wed Jun 18 2014 17:41:08 GMT-0400 (Eastern Daylight Time)  Simsimi: my wife is working ==> oh cool ur pretty

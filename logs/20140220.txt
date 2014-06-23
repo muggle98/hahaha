@@ -1,0 +1,50 @@
+                                                            Thu Feb 20 2014 19:40:15 GMT+0000 (UTC)
+hi
+                                                            Thu Feb 20 2014 19:40:33 GMT+0000 (UTC)
+hi
+                                                            Thu Feb 20 2014 19:41:05 GMT+0000 (UTC)
+hi
+                                                            Thu Feb 20 2014 19:47:22 GMT+0000 (UTC)
+hello test2
+                                                            Thu Feb 20 2014 19:47:22 GMT+0000 (UTC)
+Waiting test2
+                                                            Thu Feb 20 2014 19:47:24 GMT+0000 (UTC)
+hello test1
+                                                            Thu Feb 20 2014 19:47:24 GMT+0000 (UTC)
+Creating conversation 20140220194724762-test2-test1
+                                                            Thu Feb 20 2014 19:47:24 GMT+0000 (UTC)
+Created conversation 20140220194724762-test2-test1
+                                                            Thu Feb 20 2014 20:45:16 GMT+0000 (UTC)
+hello test1
+                                                            Thu Feb 20 2014 20:45:16 GMT+0000 (UTC)
+Waiting test1
+                                                            Thu Feb 20 2014 20:45:17 GMT+0000 (UTC)
+hello test2
+                                                            Thu Feb 20 2014 20:45:17 GMT+0000 (UTC)
+Creating conversation 20140220204517926-test1-test2
+                                                            Thu Feb 20 2014 20:45:17 GMT+0000 (UTC)
+Created conversation 20140220204517926-test1-test2
+                                                            Thu Feb 20 2014 20:53:47 GMT+0000 (UTC)
+hello Test01
+                                                            Thu Feb 20 2014 20:53:47 GMT+0000 (UTC)
+Waiting Test01
+                                                            Thu Feb 20 2014 20:54:09 GMT+0000 (UTC)
+hello Fido
+                                                            Thu Feb 20 2014 20:54:09 GMT+0000 (UTC)
+Creating conversation 2014022020549453-Test01-Fido
+                                                            Thu Feb 20 2014 20:54:22 GMT+0000 (UTC)
+Updating convid 2014022020549453-Test01-Fido to 
+                                                            Thu Feb 20 2014 20:54:22 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 20:54:29 GMT+0000 (UTC)
+Updating convid 2014022020549453-Test01-Fido to 
+                                                            Thu Feb 20 2014 20:54:29 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 20:54:37 GMT+0000 (UTC)
+Updating convid 2014022020549453-Test01-Fido to 
+                                                            Thu Feb 20 2014 20:54:37 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 21:45:29 GMT+0000 (UTC)
+Updating convid 2014022020549453-Test01-Fido to 
+                                                            Thu Feb 20 2014 21:45:29 GMT+0000 (UTC)
+[object Object]

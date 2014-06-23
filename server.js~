@@ -1,0 +1,140 @@
+﻿var exec = require('child_process').exec;
+var fs = require('fs');
+var express = require('express');
+var app = express();
+var server = require('http').createServer(app);
+var io = require('socket.io').listen(server); io.set('log level', 1);
+var version = require(__dirname + '/public/Scripts/hahaha.js').version;
+var doge = require('./public/Scripts/doge.js');
+var url = require('url');
+
+var waiting = null;
+
+var convs = {};
+var sockets = {};
+var partners = {};
+
+var prefix = (process.env.USER || process.env.USERNAME);
+if (prefix === "azureuser") prefix = "";
+
+function log(msg) { // log a message to the console and to the log
+    console.log(msg);
+    date = new Date();
+    var filename = __dirname + "/logs/"+ prefix + date.getUTCFullYear() + pad0(date.getUTCMonth()+1, 2) + pad0(date.getUTCDate(), 2) + ".txt"; 
+    msg = "                                                            " + new Date() + "\n" + msg;
+    if (msg[msg.length - 1] != "\n") msg = msg + "\n";
+    fs.appendFile(filename, msg, function (err) { if (err) { console.log("Failed to log, error:"); console.log(err); } });
+}
+
+function pad0(n, len) { // pad an integer to be length n
+    n = n + "";
+    while (n.length < len) n = "0" + n;
+    return n;
+}
+
+function newConv(wid0, wid1) { // for now just 2 people
+    var date = new Date();
+    var id = date.getUTCFullYear() + pad0(date.getUTCMonth() + 1, 2) + pad0(date.getUTCDate(), 2) + pad0(date.getUTCHours(), 2) + pad0(date.getUTCMinutes(), 2) + pad0(date.getUTCSeconds(), 0) + pad0(date.getUTCMilliseconds(), 3) + "-" + wid0 + "-" + wid1 + "-" + version;
+    var conv = {
+        id: id,
+        wid0: wid0,
+        wid1: wid1,
+        msgs: [],
+        startMS: new Date().getTime(),
+        elapsedMS: 0
+    };
+    log("Creating conversation " + conv.id);
+    return conv;
+}
+
+// ---------------------------------------------------------------------------------------------------------
+// Server stuff
+// ---------------------------------------------------------------------------------------------------------
+ 
+server.listen(3000);
+ 
+ 
+app.get('/doge.html', function (req, res) {
+    var query = url.parse(req.url, true).query;
+    res.send(doge.doge2html((query && query.texts || 'very generate, little AI, wow').split(/,\s*/g))
+        + "<div><form action='doge.html'><input placeholder='very generate, little AI, wow' value='" + (query && query.texts || "") + "' name='texts' style='width:600px;' /><br /><input type='submit' value='wow' /></form></div>");
+});
+
+
+app.get('/god.html', function (req, res) {
+    child = exec('python private/collect.py',
+        function (error, stdout, stderr) {
+            console.log('stdout: ' + stdout);
+            console.log('stderr: ' + stderr);
+                if (error !== null) {
+                res.send('exec error: ' + error);
+                return;
+            }
+            fs.readFile('public/god.html', function (err, data) {
+                res.end(data);
+            });
+        });
+});
+
+app.use('/', express.static(__dirname + '/public'));
+
+
+io.sockets.on('connection', function (socket) {    
+    socket.on('hello', function (data) {
+        var wid = data.wid;
+        log("hello " + wid);
+        sockets[wid] = socket;
+        if (waiting !== null && waiting !== wid) {
+            var conv = newConv(waiting, wid);
+            partners[wid] = waiting;
+            partners[waiting] = wid;
+            convs[conv.id] = conv;
+            var toSend = { conv: conv };
+            socket.emit("hello", toSend);
+            sockets[waiting].emit("hello", toSend);
+            waiting = null;
+        } else {
+            waiting = wid;
+            log("Waiting " + wid);
+        }
+        socket.wid = wid;
+    });
+    socket.on('speak', function (data) {
+        var conv = data.conv;
+        var convid = data.convid;    
+        convs[convid] = conv;
+        log("Updating convid " + convid + " to ");
+        log(conv);
+        if (conv.startMS) conv.elapsedMS = new Date().getTime() - conv.startMS;
+        var otherwid = (conv.wid0 === data.wid) ? conv.wid1 : conv.wid0;
+        sockets[otherwid].emit("update", { conv: conv });
+        fs.writeFile(__dirname + "/chats/" + prefix + convid + ".json", JSON.stringify(conv), function (err) { if (err) { log("Error writing chat"); log(err); } });
+    });
+    socket.on('giveUp', function (data) {
+        var wid = data.wid;
+        if (waiting === wid) {
+            log("giveUp: " + wid);
+            waiting = null;
+        } else {
+            log("giveUp*: " + wid + "\n* But we weren't waiting for them anyway.");
+        }
+    });
+
+    socket.on('disconnect', function () {
+        if (socket.wid) {
+            log("Disconnecting " + socket.wid);
+            delete sockets[socket.wid];
+            if (socket.wid === waiting) waiting = null;
+        } else {
+            log("Disconnecting before hello.");
+        }
+        if (partners[socket.wid] && sockets[partners[socket.wid]]) {
+            sockets[partners[socket.wid]].emit("partnerLeft", {});
+        }
+    });
+
+    socket.on('rlog', function (data) {
+        log("rlog " + data);
+    });
+});
+

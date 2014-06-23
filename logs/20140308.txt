@@ -1,0 +1,4 @@
+Sat Mar 08 2014 00:07:53 GMT+0000 (UTC)  Someone disconnected before hello.
+Sat Mar 08 2014 00:07:56 GMT+0000 (UTC)  Thanks for reconnecting Bill. Please continue your conversation.
+Sat Mar 08 2014 00:07:56 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bill"}
+Sat Mar 08 2014 00:07:56 GMT+0000 (UTC)  Updating convid 20140307212726674-Bill-Adam-0.4.3 to length 2

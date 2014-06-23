@@ -1,0 +1,742 @@
+                                                            Wed Mar 05 2014 16:00:53 GMT-0800 (PST)
+Disconnecting x
+                                                            Wed Mar 05 2014 16:00:54 GMT-0800 (PST)
+hello x
+                                                            Wed Mar 05 2014 16:00:54 GMT-0800 (PST)
+Waiting x
+                                                            Wed Mar 05 2014 16:00:57 GMT-0800 (PST)
+Disconnecting y
+                                                            Wed Mar 05 2014 16:00:58 GMT-0800 (PST)
+hello y
+                                                            Wed Mar 05 2014 16:00:58 GMT-0800 (PST)
+Creating conversation 20140306000058052-x-y-0.4.3
+                                                            Wed Mar 05 2014 16:01:01 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:01 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:03 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:03 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:05 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:05 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:10 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:10 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:13 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:13 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:16 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:16 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:18 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:18 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:22 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:22 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:01:24 GMT-0800 (PST)
+Updating convid 20140306000058052-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:01:24 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:02:57 GMT-0800 (PST)
+Disconnecting x
+                                                            Wed Mar 05 2014 16:02:58 GMT-0800 (PST)
+hello x
+                                                            Wed Mar 05 2014 16:02:58 GMT-0800 (PST)
+Waiting x
+                                                            Wed Mar 05 2014 16:02:58 GMT-0800 (PST)
+Disconnecting y
+                                                            Wed Mar 05 2014 16:02:59 GMT-0800 (PST)
+hello y
+                                                            Wed Mar 05 2014 16:02:59 GMT-0800 (PST)
+Creating conversation 20140306000259835-x-y-0.4.3
+                                                            Wed Mar 05 2014 16:03:02 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:02 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:04 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:04 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:05 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:05 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:06 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:06 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:08 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:08 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:10 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:10 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:12 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:12 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:13 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:13 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:03:15 GMT-0800 (PST)
+Updating convid 20140306000259835-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:03:15 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:06:39 GMT-0800 (PST)
+Disconnecting x
+                                                            Wed Mar 05 2014 16:06:40 GMT-0800 (PST)
+hello x
+                                                            Wed Mar 05 2014 16:06:40 GMT-0800 (PST)
+Waiting x
+                                                            Wed Mar 05 2014 16:06:40 GMT-0800 (PST)
+Disconnecting y
+                                                            Wed Mar 05 2014 16:06:41 GMT-0800 (PST)
+hello y
+                                                            Wed Mar 05 2014 16:06:41 GMT-0800 (PST)
+Creating conversation 20140306000641517-x-y-0.4.3
+                                                            Wed Mar 05 2014 16:06:43 GMT-0800 (PST)
+Updating convid 20140306000641517-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:06:43 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:06:45 GMT-0800 (PST)
+Updating convid 20140306000641517-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:06:45 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:06:47 GMT-0800 (PST)
+Updating convid 20140306000641517-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:06:47 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:06:49 GMT-0800 (PST)
+Updating convid 20140306000641517-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:06:49 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:07:35 GMT-0800 (PST)
+Disconnecting x
+                                                            Wed Mar 05 2014 16:07:36 GMT-0800 (PST)
+hello x
+                                                            Wed Mar 05 2014 16:07:36 GMT-0800 (PST)
+Waiting x
+                                                            Wed Mar 05 2014 16:07:37 GMT-0800 (PST)
+Disconnecting y
+                                                            Wed Mar 05 2014 16:07:37 GMT-0800 (PST)
+hello y
+                                                            Wed Mar 05 2014 16:07:37 GMT-0800 (PST)
+Creating conversation 20140306000737962-x-y-0.4.3
+                                                            Wed Mar 05 2014 16:07:39 GMT-0800 (PST)
+Updating convid 20140306000737962-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:07:39 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 16:07:42 GMT-0800 (PST)
+Updating convid 20140306000737962-x-y-0.4.3 to 
+                                                            Wed Mar 05 2014 16:07:42 GMT-0800 (PST)
+[object Object]
+                                                            Wed Mar 05 2014 18:50:53 GMT-0800 (PST)
+Disconnecting y
+                                                            Wed Mar 05 2014 21:35:13 GMT-0800 (PST)
+Disconnecting x
+                                                            Thu Mar 06 2014 10:59:54 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 10:59:54 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 11:00:10 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 11:00:10 GMT-0800 (PST)
+Creating conversation 20140306190010371-omer1-omer2-0.4.3
+                                                            Thu Mar 06 2014 11:00:13 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:13 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:00:16 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:16 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:00:20 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:20 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:00:40 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:40 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:00:43 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:43 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:00:53 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:53 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:00:59 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:00:59 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:01:02 GMT-0800 (PST)
+Updating convid 20140306190010371-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:01:02 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:09 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 11:03:10 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 11:03:10 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 11:03:12 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 11:03:13 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 11:03:13 GMT-0800 (PST)
+Creating conversation 20140306190313529-omer1-omer2-0.4.3
+                                                            Thu Mar 06 2014 11:03:16 GMT-0800 (PST)
+Updating convid 20140306190313529-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 11:03:16 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:19 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 11:03:20 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 11:03:20 GMT-0800 (PST)
+Waiting omer2
+                                                            Thu Mar 06 2014 11:03:21 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 11:03:22 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 11:03:22 GMT-0800 (PST)
+Creating conversation 20140306190322319-omer2-omer1-0.4.3
+                                                            Thu Mar 06 2014 11:03:27 GMT-0800 (PST)
+Updating convid 20140306190322319-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 11:03:27 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:29 GMT-0800 (PST)
+Updating convid 20140306190322319-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 11:03:29 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:32 GMT-0800 (PST)
+Updating convid 20140306190322319-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 11:03:32 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:37 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 11:03:37 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 11:03:37 GMT-0800 (PST)
+Waiting omer2
+                                                            Thu Mar 06 2014 11:03:40 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 11:03:40 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 11:03:40 GMT-0800 (PST)
+Creating conversation 20140306190340859-omer2-omer1-0.4.3
+                                                            Thu Mar 06 2014 11:03:49 GMT-0800 (PST)
+Updating convid 20140306190340859-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 11:03:49 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:51 GMT-0800 (PST)
+Updating convid 20140306190340859-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 11:03:51 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:03:58 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 11:03:58 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:03:58 GMT-0800 (PST)
+Waiting omer3
+                                                            Thu Mar 06 2014 11:04:00 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 11:04:01 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:04:01 GMT-0800 (PST)
+Creating conversation 2014030619041492-omer3-omer4-0.4.3
+                                                            Thu Mar 06 2014 11:04:04 GMT-0800 (PST)
+Updating convid 2014030619041492-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:04 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:37 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:04:38 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:04:38 GMT-0800 (PST)
+Waiting omer3
+                                                            Thu Mar 06 2014 11:04:39 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:04:40 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:04:40 GMT-0800 (PST)
+Creating conversation 20140306190440272-omer3-omer4-0.4.3
+                                                            Thu Mar 06 2014 11:04:44 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:44 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:46 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:46 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:50 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:50 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:51 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:51 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:53 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:53 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:55 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:55 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:56 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:56 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:04:58 GMT-0800 (PST)
+Updating convid 20140306190440272-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:04:58 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:06:07 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:06:08 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:06:08 GMT-0800 (PST)
+Waiting omer4
+                                                            Thu Mar 06 2014 11:06:11 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:06:12 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:06:12 GMT-0800 (PST)
+Creating conversation 20140306190612550-omer4-omer3-0.4.3
+                                                            Thu Mar 06 2014 11:06:15 GMT-0800 (PST)
+Updating convid 20140306190612550-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:06:15 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:06:17 GMT-0800 (PST)
+Updating convid 20140306190612550-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:06:17 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:07:10 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:07:11 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:07:11 GMT-0800 (PST)
+Waiting omer3
+                                                            Thu Mar 06 2014 11:07:13 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:07:14 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:07:14 GMT-0800 (PST)
+Creating conversation 20140306190714251-omer3-omer4-0.4.3
+                                                            Thu Mar 06 2014 11:07:16 GMT-0800 (PST)
+Updating convid 20140306190714251-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:07:16 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:07:19 GMT-0800 (PST)
+Updating convid 20140306190714251-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:07:19 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:09:30 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:09:30 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:09:30 GMT-0800 (PST)
+Waiting omer3
+                                                            Thu Mar 06 2014 11:09:31 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:09:32 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:09:32 GMT-0800 (PST)
+Creating conversation 20140306190932189-omer3-omer4-0.4.3
+                                                            Thu Mar 06 2014 11:09:34 GMT-0800 (PST)
+Updating convid 20140306190932189-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:09:34 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:09:36 GMT-0800 (PST)
+Updating convid 20140306190932189-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:09:36 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:09:38 GMT-0800 (PST)
+Updating convid 20140306190932189-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:09:38 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:09:40 GMT-0800 (PST)
+Updating convid 20140306190932189-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:09:40 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:10:45 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:10:46 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:10:46 GMT-0800 (PST)
+Waiting omer4
+                                                            Thu Mar 06 2014 11:10:46 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:10:47 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:10:47 GMT-0800 (PST)
+Creating conversation 20140306191047506-omer4-omer3-0.4.3
+                                                            Thu Mar 06 2014 11:10:48 GMT-0800 (PST)
+Updating convid 20140306191047506-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:10:48 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:10:50 GMT-0800 (PST)
+Updating convid 20140306191047506-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:10:50 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:10:51 GMT-0800 (PST)
+Updating convid 20140306191047506-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:10:51 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:10:52 GMT-0800 (PST)
+Updating convid 20140306191047506-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:10:52 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:10:53 GMT-0800 (PST)
+Updating convid 20140306191047506-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:10:53 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:11:00 GMT-0800 (PST)
+Updating convid 20140306191047506-omer4-omer3-0.4.3 to 
+                                                            Thu Mar 06 2014 11:11:00 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:11:08 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:11:08 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:11:08 GMT-0800 (PST)
+Waiting omer3
+                                                            Thu Mar 06 2014 11:11:12 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:11:13 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:11:13 GMT-0800 (PST)
+Creating conversation 20140306191113416-omer3-omer4-0.4.3
+                                                            Thu Mar 06 2014 11:11:15 GMT-0800 (PST)
+Updating convid 20140306191113416-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:11:15 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:11:17 GMT-0800 (PST)
+Updating convid 20140306191113416-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:11:17 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:11:19 GMT-0800 (PST)
+Updating convid 20140306191113416-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:11:19 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:11:49 GMT-0800 (PST)
+Updating convid 20140306191113416-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:11:49 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:13:54 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 11:13:54 GMT-0800 (PST)
+hello omer3
+                                                            Thu Mar 06 2014 11:13:54 GMT-0800 (PST)
+Waiting omer3
+                                                            Thu Mar 06 2014 11:13:57 GMT-0800 (PST)
+Disconnecting omer4
+                                                            Thu Mar 06 2014 11:13:58 GMT-0800 (PST)
+hello omer4
+                                                            Thu Mar 06 2014 11:13:58 GMT-0800 (PST)
+Creating conversation 20140306191358034-omer3-omer4-0.4.3
+                                                            Thu Mar 06 2014 11:14:00 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:14:00 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:14:01 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:14:01 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:14:02 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:14:02 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:14:26 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:14:26 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:14:44 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:14:44 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:15:35 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:15:35 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 11:15:43 GMT-0800 (PST)
+Updating convid 20140306191358034-omer3-omer4-0.4.3 to 
+                                                            Thu Mar 06 2014 11:15:43 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:23:54 GMT-0800 (PST)
+Disconnecting omer3
+                                                            Thu Mar 06 2014 14:27:15 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 14:27:41 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 14:28:07 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 14:43:20 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 14:43:20 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 14:43:27 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 14:43:27 GMT-0800 (PST)
+Creating conversation 20140306224327501-omer1-omer2-0.4.3
+                                                            Thu Mar 06 2014 14:43:29 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:29 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:30 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:30 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:31 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:31 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:33 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:33 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:34 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:34 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:36 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:36 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:37 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:37 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:43:41 GMT-0800 (PST)
+Updating convid 20140306224327501-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:43:41 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:47:25 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 14:47:26 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 14:47:26 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 14:48:31 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 14:48:33 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 14:48:33 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 14:48:34 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 14:48:35 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 14:48:35 GMT-0800 (PST)
+Creating conversation 20140306224835213-omer1-omer2-0.4.3
+                                                            Thu Mar 06 2014 14:48:37 GMT-0800 (PST)
+Updating convid 20140306224835213-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:48:37 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:48:39 GMT-0800 (PST)
+Updating convid 20140306224835213-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:48:39 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:48:41 GMT-0800 (PST)
+Updating convid 20140306224835213-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:48:41 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:00 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 14:49:02 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 14:49:03 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 14:49:04 GMT-0800 (PST)
+Disconnecting before hello.
+                                                            Thu Mar 06 2014 14:49:04 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 14:49:04 GMT-0800 (PST)
+Waiting omer2
+                                                            Thu Mar 06 2014 14:49:07 GMT-0800 (PST)
+Disconnecting before hello.
+                                                            Thu Mar 06 2014 14:49:07 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 14:49:07 GMT-0800 (PST)
+Creating conversation 2014030622497921-omer2-omer1-0.4.3
+                                                            Thu Mar 06 2014 14:49:10 GMT-0800 (PST)
+Updating convid 2014030622497921-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:10 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:11 GMT-0800 (PST)
+Updating convid 2014030622497921-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:11 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:12 GMT-0800 (PST)
+Updating convid 2014030622497921-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:12 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:26 GMT-0800 (PST)
+Updating convid 2014030622497921-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:26 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:50 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 14:49:51 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 14:49:51 GMT-0800 (PST)
+Waiting omer2
+                                                            Thu Mar 06 2014 14:49:53 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 14:49:53 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 14:49:53 GMT-0800 (PST)
+Creating conversation 20140306224953838-omer2-omer1-0.4.3
+                                                            Thu Mar 06 2014 14:49:55 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:55 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:56 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:56 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:57 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:57 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:49:58 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:49:58 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:01 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:01 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:02 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:02 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:04 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:04 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:08 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:08 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:09 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:09 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:12 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:12 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:14 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:14 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:16 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:16 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:18 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:18 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:25 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:25 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:50:33 GMT-0800 (PST)
+Updating convid 20140306224953838-omer2-omer1-0.4.3 to 
+                                                            Thu Mar 06 2014 14:50:33 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:51:54 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 14:51:54 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 14:51:54 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 14:51:56 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 14:51:57 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 14:51:57 GMT-0800 (PST)
+Creating conversation 20140306225157665-omer1-omer2-0.4.3
+                                                            Thu Mar 06 2014 14:52:01 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:01 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:02 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:02 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:04 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:04 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:06 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:06 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:13 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:13 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:16 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:16 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:19 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:19 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:21 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:21 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:52:24 GMT-0800 (PST)
+Updating convid 20140306225157665-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 14:52:24 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 14:53:45 GMT-0800 (PST)
+Disconnecting omer1
+                                                            Thu Mar 06 2014 14:53:53 GMT-0800 (PST)
+Disconnecting omer2
+                                                            Thu Mar 06 2014 15:10:54 GMT-0800 (PST)
+rlog [object Object]
+                                                            Thu Mar 06 2014 15:13:34 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 15:13:34 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 15:13:40 GMT-0800 (PST)
+hello omerr2
+                                                            Thu Mar 06 2014 15:13:40 GMT-0800 (PST)
+Creating conversation 20140306231340902-omer1-omerr2-0.4.3
+                                                            Thu Mar 06 2014 15:13:43 GMT-0800 (PST)
+Updating convid 20140306231340902-omer1-omerr2-0.4.3 to 
+                                                            Thu Mar 06 2014 15:13:43 GMT-0800 (PST)
+[object Object]
+                                                            Thu Mar 06 2014 15:39:39 GMT-0800 (PST)
+hello omer1
+                                                            Thu Mar 06 2014 15:39:39 GMT-0800 (PST)
+Waiting omer1
+                                                            Thu Mar 06 2014 15:39:46 GMT-0800 (PST)
+hello omer2
+                                                            Thu Mar 06 2014 15:39:46 GMT-0800 (PST)
+Creating conversation 20140306233946127-omer1-omer2-0.4.3
+                                                            Thu Mar 06 2014 15:39:49 GMT-0800 (PST)
+Updating convid 20140306233946127-omer1-omer2-0.4.3 to 
+                                                            Thu Mar 06 2014 15:39:49 GMT-0800 (PST)
+[object Object]

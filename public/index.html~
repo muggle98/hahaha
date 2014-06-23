@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>TurkTalk</title>
+    <link rel="stylesheet" href="Styles/hahaha.css" />
+    <link rel="stylesheet" href="Styles/buttons.css" />
+</head>
+<body>
+    <h3>TurkTalk</h3>
+    <div class="main">
+        <div class="login well">
+            <div class="instructions">Please enter your MTurk worker ID</div>
+            <br>
+            <br>
+            <div class="form">
+                <form method="get" action="play.html">
+                    <input size="20" name="wid" />
+                    <br>
+                    <input type="submit" class = "button blue brackets" value="Submit" />
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,328 @@
+                                                            Thu Feb 20 2014 09:42:05 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 09:42:13 GMT+0000 (UTC)
+START: joe
+                                                            Thu Feb 20 2014 09:42:13 GMT+0000 (UTC)
+Creating conversation 20140120094213558-Adam-joe
+                                                            Thu Feb 20 2014 09:42:23 GMT+0000 (UTC)
+Updating convid 20140120094213558-Adam-joe to 
+                                                            Thu Feb 20 2014 09:42:23 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:42:27 GMT+0000 (UTC)
+Updating convid 20140120094213558-Adam-joe to 
+                                                            Thu Feb 20 2014 09:42:27 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:42:32 GMT+0000 (UTC)
+Updating convid 20140120094213558-Adam-joe to 
+                                                            Thu Feb 20 2014 09:42:32 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:42:54 GMT+0000 (UTC)
+Updating convid 20140120094213558-Adam-joe to 
+                                                            Thu Feb 20 2014 09:42:54 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:28 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 09:43:31 GMT+0000 (UTC)
+START: joe
+                                                            Thu Feb 20 2014 09:43:31 GMT+0000 (UTC)
+Creating conversation 20140120094331908-Adam-joe
+                                                            Thu Feb 20 2014 09:43:34 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:34 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:38 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:38 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:40 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:40 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:42 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:42 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:44 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:44 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:45 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:45 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:47 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:47 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:43:51 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:43:51 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:44:01 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:44:01 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:44:04 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:44:04 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:44:10 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:44:10 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:44:12 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:44:12 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:44:18 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:44:18 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:50:59 GMT+0000 (UTC)
+START: 
+                                                            Thu Feb 20 2014 09:51:36 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 09:51:36 GMT+0000 (UTC)
+Creating conversation 20140120095136732--Adam
+                                                            Thu Feb 20 2014 09:51:42 GMT+0000 (UTC)
+Updating convid 20140120095136732--Adam to 
+                                                            Thu Feb 20 2014 09:51:42 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:51:45 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 09:52:04 GMT+0000 (UTC)
+START: goo
+                                                            Thu Feb 20 2014 09:52:04 GMT+0000 (UTC)
+Creating conversation 2014012009524501-Adam-goo
+                                                            Thu Feb 20 2014 09:52:06 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 09:52:16 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 09:54:04 GMT+0000 (UTC)
+START: goo
+                                                            Thu Feb 20 2014 09:54:04 GMT+0000 (UTC)
+Creating conversation 2014012009544909-Adam-goo
+                                                            Thu Feb 20 2014 09:57:08 GMT+0000 (UTC)
+START: goo
+                                                            Thu Feb 20 2014 09:57:40 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 09:57:40 GMT+0000 (UTC)
+Creating conversation 20140120095740097-goo-Fido
+                                                            Thu Feb 20 2014 09:57:42 GMT+0000 (UTC)
+Updating convid 20140120094331908-Adam-joe to 
+                                                            Thu Feb 20 2014 09:57:42 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 09:57:44 GMT+0000 (UTC)
+START: joe
+                                                            Thu Feb 20 2014 09:57:57 GMT+0000 (UTC)
+START: joe
+                                                            Thu Feb 20 2014 09:58:09 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 09:58:09 GMT+0000 (UTC)
+Creating conversation 2014012009589191-joe-Fido
+                                                            Thu Feb 20 2014 09:58:14 GMT+0000 (UTC)
+Updating convid 2014012009589191-joe-Fido to 
+                                                            Thu Feb 20 2014 09:58:14 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:10:24 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 10:11:15 GMT+0000 (UTC)
+giveUp: Fido
+                                                            Thu Feb 20 2014 10:11:53 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 10:12:12 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:12:12 GMT+0000 (UTC)
+Creating conversation 20140120101212974-Fido-Joen
+                                                            Thu Feb 20 2014 10:12:41 GMT+0000 (UTC)
+Updating convid 20140120101212974-Fido-Joen to 
+                                                            Thu Feb 20 2014 10:12:41 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:12:47 GMT+0000 (UTC)
+Updating convid 20140120101212974-Fido-Joen to 
+                                                            Thu Feb 20 2014 10:12:47 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:14:19 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 10:14:33 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:14:33 GMT+0000 (UTC)
+Creating conversation 20140120101433387-Fido-Joen
+                                                            Thu Feb 20 2014 10:14:45 GMT+0000 (UTC)
+Updating convid 20140120101433387-Fido-Joen to 
+                                                            Thu Feb 20 2014 10:14:45 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:15:03 GMT+0000 (UTC)
+Updating convid 20140120101433387-Fido-Joen to 
+                                                            Thu Feb 20 2014 10:15:03 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:16:45 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:16:50 GMT+0000 (UTC)
+Updating convid 20140120101433387-Fido-Joen to 
+                                                            Thu Feb 20 2014 10:16:50 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:16:51 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:16:53 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 10:16:53 GMT+0000 (UTC)
+Creating conversation 20140120101653430-Joen-Fido
+                                                            Thu Feb 20 2014 10:17:04 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:17:09 GMT+0000 (UTC)
+START: Fido
+                                                            Thu Feb 20 2014 10:17:09 GMT+0000 (UTC)
+Creating conversation 2014012010179783-Joen-Fido
+                                                            Thu Feb 20 2014 10:17:20 GMT+0000 (UTC)
+Updating convid 2014012010179783-Joen-Fido to 
+                                                            Thu Feb 20 2014 10:17:20 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:17:36 GMT+0000 (UTC)
+giveUp*: Adam
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 10:17:36 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:17:39 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:17:43 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:17:43 GMT+0000 (UTC)
+Creating conversation 20140120101743412-Adam-Joen
+                                                            Thu Feb 20 2014 10:18:33 GMT+0000 (UTC)
+giveUp*: Joen
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 10:20:48 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:20:52 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:20:52 GMT+0000 (UTC)
+Creating conversation 20140120102052179-Joen-Adam
+                                                            Thu Feb 20 2014 10:20:57 GMT+0000 (UTC)
+Updating convid 20140120102052179-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:20:57 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:21:00 GMT+0000 (UTC)
+Updating convid 20140120102052179-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:21:00 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:21:03 GMT+0000 (UTC)
+Updating convid 20140120102052179-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:21:03 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:21:16 GMT+0000 (UTC)
+Updating convid 20140120102052179-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:21:16 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:22:04 GMT+0000 (UTC)
+Updating convid 20140120102052179-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:22:04 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:35:40 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:36:06 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:36:06 GMT+0000 (UTC)
+Creating conversation 2014012010366019-Adam-Joen
+                                                            Thu Feb 20 2014 10:36:13 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:36:20 GMT+0000 (UTC)
+Updating convid 2014012010366019-Adam-Joen to 
+                                                            Thu Feb 20 2014 10:36:20 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:36:52 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:37:36 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:37:36 GMT+0000 (UTC)
+Creating conversation 20140120103736000-Joen-Adam
+                                                            Thu Feb 20 2014 10:38:26 GMT+0000 (UTC)
+giveUp*: Adam
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 10:39:19 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:39:21 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:39:21 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:39:21 GMT+0000 (UTC)
+Creating conversation 20140120103921636-Joen-Adam
+                                                            Thu Feb 20 2014 10:39:21 GMT+0000 (UTC)
+giveUp*: Adam
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 10:40:03 GMT+0000 (UTC)
+START: Joen
+                                                            Thu Feb 20 2014 10:40:06 GMT+0000 (UTC)
+START: Adam
+                                                            Thu Feb 20 2014 10:40:06 GMT+0000 (UTC)
+Creating conversation 2014012010406096-Joen-Adam
+                                                            Thu Feb 20 2014 10:40:24 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:24 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:28 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:28 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:30 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:30 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:32 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:32 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:36 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:36 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:44 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:44 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:50 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:50 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:53 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:53 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:40:57 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:40:57 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:41:01 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:41:01 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:41:03 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:41:03 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:41:06 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:41:06 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 10:41:08 GMT+0000 (UTC)
+Updating convid 2014012010406096-Joen-Adam to 
+                                                            Thu Feb 20 2014 10:41:08 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 11:21:47 GMT+0000 (UTC)
+START: yair
+                                                            Thu Feb 20 2014 11:21:50 GMT+0000 (UTC)
+START: omer
+                                                            Thu Feb 20 2014 11:21:50 GMT+0000 (UTC)
+Creating conversation 20140120112150030-yair-omer
+                                                            Thu Feb 20 2014 11:21:59 GMT+0000 (UTC)
+Updating convid 20140120112150030-yair-omer to 
+                                                            Thu Feb 20 2014 11:21:59 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 11:22:03 GMT+0000 (UTC)
+Updating convid 20140120112150030-yair-omer to 
+                                                            Thu Feb 20 2014 11:22:03 GMT+0000 (UTC)
+[object Object]
+                                                            Thu Feb 20 2014 11:22:36 GMT+0000 (UTC)
+Updating convid 20140120112150030-yair-omer to 
+                                                            Thu Feb 20 2014 11:22:36 GMT+0000 (UTC)
+[object Object]

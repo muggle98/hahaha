@@ -1,0 +1,1295 @@
+                                                            Wed Feb 19 2014 09:46:14 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:46:29 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:46:29 GMT+0200 (IST)
+Creating conversation 20140119074629932-omer-adam
+                                                            Wed Feb 19 2014 09:46:32 GMT+0200 (IST)
+Updating convid 20140119074629932-omer-adam to 
+                                                            Wed Feb 19 2014 09:46:32 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:46:39 GMT+0200 (IST)
+Updating convid 20140119074629932-omer-adam to 
+                                                            Wed Feb 19 2014 09:46:39 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:46:47 GMT+0200 (IST)
+Updating convid 20140119074629932-omer-adam to 
+                                                            Wed Feb 19 2014 09:46:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:46:49 GMT+0200 (IST)
+Updating convid 20140119074629932-omer-adam to 
+                                                            Wed Feb 19 2014 09:46:49 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:48:49 GMT+0200 (IST)
+Updating convid 20140119074629932-omer-adam to 
+                                                            Wed Feb 19 2014 09:48:49 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:49:53 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:04 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:04 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:19 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:19 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:40 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:40 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:52 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:50:53 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:51:03 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:51:04 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:51:54 GMT+0200 (IST)
+giveUp: adam
+                                                            Wed Feb 19 2014 09:52:37 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:52:42 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:52:42 GMT+0200 (IST)
+Creating conversation 20140119075242094-omer-adam
+                                                            Wed Feb 19 2014 09:52:50 GMT+0200 (IST)
+Updating convid 20140119075242094-omer-adam to 
+                                                            Wed Feb 19 2014 09:52:50 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:53:14 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:53:16 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:53:16 GMT+0200 (IST)
+Creating conversation 20140119075316031-adam-omer
+                                                            Wed Feb 19 2014 09:53:21 GMT+0200 (IST)
+Updating convid 20140119075316031-adam-omer to 
+                                                            Wed Feb 19 2014 09:53:21 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:53:24 GMT+0200 (IST)
+Updating convid 20140119075316031-adam-omer to 
+                                                            Wed Feb 19 2014 09:53:24 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:53:27 GMT+0200 (IST)
+Updating convid 20140119075316031-adam-omer to 
+                                                            Wed Feb 19 2014 09:53:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:53:52 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:53:54 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:53:54 GMT+0200 (IST)
+Creating conversation 20140119075354744-omer-adam
+                                                            Wed Feb 19 2014 09:54:11 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:54:12 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:12 GMT+0200 (IST)
+Creating conversation 20140119075412236-adam-omer
+                                                            Wed Feb 19 2014 09:54:14 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:54:16 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:54:16 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:54:17 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:17 GMT+0200 (IST)
+Creating conversation 20140119075417731-adam-omer
+                                                            Wed Feb 19 2014 09:54:18 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:19 GMT+0200 (IST)
+Updating convid 20140119075417731-adam-omer to 
+                                                            Wed Feb 19 2014 09:54:19 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:54:26 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:27 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:29 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:30 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:54:32 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:54:32 GMT+0200 (IST)
+Creating conversation 20140119075432070-omer-adam
+                                                            Wed Feb 19 2014 09:54:33 GMT+0200 (IST)
+Updating convid 20140119075432070-omer-adam to 
+                                                            Wed Feb 19 2014 09:54:33 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:54:35 GMT+0200 (IST)
+Updating convid 20140119075432070-omer-adam to 
+                                                            Wed Feb 19 2014 09:54:35 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:54:37 GMT+0200 (IST)
+Updating convid 20140119075432070-omer-adam to 
+                                                            Wed Feb 19 2014 09:54:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:55:16 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:55:17 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:55:17 GMT+0200 (IST)
+Creating conversation 20140119075517822-omer-adam
+                                                            Wed Feb 19 2014 09:55:27 GMT+0200 (IST)
+Updating convid 20140119075517822-omer-adam to 
+                                                            Wed Feb 19 2014 09:55:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:55:30 GMT+0200 (IST)
+Updating convid 20140119075517822-omer-adam to 
+                                                            Wed Feb 19 2014 09:55:30 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:56:09 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:56:11 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:56:11 GMT+0200 (IST)
+Creating conversation 20140119075611986-adam-omer
+                                                            Wed Feb 19 2014 09:56:13 GMT+0200 (IST)
+Updating convid 20140119075611986-adam-omer to 
+                                                            Wed Feb 19 2014 09:56:13 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:57:03 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:57:07 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:57:07 GMT+0200 (IST)
+Creating conversation 2014011907577587-omer-adam
+                                                            Wed Feb 19 2014 09:57:15 GMT+0200 (IST)
+Updating convid 2014011907577587-omer-adam to 
+                                                            Wed Feb 19 2014 09:57:15 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:57:17 GMT+0200 (IST)
+Updating convid 2014011907577587-omer-adam to 
+                                                            Wed Feb 19 2014 09:57:17 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 09:59:31 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 09:59:33 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 09:59:33 GMT+0200 (IST)
+Creating conversation 20140119075933212-omer-adam
+                                                            Wed Feb 19 2014 09:59:40 GMT+0200 (IST)
+Updating convid 20140119075933212-omer-adam to 
+                                                            Wed Feb 19 2014 09:59:40 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:00:41 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:00:42 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:00:42 GMT+0200 (IST)
+Creating conversation 20140119080042553-omer-adam
+                                                            Wed Feb 19 2014 10:00:47 GMT+0200 (IST)
+Updating convid 20140119080042553-omer-adam to 
+                                                            Wed Feb 19 2014 10:00:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:00:55 GMT+0200 (IST)
+Updating convid 20140119080042553-omer-adam to 
+                                                            Wed Feb 19 2014 10:00:55 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:01:18 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:01:22 GMT+0200 (IST)
+Updating convid 20140119080042553-omer-adam to 
+                                                            Wed Feb 19 2014 10:01:22 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:01:22 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:01:22 GMT+0200 (IST)
+Creating conversation 20140119080122863-adam-omer
+                                                            Wed Feb 19 2014 10:01:24 GMT+0200 (IST)
+Updating convid 20140119080122863-adam-omer to 
+                                                            Wed Feb 19 2014 10:01:24 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:01:27 GMT+0200 (IST)
+Updating convid 20140119080122863-adam-omer to 
+                                                            Wed Feb 19 2014 10:01:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:03:27 GMT+0200 (IST)
+Updating convid 20140119080122863-adam-omer to 
+                                                            Wed Feb 19 2014 10:03:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:04:42 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:05:32 GMT+0200 (IST)
+giveUp: omer
+                                                            Wed Feb 19 2014 10:06:42 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:06:47 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:07:37 GMT+0200 (IST)
+giveUp: omer
+                                                            Wed Feb 19 2014 10:10:34 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:10:40 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:10:40 GMT+0200 (IST)
+Creating conversation 20140119081040685-omer-adam
+                                                            Wed Feb 19 2014 10:10:47 GMT+0200 (IST)
+Updating convid 20140119081040685-omer-adam to 
+                                                            Wed Feb 19 2014 10:10:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:10:52 GMT+0200 (IST)
+Updating convid 20140119081040685-omer-adam to 
+                                                            Wed Feb 19 2014 10:10:52 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:10:57 GMT+0200 (IST)
+Updating convid 20140119081040685-omer-adam to 
+                                                            Wed Feb 19 2014 10:10:57 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:15:37 GMT+0200 (IST)
+Updating convid 20140119081040685-omer-adam to 
+                                                            Wed Feb 19 2014 10:15:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:21:07 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:21:09 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:21:09 GMT+0200 (IST)
+Creating conversation 2014011908219263-omer-adam
+                                                            Wed Feb 19 2014 10:21:14 GMT+0200 (IST)
+Updating convid 2014011908219263-omer-adam to 
+                                                            Wed Feb 19 2014 10:21:15 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:21:49 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:21:52 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:21:52 GMT+0200 (IST)
+Creating conversation 20140119082152543-adam-omer
+                                                            Wed Feb 19 2014 10:21:54 GMT+0200 (IST)
+Updating convid 20140119082152543-adam-omer to 
+                                                            Wed Feb 19 2014 10:21:54 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:21:57 GMT+0200 (IST)
+Updating convid 20140119082152543-adam-omer to 
+                                                            Wed Feb 19 2014 10:21:57 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:22:46 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:22:48 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:22:48 GMT+0200 (IST)
+Creating conversation 20140119082248135-omer-adam
+                                                            Wed Feb 19 2014 10:22:55 GMT+0200 (IST)
+Updating convid 20140119082248135-omer-adam to 
+                                                            Wed Feb 19 2014 10:22:55 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:23:19 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:23:21 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:23:21 GMT+0200 (IST)
+Creating conversation 20140119082321810-omer-adam
+                                                            Wed Feb 19 2014 10:23:22 GMT+0200 (IST)
+Updating convid 20140119082321810-omer-adam to 
+                                                            Wed Feb 19 2014 10:23:22 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:23:24 GMT+0200 (IST)
+Updating convid 20140119082321810-omer-adam to 
+                                                            Wed Feb 19 2014 10:23:24 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:23:39 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:23:41 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:23:41 GMT+0200 (IST)
+Creating conversation 20140119082341292-omer-adam
+                                                            Wed Feb 19 2014 10:23:43 GMT+0200 (IST)
+Updating convid 20140119082341292-omer-adam to 
+                                                            Wed Feb 19 2014 10:23:43 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:23:59 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:24:01 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:24:01 GMT+0200 (IST)
+Creating conversation 2014011908241056-adam-omer
+                                                            Wed Feb 19 2014 10:24:02 GMT+0200 (IST)
+Updating convid 2014011908241056-adam-omer to 
+                                                            Wed Feb 19 2014 10:24:02 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:24:26 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 10:24:29 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 10:24:29 GMT+0200 (IST)
+Creating conversation 20140119082429493-omer-adam
+                                                            Wed Feb 19 2014 10:24:30 GMT+0200 (IST)
+Updating convid 20140119082429493-omer-adam to 
+                                                            Wed Feb 19 2014 10:24:30 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:24:37 GMT+0200 (IST)
+Updating convid 20140119082429493-omer-adam to 
+                                                            Wed Feb 19 2014 10:24:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 10:50:18 GMT+0200 (IST)
+Updating convid 20140119082429493-omer-adam to 
+                                                            Wed Feb 19 2014 10:50:18 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 11:54:56 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 11:55:47 GMT+0200 (IST)
+giveUp: omer
+                                                            Wed Feb 19 2014 13:45:18 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 13:45:22 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 13:45:28 GMT+0200 (IST)
+START: a
+                                                            Wed Feb 19 2014 13:45:28 GMT+0200 (IST)
+Creating conversation 20140119114528376-omer-a
+                                                            Wed Feb 19 2014 13:45:32 GMT+0200 (IST)
+START: b
+                                                            Wed Feb 19 2014 13:45:34 GMT+0200 (IST)
+START: c
+                                                            Wed Feb 19 2014 13:45:34 GMT+0200 (IST)
+Creating conversation 20140119114534633-b-c
+                                                            Wed Feb 19 2014 13:45:42 GMT+0200 (IST)
+Updating convid 20140119114534633-b-c to 
+                                                            Wed Feb 19 2014 13:45:42 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:45:51 GMT+0200 (IST)
+START: xxx
+                                                            Wed Feb 19 2014 13:45:56 GMT+0200 (IST)
+START: yyy
+                                                            Wed Feb 19 2014 13:45:56 GMT+0200 (IST)
+Creating conversation 20140119114556433-xxx-yyy
+                                                            Wed Feb 19 2014 13:45:59 GMT+0200 (IST)
+Updating convid 20140119114556433-xxx-yyy to 
+                                                            Wed Feb 19 2014 13:45:59 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:46:08 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 13:46:08 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 13:46:11 GMT+0200 (IST)
+START: a
+                                                            Wed Feb 19 2014 13:46:11 GMT+0200 (IST)
+Creating conversation 20140119114611367-omer-a
+                                                            Wed Feb 19 2014 13:46:11 GMT+0200 (IST)
+START: a
+                                                            Wed Feb 19 2014 13:46:14 GMT+0200 (IST)
+Updating convid 20140119114611367-omer-a to 
+                                                            Wed Feb 19 2014 13:46:14 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:46:19 GMT+0200 (IST)
+Updating convid 20140119114534633-b-c to 
+                                                            Wed Feb 19 2014 13:46:19 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:46:24 GMT+0200 (IST)
+Updating convid 20140119114556433-xxx-yyy to 
+                                                            Wed Feb 19 2014 13:46:24 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:47:24 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 13:47:35 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 13:47:35 GMT+0200 (IST)
+Creating conversation 20140119114735023-omer-adam
+                                                            Wed Feb 19 2014 13:47:40 GMT+0200 (IST)
+START: a
+                                                            Wed Feb 19 2014 13:47:43 GMT+0200 (IST)
+START: b
+                                                            Wed Feb 19 2014 13:47:43 GMT+0200 (IST)
+Creating conversation 20140119114743383-a-b
+                                                            Wed Feb 19 2014 13:47:46 GMT+0200 (IST)
+Updating convid 20140119114743383-a-b to 
+                                                            Wed Feb 19 2014 13:47:46 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:47:49 GMT+0200 (IST)
+Updating convid 20140119114735023-omer-adam to 
+                                                            Wed Feb 19 2014 13:47:49 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:47:52 GMT+0200 (IST)
+Updating convid 20140119114735023-omer-adam to 
+                                                            Wed Feb 19 2014 13:47:52 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:47:58 GMT+0200 (IST)
+Updating convid 20140119114743383-a-b to 
+                                                            Wed Feb 19 2014 13:47:58 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:49:52 GMT+0200 (IST)
+Updating convid 20140119114735023-omer-adam to 
+                                                            Wed Feb 19 2014 13:49:52 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:49:58 GMT+0200 (IST)
+Updating convid 20140119114743383-a-b to 
+                                                            Wed Feb 19 2014 13:49:58 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 13:51:52 GMT+0200 (IST)
+Updating convid 20140119114735023-omer-adam to 
+                                                            Wed Feb 19 2014 13:51:52 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:25:12 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:25:15 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:25:15 GMT+0200 (IST)
+Creating conversation 20140119122515257-omer-adam
+                                                            Wed Feb 19 2014 14:26:05 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:26:55 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:26:57 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:26:57 GMT+0200 (IST)
+Creating conversation 20140119122657843-omer-adam
+                                                            Wed Feb 19 2014 14:27:05 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:27:10 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:27:10 GMT+0200 (IST)
+Creating conversation 20140119122710989-omer-adam
+                                                            Wed Feb 19 2014 14:27:11 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:28:01 GMT+0200 (IST)
+giveUp: adam
+                                                            Wed Feb 19 2014 14:28:34 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:28:39 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:28:39 GMT+0200 (IST)
+Creating conversation 20140119122839700-omer-adam
+                                                            Wed Feb 19 2014 14:29:29 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:29:31 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:29:35 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:29:35 GMT+0200 (IST)
+Creating conversation 20140119122935551-omer-adam
+                                                            Wed Feb 19 2014 14:29:56 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:30:04 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:30:04 GMT+0200 (IST)
+Creating conversation 2014011912304700-adam-omer
+                                                            Wed Feb 19 2014 14:30:05 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:30:07 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:30:07 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:30:09 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:30:09 GMT+0200 (IST)
+Creating conversation 2014011912309211-adam-omer
+                                                            Wed Feb 19 2014 14:30:09 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:30:17 GMT+0200 (IST)
+Updating convid 2014011912309211-adam-omer to 
+                                                            Wed Feb 19 2014 14:30:17 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:30:28 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:30:29 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:30:31 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:30:31 GMT+0200 (IST)
+Creating conversation 20140119123031078-omer-adam
+                                                            Wed Feb 19 2014 14:30:33 GMT+0200 (IST)
+Updating convid 20140119123031078-omer-adam to 
+                                                            Wed Feb 19 2014 14:30:33 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:30:38 GMT+0200 (IST)
+Updating convid 20140119123031078-omer-adam to 
+                                                            Wed Feb 19 2014 14:30:38 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:32:38 GMT+0200 (IST)
+Updating convid 20140119123031078-omer-adam to 
+                                                            Wed Feb 19 2014 14:32:38 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:32:43 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:32:46 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:32:46 GMT+0200 (IST)
+Creating conversation 20140119123246126-omer-adam
+                                                            Wed Feb 19 2014 14:33:16 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:33:21 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:33:21 GMT+0200 (IST)
+Creating conversation 20140119123321128-adam-omer
+                                                            Wed Feb 19 2014 14:33:22 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:33:30 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:33:30 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:33:37 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:33:37 GMT+0200 (IST)
+Creating conversation 20140119123337905-adam-omer
+                                                            Wed Feb 19 2014 14:33:38 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:34:07 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:34:10 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:34:10 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:34:13 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:34:13 GMT+0200 (IST)
+Creating conversation 20140119123413120-omer-adam
+                                                            Wed Feb 19 2014 14:34:27 GMT+0200 (IST)
+Updating convid 20140119123413120-omer-adam to 
+                                                            Wed Feb 19 2014 14:34:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:34:34 GMT+0200 (IST)
+Updating convid 20140119123413120-omer-adam to 
+                                                            Wed Feb 19 2014 14:34:34 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:34:42 GMT+0200 (IST)
+Updating convid 20140119123413120-omer-adam to 
+                                                            Wed Feb 19 2014 14:34:42 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:36:42 GMT+0200 (IST)
+Updating convid 20140119123413120-omer-adam to 
+                                                            Wed Feb 19 2014 14:36:42 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:37:26 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:37:28 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:37:28 GMT+0200 (IST)
+Creating conversation 20140119123728767-omer-adam
+                                                            Wed Feb 19 2014 14:37:54 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:37:55 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:37:55 GMT+0200 (IST)
+Creating conversation 20140119123755869-adam-omer
+                                                            Wed Feb 19 2014 14:37:57 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:37:59 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:37:59 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:38:02 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:38:02 GMT+0200 (IST)
+Creating conversation 2014011912382353-adam-omer
+                                                            Wed Feb 19 2014 14:38:02 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:38:52 GMT+0200 (IST)
+giveUp: omer
+                                                            Wed Feb 19 2014 14:38:57 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:38:59 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:38:59 GMT+0200 (IST)
+Creating conversation 20140119123859963-omer-adam
+                                                            Wed Feb 19 2014 14:39:17 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:39:21 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:39:21 GMT+0200 (IST)
+Creating conversation 20140119123921084-adam-omer
+                                                            Wed Feb 19 2014 14:39:23 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:39:30 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:39:30 GMT+0200 (IST)
+Creating conversation 20140119123930894-adam-omer
+                                                            Wed Feb 19 2014 14:39:31 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:40:16 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:40:19 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:40:19 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:40:21 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:40:21 GMT+0200 (IST)
+Creating conversation 20140119124021977-omer-adam
+                                                            Wed Feb 19 2014 14:41:11 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:42:21 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:42:57 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:43:00 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:43:00 GMT+0200 (IST)
+Creating conversation 2014011912430340-omer-adam
+                                                            Wed Feb 19 2014 14:43:22 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:43:23 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:43:23 GMT+0200 (IST)
+Creating conversation 20140119124323740-adam-omer
+                                                            Wed Feb 19 2014 14:43:25 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:43:27 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:43:27 GMT+0200 (IST)
+Creating conversation 20140119124327473-adam-omer
+                                                            Wed Feb 19 2014 14:43:27 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:43:36 GMT+0200 (IST)
+Updating convid 20140119124327473-adam-omer to 
+                                                            Wed Feb 19 2014 14:43:36 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:43:48 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:43:48 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:43:50 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:43:50 GMT+0200 (IST)
+Creating conversation 20140119124350318-omer-adam
+                                                            Wed Feb 19 2014 14:43:56 GMT+0200 (IST)
+Updating convid 20140119124350318-omer-adam to 
+                                                            Wed Feb 19 2014 14:43:56 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:44:07 GMT+0200 (IST)
+Updating convid 20140119124350318-omer-adam to 
+                                                            Wed Feb 19 2014 14:44:07 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 14:44:11 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:44:13 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:44:13 GMT+0200 (IST)
+Creating conversation 20140119124413423-omer-adam
+                                                            Wed Feb 19 2014 14:45:03 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:45:57 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:45:59 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:45:59 GMT+0200 (IST)
+Creating conversation 20140119124559136-omer-adam
+                                                            Wed Feb 19 2014 14:46:49 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:47:59 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:48:49 GMT+0200 (IST)
+giveUp: adam
+                                                            Wed Feb 19 2014 14:51:19 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:51:22 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:51:22 GMT+0200 (IST)
+Creating conversation 20140119125122551-omer-adam
+                                                            Wed Feb 19 2014 14:52:12 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:53:22 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:54:12 GMT+0200 (IST)
+giveUp: adam
+                                                            Wed Feb 19 2014 14:54:26 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:54:43 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:54:44 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:54:44 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:54:46 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:54:46 GMT+0200 (IST)
+Creating conversation 20140119125446775-omer-adam
+                                                            Wed Feb 19 2014 14:55:36 GMT+0200 (IST)
+giveUp*: adam
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 14:56:46 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:57:36 GMT+0200 (IST)
+giveUp: adam
+                                                            Wed Feb 19 2014 14:57:55 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:57:57 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:57:57 GMT+0200 (IST)
+Creating conversation 20140119125757582-omer-adam
+                                                            Wed Feb 19 2014 14:58:31 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:58:33 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:58:33 GMT+0200 (IST)
+Creating conversation 20140119125833567-adam-omer
+                                                            Wed Feb 19 2014 14:58:35 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:58:38 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:58:38 GMT+0200 (IST)
+Creating conversation 20140119125838020-adam-omer
+                                                            Wed Feb 19 2014 14:58:38 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:58:41 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:58:42 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 14:58:44 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:58:44 GMT+0200 (IST)
+Creating conversation 20140119125844406-omer-adam
+                                                            Wed Feb 19 2014 14:59:16 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 14:59:34 GMT+0200 (IST)
+giveUp: adam
+                                                            Wed Feb 19 2014 15:00:15 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:00:16 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:00:16 GMT+0200 (IST)
+Creating conversation 20140119130016918-omer-adam
+                                                            Wed Feb 19 2014 15:00:47 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:00:53 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:00:53 GMT+0200 (IST)
+Creating conversation 20140119130053092-adam-omer
+                                                            Wed Feb 19 2014 15:00:54 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:00:59 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:00:59 GMT+0200 (IST)
+Creating conversation 20140119130059623-adam-omer
+                                                            Wed Feb 19 2014 15:00:59 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:01:09 GMT+0200 (IST)
+Updating convid 20140119130059623-adam-omer to 
+                                                            Wed Feb 19 2014 15:01:09 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:01:13 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:01:13 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:01:15 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:01:15 GMT+0200 (IST)
+Creating conversation 20140119130115294-omer-adam
+                                                            Wed Feb 19 2014 15:01:20 GMT+0200 (IST)
+Updating convid 20140119130115294-omer-adam to 
+                                                            Wed Feb 19 2014 15:01:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:01:26 GMT+0200 (IST)
+Updating convid 20140119130115294-omer-adam to 
+                                                            Wed Feb 19 2014 15:01:26 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:01:33 GMT+0200 (IST)
+Updating convid 20140119130115294-omer-adam to 
+                                                            Wed Feb 19 2014 15:01:33 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:01:45 GMT+0200 (IST)
+Updating convid 20140119130115294-omer-adam to 
+                                                            Wed Feb 19 2014 15:01:45 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:01:54 GMT+0200 (IST)
+Updating convid 20140119130115294-omer-adam to 
+                                                            Wed Feb 19 2014 15:01:54 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:02:03 GMT+0200 (IST)
+Updating convid 20140119130115294-omer-adam to 
+                                                            Wed Feb 19 2014 15:02:03 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:02:15 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:02:17 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:02:17 GMT+0200 (IST)
+Creating conversation 20140119130217180-omer-adam
+                                                            Wed Feb 19 2014 15:02:20 GMT+0200 (IST)
+Updating convid 20140119130217180-omer-adam to 
+                                                            Wed Feb 19 2014 15:02:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:02:23 GMT+0200 (IST)
+Updating convid 20140119130217180-omer-adam to 
+                                                            Wed Feb 19 2014 15:02:23 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:02:36 GMT+0200 (IST)
+Updating convid 20140119130217180-omer-adam to 
+                                                            Wed Feb 19 2014 15:02:36 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:02:50 GMT+0200 (IST)
+Updating convid 20140119130217180-omer-adam to 
+                                                            Wed Feb 19 2014 15:02:50 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:03:10 GMT+0200 (IST)
+Updating convid 20140119130217180-omer-adam to 
+                                                            Wed Feb 19 2014 15:03:10 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:05:23 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:05:24 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:05:24 GMT+0200 (IST)
+Creating conversation 20140119130524972-omer-adam
+                                                            Wed Feb 19 2014 15:05:31 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:05:31 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:05:35 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:05:35 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:05:38 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:05:38 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:05:44 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:05:44 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:05:47 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:05:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:01 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:01 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:10 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:10 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:13 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:13 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:15 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:15 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:26 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:26 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:34 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:34 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:43 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:43 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:50 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:50 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:06:57 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:06:57 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:00 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:00 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:04 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:04 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:09 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:09 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:11 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:11 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:15 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:15 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:17 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:17 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:07:54 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:07:54 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:00 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:00 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:14 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:14 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:16 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:16 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:20 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:22 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:22 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:32 GMT+0200 (IST)
+Updating convid 20140119130524972-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:32 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:08:40 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:08:42 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:08:42 GMT+0200 (IST)
+Creating conversation 20140119130842741-omer-adam
+                                                            Wed Feb 19 2014 15:08:47 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:08:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:00 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:00 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:12 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:12 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:20 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:27 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:42 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:42 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:47 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:52 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:52 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:09:57 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:09:57 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:10:06 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:10:06 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:10:09 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:10:09 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:10:11 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:10:11 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:10:12 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:10:12 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:10:15 GMT+0200 (IST)
+Updating convid 20140119130842741-omer-adam to 
+                                                            Wed Feb 19 2014 15:10:15 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:09 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:30:11 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:30:11 GMT+0200 (IST)
+Creating conversation 20140119133011855-omer-adam
+                                                            Wed Feb 19 2014 15:30:16 GMT+0200 (IST)
+Updating convid 20140119133011855-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:16 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:17 GMT+0200 (IST)
+Updating convid 20140119133011855-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:17 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:20 GMT+0200 (IST)
+Updating convid 20140119133011855-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:21 GMT+0200 (IST)
+Updating convid 20140119133011855-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:21 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:31 GMT+0200 (IST)
+Updating convid 20140119133011855-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:31 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:34 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:30:36 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:30:36 GMT+0200 (IST)
+Creating conversation 20140119133036660-omer-adam
+                                                            Wed Feb 19 2014 15:30:41 GMT+0200 (IST)
+Updating convid 20140119133036660-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:41 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:49 GMT+0200 (IST)
+Updating convid 20140119133036660-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:49 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:51 GMT+0200 (IST)
+Updating convid 20140119133036660-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:51 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:30:53 GMT+0200 (IST)
+Updating convid 20140119133036660-omer-adam to 
+                                                            Wed Feb 19 2014 15:30:53 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:10 GMT+0200 (IST)
+Updating convid 20140119133036660-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:10 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:12 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:31:14 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:31:14 GMT+0200 (IST)
+Creating conversation 20140119133114775-omer-adam
+                                                            Wed Feb 19 2014 15:31:19 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:19 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:28 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:28 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:35 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:35 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:37 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:43 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:43 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:31:56 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:31:56 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:32:03 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:32:03 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:32:09 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:32:09 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:32:11 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:32:11 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:32:16 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:32:16 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:32:17 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:32:17 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:32:19 GMT+0200 (IST)
+Updating convid 20140119133114775-omer-adam to 
+                                                            Wed Feb 19 2014 15:32:19 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:34:08 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:34:10 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:34:10 GMT+0200 (IST)
+Creating conversation 20140119133410570-omer-adam
+                                                            Wed Feb 19 2014 15:34:13 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:34:13 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:34:18 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:34:18 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:34:21 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:34:21 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:34:23 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:34:23 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:34:26 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:34:26 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:36:26 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:36:26 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:39:47 GMT+0200 (IST)
+Updating convid 20140119133410570-omer-adam to 
+                                                            Wed Feb 19 2014 15:39:47 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:40:31 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:40:33 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:40:33 GMT+0200 (IST)
+Creating conversation 20140119134033392-omer-adam
+                                                            Wed Feb 19 2014 15:40:44 GMT+0200 (IST)
+Updating convid 20140119134033392-omer-adam to 
+                                                            Wed Feb 19 2014 15:40:45 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:40:48 GMT+0200 (IST)
+Updating convid 20140119134033392-omer-adam to 
+                                                            Wed Feb 19 2014 15:40:48 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:41:01 GMT+0200 (IST)
+Updating convid 20140119134033392-omer-adam to 
+                                                            Wed Feb 19 2014 15:41:01 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:41:17 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:41:19 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:41:19 GMT+0200 (IST)
+Creating conversation 20140119134119004-omer-adam
+                                                            Wed Feb 19 2014 15:41:20 GMT+0200 (IST)
+Updating convid 20140119134119004-omer-adam to 
+                                                            Wed Feb 19 2014 15:41:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:41:22 GMT+0200 (IST)
+Updating convid 20140119134119004-omer-adam to 
+                                                            Wed Feb 19 2014 15:41:22 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:41:23 GMT+0200 (IST)
+Updating convid 20140119134119004-omer-adam to 
+                                                            Wed Feb 19 2014 15:41:23 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:41:31 GMT+0200 (IST)
+Updating convid 20140119134119004-omer-adam to 
+                                                            Wed Feb 19 2014 15:41:31 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:41:37 GMT+0200 (IST)
+Updating convid 20140119134119004-omer-adam to 
+                                                            Wed Feb 19 2014 15:41:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:43:37 GMT+0200 (IST)
+Updating convid 20140119134119004-omer-adam to 
+                                                            Wed Feb 19 2014 15:43:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:47:02 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:47:05 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:47:05 GMT+0200 (IST)
+Creating conversation 2014011913475406-omer-adam
+                                                            Wed Feb 19 2014 15:47:08 GMT+0200 (IST)
+Updating convid 2014011913475406-omer-adam to 
+                                                            Wed Feb 19 2014 15:47:08 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:47:12 GMT+0200 (IST)
+Updating convid 2014011913475406-omer-adam to 
+                                                            Wed Feb 19 2014 15:47:12 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:13 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:48:15 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 15:48:15 GMT+0200 (IST)
+Creating conversation 20140119134815287-omer-adam
+                                                            Wed Feb 19 2014 15:48:20 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:20 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:21 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:21 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:24 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:24 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:26 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:26 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:28 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:28 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:32 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:32 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:34 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:34 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:37 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:37 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:40 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:40 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:48:45 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:48:45 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:50:22 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:50:45 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:50:45 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 15:51:12 GMT+0200 (IST)
+giveUp: omer
+                                                            Wed Feb 19 2014 15:52:22 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 15:52:45 GMT+0200 (IST)
+Updating convid 20140119134815287-omer-adam to 
+                                                            Wed Feb 19 2014 15:52:45 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 18:55:53 GMT+0200 (IST)
+START: adam
+                                                            Wed Feb 19 2014 18:56:03 GMT+0200 (IST)
+START: omer
+                                                            Wed Feb 19 2014 18:56:03 GMT+0200 (IST)
+Creating conversation 2014011916563180-adam-omer
+                                                            Wed Feb 19 2014 18:56:17 GMT+0200 (IST)
+Updating convid 2014011916563180-adam-omer to 
+                                                            Wed Feb 19 2014 18:56:17 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 18:56:19 GMT+0200 (IST)
+Updating convid 2014011916563180-adam-omer to 
+                                                            Wed Feb 19 2014 18:56:19 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 18:56:27 GMT+0200 (IST)
+Updating convid 2014011916563180-adam-omer to 
+                                                            Wed Feb 19 2014 18:56:27 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 18:56:31 GMT+0200 (IST)
+Updating convid 2014011916563180-adam-omer to 
+                                                            Wed Feb 19 2014 18:56:31 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 18:57:31 GMT+0200 (IST)
+Updating convid 2014011916563180-adam-omer to 
+                                                            Wed Feb 19 2014 18:57:31 GMT+0200 (IST)
+[object Object]
+                                                            Wed Feb 19 2014 21:52:02 GMT+0200 (IST)
+Updating convid 2014011916563180-adam-omer to 
+                                                            Wed Feb 19 2014 21:52:02 GMT+0200 (IST)
+[object Object]

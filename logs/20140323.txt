@@ -1,0 +1,366 @@
+Sun Mar 23 2014 02:50:38 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:52:06 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:52:54 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:56:34 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:57:10 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:57:13 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:57:43 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 02:58:07 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:01:51 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:03:56 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:04:32 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:04:39 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:06:36 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:07:06 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:07:54 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:08:43 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:08:48 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:08:54 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:08:55 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:09:14 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:09:28 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:12:14 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:14:31 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:15:29 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:15:30 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:15:59 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:16:00 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:16:35 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:16:40 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:17:24 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:18:23 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:19:21 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:19:22 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:20:59 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:25:36 GMT+0000 (UTC)  hello omer
+Sun Mar 23 2014 03:25:36 GMT+0000 (UTC)  waiting omer
+Sun Mar 23 2014 03:25:42 GMT+0000 (UTC)  hello Bmoney
+Sun Mar 23 2014 03:25:42 GMT+0000 (UTC)  Creating conversation 20140323032542513-omer-Bmoney-0.4.3
+Sun Mar 23 2014 03:25:48 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 1
+Sun Mar 23 2014 03:25:55 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 2
+Sun Mar 23 2014 03:26:07 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 3
+Sun Mar 23 2014 03:26:23 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 4
+Sun Mar 23 2014 03:26:27 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 5
+Sun Mar 23 2014 03:26:34 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 6
+Sun Mar 23 2014 03:26:38 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 7
+Sun Mar 23 2014 03:27:10 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 8
+Sun Mar 23 2014 03:27:13 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:31:58 GMT+0000 (UTC)  omer disconnected
+Sun Mar 23 2014 03:32:01 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:32:02 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:32:02 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:32:02 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:32:02 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:32:03 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:32:03 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:32:03 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:35:19 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:35:20 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:35:20 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:35:20 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:35:28 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:35:29 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:35:29 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:35:29 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:36:18 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:36:19 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:36:19 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:36:19 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:36:54 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:36:55 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:36:55 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:36:55 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:36:55 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:38:30 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:38:31 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:38:31 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:38:31 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:39:12 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:39:13 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:39:13 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:39:13 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:39:13 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:39:32 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:39:33 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:39:33 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:39:33 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 03:40:14 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 03:40:15 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 03:40:15 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 03:40:15 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 05:48:38 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:11:35 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:11:45 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:11:56 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:05 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:16 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:23 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:26 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:29 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:37 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:43 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:53 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:12:55 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:13:03 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:13:12 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:14:20 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:14:21 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:14:30 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:14:38 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:15:47 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:15:48 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:15:57 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:16:04 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:17:14 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:17:15 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:17:24 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:17:30 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:18:41 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:18:41 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:18:51 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:18:56 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:20:08 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:20:08 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:20:18 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:20:22 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:21:35 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:21:35 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:21:45 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:21:48 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:23:02 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:23:02 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:23:12 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:23:15 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:24:29 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:24:29 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:24:39 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:24:41 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:25:56 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:25:56 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:26:06 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:26:07 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:27:23 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:27:23 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:27:33 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:27:33 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:28:50 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:28:50 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:29:00 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:29:00 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:30:17 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:30:17 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:30:26 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:30:27 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:31:44 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:31:44 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:31:52 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:31:54 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:33:11 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:33:11 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:33:18 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:33:21 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:34:38 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:34:38 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:34:44 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:34:48 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:34:59 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:36:25 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:36:25 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:36:25 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:36:26 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:37:02 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:37:24 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:37:44 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:37:46 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:37:47 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:04 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:07 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:08 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:23 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:25 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:28 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:29 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:43 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:45 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:49 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:38:50 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:03 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:05 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:10 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:11 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:23 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:26 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:31 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:32 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:43 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:46 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:52 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:39:53 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:03 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:06 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:13 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:13 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:24 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:26 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:34 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:35 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:44 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:46 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:55 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:40:56 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:04 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:12 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:16 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:17 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:30 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:37 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:38 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:56 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:57 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:58 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:41:59 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:42:13 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:14 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:15 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:15 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:15 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:34 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:35 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:36 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:36 GMT+0000 (UTC)  New connection [object Object]
+Sun Mar 23 2014 07:42:45 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:47 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:47 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:49 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:50 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:51 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:52 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:53 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:54 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:55 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:56 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:57 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:42:59 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:43:00 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:43:01 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:43:03 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:43:04 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:43:05 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:43:06 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:44:33 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:44:39 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:45:31 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:45:39 GMT+0000 (UTC)  New connection undefined
+Sun Mar 23 2014 07:46:18 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:46:19 GMT+0000 (UTC)  New connection undefined
+Sun Mar 23 2014 07:46:39 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:46:40 GMT+0000 (UTC)  New connection ["id","namespace","manager","disconnected","ackPackets","acks","flags","readable","store","_events"]
+Sun Mar 23 2014 07:47:18 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:47:40 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:48:00 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:48:03 GMT+0000 (UTC)  New connection "rNrr4EU-DSPocUep6Ri6"
+Sun Mar 23 2014 07:48:10 GMT+0000 (UTC)  New connection "ZIKCz-liJtxuudcj6Ri7"
+Sun Mar 23 2014 07:48:41 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:48:43 GMT+0000 (UTC)  New connection "EOJaJaUXCqlVfh8Z6bmu"
+Sun Mar 23 2014 07:48:43 GMT+0000 (UTC)  New connection "U_0AjkgbPbhGwXyx6bmv"
+Sun Mar 23 2014 07:48:47 GMT+0000 (UTC)  New connection "kVv426x7sRPds5mo6bmw"
+Sun Mar 23 2014 07:48:49 GMT+0000 (UTC)  New connection "aLT9Mr8jhXIENWEE6bmx"
+Sun Mar 23 2014 07:49:49 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:49:49 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:50:12 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:50:14 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:51:10 GMT+0000 (UTC)  azureuser restarting his server.
+Sun Mar 23 2014 07:51:26 GMT+0000 (UTC)  New connection "I1y4SgN47ulG09Rc6_7l"
+Sun Mar 23 2014 07:51:46 GMT+0000 (UTC)  New connection "aWWysZOdyT83nxEa6_7m"
+Sun Mar 23 2014 07:52:06 GMT+0000 (UTC)  New connection "vkgmabOjDJkZg1EO6_7n"
+Sun Mar 23 2014 07:52:45 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:52:58 GMT+0000 (UTC)  New connection "PEYX4uPEJamcf9T86_7o"
+Sun Mar 23 2014 07:53:05 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:53:18 GMT+0000 (UTC)  New connection "LqJR_I1t0Au2lk1k6_7p"
+Sun Mar 23 2014 07:53:31 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:53:38 GMT+0000 (UTC)  New connection "e8aBM2Km99mJrEa86_7q"
+Sun Mar 23 2014 07:54:17 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:54:37 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 07:55:03 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 10:19:19 GMT+0000 (UTC)  New connection "uk2ytwup2nA1BcbW6_7r"
+Sun Mar 23 2014 10:19:20 GMT+0000 (UTC)  hello irit
+Sun Mar 23 2014 10:19:20 GMT+0000 (UTC)  waiting irit
+Sun Mar 23 2014 10:19:24 GMT+0000 (UTC)  New connection "TPJp6vsx1a-SBIng6_7s"
+Sun Mar 23 2014 10:19:24 GMT+0000 (UTC)  hello adam
+Sun Mar 23 2014 10:19:24 GMT+0000 (UTC)  Creating conversation 20140323101924474-irit-adam-0.4.3
+Sun Mar 23 2014 10:19:40 GMT+0000 (UTC)  irit disconnected
+Sun Mar 23 2014 10:30:58 GMT+0000 (UTC)  New connection "kWYvv8ipBEvVRAaz6_7t"
+Sun Mar 23 2014 10:30:58 GMT+0000 (UTC)  hello adam2
+Sun Mar 23 2014 10:30:58 GMT+0000 (UTC)  waiting adam2
+Sun Mar 23 2014 10:35:14 GMT+0000 (UTC)  New connection "RL40HSDUnpM1C-kj6_7u"
+Sun Mar 23 2014 10:35:15 GMT+0000 (UTC)  hello Irit2
+Sun Mar 23 2014 10:35:15 GMT+0000 (UTC)  Creating conversation 20140323103515469-adam2-Irit2-0.4.3
+Sun Mar 23 2014 10:35:19 GMT+0000 (UTC)  adam disconnected
+Sun Mar 23 2014 10:35:20 GMT+0000 (UTC)  New connection "b4uZEYzY8IYqHauj6_7v"
+Sun Mar 23 2014 10:35:21 GMT+0000 (UTC)  hello adam
+Sun Mar 23 2014 10:35:21 GMT+0000 (UTC)  waiting adam
+Sun Mar 23 2014 10:35:25 GMT+0000 (UTC)  Irit2 disconnected
+Sun Mar 23 2014 10:35:28 GMT+0000 (UTC)  New connection "on_qJKJCiJoxIyJM6_7w"
+Sun Mar 23 2014 10:35:33 GMT+0000 (UTC)  hello Irit2
+Sun Mar 23 2014 10:35:33 GMT+0000 (UTC)  Creating conversation 20140323103533846-adam-Irit2-0.4.3
+Sun Mar 23 2014 10:35:34 GMT+0000 (UTC)  adam disconnected
+Sun Mar 23 2014 10:35:35 GMT+0000 (UTC)  New connection "MumKm7cJ-M7JQJ8p6_7x"
+Sun Mar 23 2014 10:35:35 GMT+0000 (UTC)  hello adam
+Sun Mar 23 2014 10:35:35 GMT+0000 (UTC)  waiting adam
+Sun Mar 23 2014 10:35:45 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 1
+Sun Mar 23 2014 10:36:05 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 2
+Sun Mar 23 2014 10:36:11 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 3
+Sun Mar 23 2014 10:36:14 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 4
+Sun Mar 23 2014 10:36:22 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 5
+Sun Mar 23 2014 10:36:31 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 6
+Sun Mar 23 2014 10:36:35 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 7
+Sun Mar 23 2014 10:36:52 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 8
+Sun Mar 23 2014 10:36:56 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 9
+Sun Mar 23 2014 10:37:14 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 10
+Sun Mar 23 2014 10:37:24 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 11
+Sun Mar 23 2014 10:37:41 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 12
+Sun Mar 23 2014 10:39:35 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 13
+Sun Mar 23 2014 10:39:37 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 14
+Sun Mar 23 2014 10:39:45 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 15
+Sun Mar 23 2014 10:39:57 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 16
+Sun Mar 23 2014 10:40:35 GMT+0000 (UTC)  Signing out adam
+Sun Mar 23 2014 10:42:13 GMT+0000 (UTC)  Irit2 disconnected
+Sun Mar 23 2014 10:42:48 GMT+0000 (UTC)  adam disconnected
+Sun Mar 23 2014 10:42:48 GMT+0000 (UTC)  adam2 disconnected
+Sun Mar 23 2014 11:17:40 GMT+0000 (UTC)  New connection "9rgG_eLkSIDAepGn6_7y"
+Sun Mar 23 2014 11:17:41 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Irit2"}
+Sun Mar 23 2014 11:17:41 GMT+0000 (UTC)  Thanks for reconnecting Irit2. Please continue your conversation.
+Sun Mar 23 2014 11:17:41 GMT+0000 (UTC)  Updating convid 20140323103515469-adam2-Irit2-0.4.3 to length 16
+Sun Mar 23 2014 11:19:05 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 12:26:08 GMT+0000 (UTC)  New connection "S6I5N5grNWkvZpeR6_7z"
+Sun Mar 23 2014 12:27:33 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 15:49:01 GMT+0000 (UTC)  New connection "SJSfw2PuN2ZVSwto6_70"
+Sun Mar 23 2014 15:49:01 GMT+0000 (UTC)  hello adum
+Sun Mar 23 2014 15:49:01 GMT+0000 (UTC)  waiting adum
+Sun Mar 23 2014 15:49:14 GMT+0000 (UTC)  New connection "D6MQQCLhbkOTHzHN6_71"
+Sun Mar 23 2014 15:49:15 GMT+0000 (UTC)  hello yo
+Sun Mar 23 2014 15:49:15 GMT+0000 (UTC)  Creating conversation 20140323154915081-adum-yo-0.4.3
+Sun Mar 23 2014 15:50:12 GMT+0000 (UTC)  Updating convid 20140323154915081-adum-yo-0.4.3 to length 1
+Sun Mar 23 2014 15:51:10 GMT+0000 (UTC)  Updating convid 20140323154915081-adum-yo-0.4.3 to length 2
+Sun Mar 23 2014 15:51:32 GMT+0000 (UTC)  Updating convid 20140323154915081-adum-yo-0.4.3 to length 3
+Sun Mar 23 2014 15:57:09 GMT+0000 (UTC)  adum disconnected
+Sun Mar 23 2014 16:18:47 GMT+0000 (UTC)  yo disconnected
+Sun Mar 23 2014 18:33:23 GMT+0000 (UTC)  New connection "ZEIpb1AUA9pEsh8_6_72"
+Sun Mar 23 2014 18:33:25 GMT+0000 (UTC)  hello Irit2
+Sun Mar 23 2014 18:33:25 GMT+0000 (UTC)  waiting Irit2
+Sun Mar 23 2014 18:33:34 GMT+0000 (UTC)  Irit2 disconnected
+Sun Mar 23 2014 18:40:57 GMT+0000 (UTC)  New connection "7EW5EGhS310NFd8j6_73"
+Sun Mar 23 2014 18:40:57 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"yo"}
+Sun Mar 23 2014 18:40:58 GMT+0000 (UTC)  Thanks for reconnecting yo. Please continue your conversation.
+Sun Mar 23 2014 18:40:58 GMT+0000 (UTC)  Updating convid 20140323154915081-adum-yo-0.4.3 to length 3
+Sun Mar 23 2014 18:48:14 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 21:09:47 GMT+0000 (UTC)  New connection "eP9F5ZZl3Jcb6hBZ6_74"
+Sun Mar 23 2014 21:09:47 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 21:09:47 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 21:09:47 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 21:10:05 GMT+0000 (UTC)  Someone disconnected before hello.
+Sun Mar 23 2014 21:10:05 GMT+0000 (UTC)  New connection "rwfdVbqUjwcDwQOX6_75"
+Sun Mar 23 2014 21:10:06 GMT+0000 (UTC)  rlog {"msg":"reconnect","wid":"Bmoney"}
+Sun Mar 23 2014 21:10:06 GMT+0000 (UTC)  Thanks for reconnecting Bmoney. Please continue your conversation.
+Sun Mar 23 2014 21:10:06 GMT+0000 (UTC)  Updating convid 20140323032542513-omer-Bmoney-0.4.3 to length 9
+Sun Mar 23 2014 21:28:12 GMT+0000 (UTC)  Someone disconnected before hello.

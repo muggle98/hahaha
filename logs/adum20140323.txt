@@ -1,0 +1,35 @@
+Sun Mar 23 2014 09:49:17 GMT+0200 (Jerusalem Standard Time)  adum restarting his server.
+Sun Mar 23 2014 09:49:35 GMT+0200 (Jerusalem Standard Time)  New connection "rEMGaFtpC5BiUQeu6kUC"
+Sun Mar 23 2014 09:49:35 GMT+0200 (Jerusalem Standard Time)  waiting adam2
+Sun Mar 23 2014 09:49:35 GMT+0200 (Jerusalem Standard Time)  hello adam2
+Sun Mar 23 2014 09:49:43 GMT+0200 (Jerusalem Standard Time)  New connection "7n789mZ9kF_LpahU6kUD"
+Sun Mar 23 2014 09:49:43 GMT+0200 (Jerusalem Standard Time)  hello omer2
+Sun Mar 23 2014 09:49:43 GMT+0200 (Jerusalem Standard Time)  Creating conversation 20140323074943698-adam2-omer2-0.4.3
+Sun Mar 23 2014 09:50:20 GMT+0200 (Jerusalem Standard Time)  adum restarting his server.
+Sun Mar 23 2014 09:50:22 GMT+0200 (Jerusalem Standard Time)  New connection "F7_h9CgJ3MjDLEip6z3_"
+Sun Mar 23 2014 09:50:22 GMT+0200 (Jerusalem Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Sun Mar 23 2014 09:50:22 GMT+0200 (Jerusalem Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Sun Mar 23 2014 09:50:22 GMT+0200 (Jerusalem Standard Time)  Updating convid 20140323074943698-adam2-omer2-0.4.3 to length 0
+Sun Mar 23 2014 09:50:24 GMT+0200 (Jerusalem Standard Time)  New connection "yZ4b6DqntfPipkZH6z4B"
+Sun Mar 23 2014 09:50:24 GMT+0200 (Jerusalem Standard Time)  hello omer2
+Sun Mar 23 2014 09:50:24 GMT+0200 (Jerusalem Standard Time)  waiting omer2
+Sun Mar 23 2014 09:50:30 GMT+0200 (Jerusalem Standard Time)  Someone disconnected before hello.
+Sun Mar 23 2014 09:50:31 GMT+0200 (Jerusalem Standard Time)  New connection "7uyXaAJ0bPiQIYQn6z4C"
+Sun Mar 23 2014 09:50:31 GMT+0200 (Jerusalem Standard Time)  hello adam2
+Sun Mar 23 2014 09:50:31 GMT+0200 (Jerusalem Standard Time)  Creating conversation 20140323075031492-omer2-adam2-0.4.3
+Sun Mar 23 2014 09:52:11 GMT+0200 (Jerusalem Standard Time)  omer2 disconnected
+Sun Mar 23 2014 09:52:12 GMT+0200 (Jerusalem Standard Time)  New connection "EIZVmpqe12JyAQM_6z4D"
+Sun Mar 23 2014 09:52:12 GMT+0200 (Jerusalem Standard Time)  hello omer2
+Sun Mar 23 2014 09:52:12 GMT+0200 (Jerusalem Standard Time)  waiting omer2
+Sun Mar 23 2014 14:25:16 GMT+0200 (Jerusalem Standard Time)  omer2 disconnected
+Sun Mar 23 2014 14:25:22 GMT+0200 (Jerusalem Standard Time)  New connection "aUqgTN1e72nUNb2G6z4E"
+Sun Mar 23 2014 14:25:22 GMT+0200 (Jerusalem Standard Time)  Signing out omer2
+Sun Mar 23 2014 14:25:22 GMT+0200 (Jerusalem Standard Time)  rlog {"msg":"reconnect","wid":"omer2"}
+Sun Mar 23 2014 14:25:22 GMT+0200 (Jerusalem Standard Time)  Thanks for reconnecting omer2. We are still looking for a partner for you.
+Sun Mar 23 2014 14:25:22 GMT+0200 (Jerusalem Standard Time)  waiting omer2
+Sun Mar 23 2014 14:32:50 GMT+0200 (Jerusalem Standard Time)  adam2 disconnected
+Sun Mar 23 2014 14:37:13 GMT+0200 (Jerusalem Standard Time)  New connection "7-Jz70UunJlVW_3U6z4F"
+Sun Mar 23 2014 14:37:13 GMT+0200 (Jerusalem Standard Time)  hello adam2
+Sun Mar 23 2014 14:37:13 GMT+0200 (Jerusalem Standard Time)  Creating conversation 20140323123713099-omer2-adam2-0.4.3
+Sun Mar 23 2014 14:37:14 GMT+0200 (Jerusalem Standard Time)  adam2 disconnected
+Sun Mar 23 2014 17:48:48 GMT+0200 (Jerusalem Standard Time)  omer2 disconnected

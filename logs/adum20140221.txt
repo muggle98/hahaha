@@ -1,0 +1,240 @@
+                                                            Fri Feb 21 2014 09:12:01 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 09:31:22 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 09:34:34 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 09:34:34 GMT+0200 (Jerusalem Standard Time)
+Waiting Christian
+                                                            Fri Feb 21 2014 09:34:50 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 09:34:50 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221073450373-Christian-Al-0.4.3
+                                                            Fri Feb 21 2014 09:36:27 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 09:36:29 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 09:36:57 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 09:36:57 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Fri Feb 21 2014 09:36:58 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 09:36:58 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221073658241-Al-Christian-0.4.3
+                                                            Fri Feb 21 2014 09:40:37 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 09:40:37 GMT+0200 (Jerusalem Standard Time)
+Waiting Christian
+                                                            Fri Feb 21 2014 09:40:40 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 09:40:40 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221074040188-Christian-Al-0.4.3
+                                                            Fri Feb 21 2014 09:40:44 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221074040188-Christian-Al-0.4.3 to 
+                                                            Fri Feb 21 2014 09:40:44 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 09:41:23 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221074040188-Christian-Al-0.4.3 to 
+                                                            Fri Feb 21 2014 09:41:23 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 09:43:46 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 09:45:52 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 09:48:41 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 09:48:41 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Fri Feb 21 2014 09:48:52 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 09:48:53 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 09:48:53 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221074853710-Al-Christian-0.4.3
+                                                            Fri Feb 21 2014 09:48:56 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221074853710-Al-Christian-0.4.3 to 
+                                                            Fri Feb 21 2014 09:48:56 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 10:25:28 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 10:56:22 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 10:57:03 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:12:44 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 11:12:44 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Fri Feb 21 2014 11:12:51 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 11:12:51 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221091251047-Al-Christian-0.4.3
+                                                            Fri Feb 21 2014 11:12:51 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Christian
+                                                            Fri Feb 21 2014 11:12:52 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 11:12:52 GMT+0200 (Jerusalem Standard Time)
+Waiting Christian
+                                                            Fri Feb 21 2014 11:12:54 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221091251047-Al-Christian-0.4.3 to 
+                                                            Fri Feb 21 2014 11:12:54 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:14:17 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Christian
+                                                            Fri Feb 21 2014 11:18:44 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:18:55 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:18:57 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:18:59 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:19:01 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:19:24 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:20:25 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:20:54 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:21:07 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:21:34 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 11:21:34 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Fri Feb 21 2014 11:21:37 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 11:21:37 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221092137657-Al-Christian-0.4.3
+                                                            Fri Feb 21 2014 11:21:42 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Al
+                                                            Fri Feb 21 2014 11:21:48 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Christian
+                                                            Fri Feb 21 2014 11:21:49 GMT+0200 (Jerusalem Standard Time)
+Waiting Christian
+                                                            Fri Feb 21 2014 11:21:49 GMT+0200 (Jerusalem Standard Time)
+hello Christian
+                                                            Fri Feb 21 2014 11:21:52 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 11:21:52 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221092152124-Christian-Al-0.4.3
+                                                            Fri Feb 21 2014 11:22:47 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:23:37 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221092152124-Christian-Al-0.4.3 to 
+                                                            Fri Feb 21 2014 11:23:37 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:23:40 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221092152124-Christian-Al-0.4.3 to 
+                                                            Fri Feb 21 2014 11:23:40 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:23:46 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Al
+                                                            Fri Feb 21 2014 11:23:53 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:24:22 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Fri Feb 21 2014 11:24:22 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Fri Feb 21 2014 11:24:29 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:24:31 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Fri Feb 21 2014 11:24:31 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221092431182-Al-Al2-0.4.3
+                                                            Fri Feb 21 2014 11:24:36 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Al
+                                                            Fri Feb 21 2014 11:24:37 GMT+0200 (Jerusalem Standard Time)
+Disconnecting Al2
+                                                            Fri Feb 21 2014 11:30:40 GMT+0200 (Jerusalem Standard Time)
+hello t1
+                                                            Fri Feb 21 2014 11:30:40 GMT+0200 (Jerusalem Standard Time)
+Waiting t1
+                                                            Fri Feb 21 2014 11:30:47 GMT+0200 (Jerusalem Standard Time)
+hello t2
+                                                            Fri Feb 21 2014 11:30:47 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221093047048-t1-t2-0.4.3
+                                                            Fri Feb 21 2014 11:30:49 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221093047048-t1-t2-0.4.3 to 
+                                                            Fri Feb 21 2014 11:30:49 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:30:53 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221093047048-t1-t2-0.4.3 to 
+                                                            Fri Feb 21 2014 11:30:53 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:30:57 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221093047048-t1-t2-0.4.3 to 
+                                                            Fri Feb 21 2014 11:30:57 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:32:47 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:32:48 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:32:55 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:32:56 GMT+0200 (Jerusalem Standard Time)
+hello t1
+                                                            Fri Feb 21 2014 11:32:56 GMT+0200 (Jerusalem Standard Time)
+Waiting t1
+                                                            Fri Feb 21 2014 11:32:57 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:32:58 GMT+0200 (Jerusalem Standard Time)
+hello t2
+                                                            Fri Feb 21 2014 11:32:58 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221093258765-t1-t2-0.4.3
+                                                            Fri Feb 21 2014 11:34:12 GMT+0200 (Jerusalem Standard Time)
+rlog [object Object]
+                                                            Fri Feb 21 2014 11:34:14 GMT+0200 (Jerusalem Standard Time)
+Disconnecting before hello.
+                                                            Fri Feb 21 2014 11:34:14 GMT+0200 (Jerusalem Standard Time)
+hello t2
+                                                            Fri Feb 21 2014 11:34:14 GMT+0200 (Jerusalem Standard Time)
+Waiting t2
+                                                            Fri Feb 21 2014 11:34:15 GMT+0200 (Jerusalem Standard Time)
+hello t1
+                                                            Fri Feb 21 2014 11:34:15 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221093415924-t2-t1-0.4.3
+                                                            Fri Feb 21 2014 11:34:24 GMT+0200 (Jerusalem Standard Time)
+Disconnecting t2
+                                                            Fri Feb 21 2014 11:34:25 GMT+0200 (Jerusalem Standard Time)
+Waiting t2
+                                                            Fri Feb 21 2014 11:34:25 GMT+0200 (Jerusalem Standard Time)
+hello t2
+                                                            Fri Feb 21 2014 11:34:25 GMT+0200 (Jerusalem Standard Time)
+Disconnecting t2
+                                                            Fri Feb 21 2014 11:34:26 GMT+0200 (Jerusalem Standard Time)
+Waiting t2
+                                                            Fri Feb 21 2014 11:34:26 GMT+0200 (Jerusalem Standard Time)
+hello t2
+                                                            Fri Feb 21 2014 11:34:28 GMT+0200 (Jerusalem Standard Time)
+Disconnecting t1
+                                                            Fri Feb 21 2014 11:34:29 GMT+0200 (Jerusalem Standard Time)
+hello t1
+                                                            Fri Feb 21 2014 11:34:29 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221093429387-t2-t1-0.4.3
+                                                            Fri Feb 21 2014 11:34:48 GMT+0200 (Jerusalem Standard Time)
+hello t1
+                                                            Fri Feb 21 2014 11:34:48 GMT+0200 (Jerusalem Standard Time)
+Waiting t1
+                                                            Fri Feb 21 2014 11:34:49 GMT+0200 (Jerusalem Standard Time)
+hello t2
+                                                            Fri Feb 21 2014 11:34:49 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140221093449133-t1-t2-0.4.3
+                                                            Fri Feb 21 2014 11:35:04 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221093449133-t1-t2-0.4.3 to 
+                                                            Fri Feb 21 2014 11:35:04 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:35:10 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:35:10 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221093449133-t1-t2-0.4.3 to 
+                                                            Fri Feb 21 2014 11:35:15 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140221093449133-t1-t2-0.4.3 to 
+                                                            Fri Feb 21 2014 11:35:15 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Fri Feb 21 2014 11:35:17 GMT+0200 (Jerusalem Standard Time)
+Disconnecting t1
+                                                            Fri Feb 21 2014 11:35:55 GMT+0200 (Jerusalem Standard Time)
+Disconnecting t2

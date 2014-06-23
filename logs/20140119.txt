@@ -1,0 +1,96 @@
+                                                            Wed Feb 19 2014 07:30:22 GMT+0000 (UTC)
+START: foo
+                                                            Wed Feb 19 2014 07:30:36 GMT+0000 (UTC)
+START: bar
+                                                            Wed Feb 19 2014 07:30:36 GMT+0000 (UTC)
+Creating conversation 20140119073036474-foo-bar
+                                                            Wed Feb 19 2014 07:30:53 GMT+0000 (UTC)
+Updating convid 20140119073036474-foo-bar to 
+                                                            Wed Feb 19 2014 07:30:53 GMT+0000 (UTC)
+[object Object]
+                                                            Wed Feb 19 2014 07:31:00 GMT+0000 (UTC)
+Updating convid 20140119073036474-foo-bar to 
+                                                            Wed Feb 19 2014 07:31:00 GMT+0000 (UTC)
+[object Object]
+                                                            Wed Feb 19 2014 07:31:03 GMT+0000 (UTC)
+Updating convid 20140119073036474-foo-bar to 
+                                                            Wed Feb 19 2014 07:31:03 GMT+0000 (UTC)
+[object Object]
+                                                            Wed Feb 19 2014 09:03:14 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:03:19 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:03:22 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:03:29 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:03:32 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:04:00 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:04:03 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:04:29 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:04:32 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:04:59 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:05:03 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:05:53 GMT+0000 (UTC)
+giveUp: omer
+                                                            Wed Feb 19 2014 09:06:31 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:07:21 GMT+0000 (UTC)
+giveUp: omer
+                                                            Wed Feb 19 2014 09:08:05 GMT+0000 (UTC)
+START: bar
+                                                            Wed Feb 19 2014 09:08:11 GMT+0000 (UTC)
+START: bar
+                                                            Wed Feb 19 2014 09:08:32 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 09:08:32 GMT+0000 (UTC)
+Creating conversation 20140119090832069-bar-omer
+                                                            Wed Feb 19 2014 09:09:22 GMT+0000 (UTC)
+giveUp*: omer
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 10:52:18 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 10:53:08 GMT+0000 (UTC)
+giveUp: omer
+                                                            Wed Feb 19 2014 10:54:18 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 10:54:42 GMT+0000 (UTC)
+giveUp*: omer
+* But we weren't waiting for them anyway.
+                                                            Wed Feb 19 2014 10:56:15 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 10:56:19 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 10:56:19 GMT+0000 (UTC)
+START: joe
+                                                            Wed Feb 19 2014 10:56:19 GMT+0000 (UTC)
+Creating conversation 20140119105619537-omer-joe
+                                                            Wed Feb 19 2014 10:56:24 GMT+0000 (UTC)
+Updating convid 20140119105619537-omer-joe to 
+                                                            Wed Feb 19 2014 10:56:24 GMT+0000 (UTC)
+[object Object]
+                                                            Wed Feb 19 2014 10:57:47 GMT+0000 (UTC)
+START: joe
+                                                            Wed Feb 19 2014 10:58:37 GMT+0000 (UTC)
+giveUp: joe
+                                                            Wed Feb 19 2014 10:59:02 GMT+0000 (UTC)
+START: joe
+                                                            Wed Feb 19 2014 10:59:07 GMT+0000 (UTC)
+START: omer
+                                                            Wed Feb 19 2014 10:59:07 GMT+0000 (UTC)
+Creating conversation 2014011910597532-joe-omer
+                                                            Wed Feb 19 2014 10:59:11 GMT+0000 (UTC)
+[object Object]
+                                                            Wed Feb 19 2014 10:59:11 GMT+0000 (UTC)
+Updating convid 2014011910597532-joe-omer to 
+                                                            Wed Feb 19 2014 11:01:11 GMT+0000 (UTC)
+Updating convid 2014011910597532-joe-omer to 
+                                                            Wed Feb 19 2014 11:01:11 GMT+0000 (UTC)
+[object Object]

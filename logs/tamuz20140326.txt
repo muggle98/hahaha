@@ -1,0 +1,14 @@
+Tue Mar 25 2014 21:13:39 GMT-0400 (EDT)  tamuz restarting his server.
+Tue Mar 25 2014 21:14:04 GMT-0400 (EDT)  New connection "3Aw6fsLdiMRLRHhW8yJq"
+Tue Mar 25 2014 21:14:04 GMT-0400 (EDT)  hello 1
+Tue Mar 25 2014 21:14:04 GMT-0400 (EDT)  waiting 1
+Tue Mar 25 2014 21:14:07 GMT-0400 (EDT)  New connection "DEn8LN7vWDtfnHdT8yJr"
+Tue Mar 25 2014 21:14:07 GMT-0400 (EDT)  hello 2
+Tue Mar 25 2014 21:14:07 GMT-0400 (EDT)  Creating conversation 2014032601147328-1-2-0.4.3
+Tue Mar 25 2014 21:14:10 GMT-0400 (EDT)  Updating convid 2014032601147328-1-2-0.4.3 to length 1
+Tue Mar 25 2014 21:14:10 GMT-0400 (EDT)  Simsimi: Why did the chicken cross the road? ==> because the chicken just felt like it
+Tue Mar 25 2014 21:15:29 GMT-0400 (EDT)  Updating convid 2014032601147328-1-2-0.4.3 to length 2
+Tue Mar 25 2014 21:15:30 GMT-0400 (EDT)  Simsimi: I would rather not comment on that ==> Than right here beside you
+Tue Mar 25 2014 21:15:35 GMT-0400 (EDT)  Updating convid 2014032601147328-1-2-0.4.3 to length 3
+Tue Mar 25 2014 21:15:36 GMT-0400 (EDT)  Simsimi: Than right here beside you ==> as we lay on the ground i put my arms around you
+Tue Mar 25 2014 21:26:33 GMT-0400 (EDT)  1 disconnected

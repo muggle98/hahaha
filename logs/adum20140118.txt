@@ -1,0 +1,288 @@
+* Tue Feb 18 2014 22:30:07 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014011820253104-Adam-Yael to 
+* Tue Feb 18 2014 22:30:07 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:30:07 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:31:14 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014011820253104-Adam-Yael to 
+* Tue Feb 18 2014 22:31:14 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:31:14 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:33:14 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014011820253104-Adam-Yael to 
+* Tue Feb 18 2014 22:33:14 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:33:14 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:40:00 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014011820253104-Adam-Yael to 
+* Tue Feb 18 2014 22:40:00 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:40:00 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:42:34 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:42:36 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+* Tue Feb 18 2014 22:42:36 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118204236926-Adam-Yael
+* Tue Feb 18 2014 22:42:42 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204236926-Adam-Yael to 
+* Tue Feb 18 2014 22:42:42 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:42:42 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:42:47 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204236926-Adam-Yael to 
+* Tue Feb 18 2014 22:42:47 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:42:47 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:42:56 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204236926-Adam-Yael to 
+* Tue Feb 18 2014 22:42:56 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:42:57 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:44:11 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204236926-Adam-Yael to 
+* Tue Feb 18 2014 22:44:11 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:44:11 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:44:16 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204236926-Adam-Yael to 
+* Tue Feb 18 2014 22:44:16 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:44:16 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:44:24 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204236926-Adam-Yael to 
+* Tue Feb 18 2014 22:44:24 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:45:14 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:45:16 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+* Tue Feb 18 2014 22:45:16 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118204516548-Adam-Yael
+* Tue Feb 18 2014 22:45:22 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:45:22 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:45:22 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:45:23 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:45:23 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:45:23 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:45:26 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:45:26 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:45:26 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:46:21 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:46:21 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:46:21 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:47:16 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:47:16 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:47:17 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:47:24 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:47:24 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:47:24 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:49:25 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118204516548-Adam-Yael to 
+* Tue Feb 18 2014 22:49:25 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+* Tue Feb 18 2014 22:49:25 GMT+0200 (Jerusalem Standard Time)
+null
+* Tue Feb 18 2014 22:53:08 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:53:28 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:53:34 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:53:37 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:53:55 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 22:55:11 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 23:04:39 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118210439427-Adam-Yael
+* Tue Feb 18 2014 23:04:39 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+* Tue Feb 18 2014 23:04:45 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+* Tue Feb 18 2014 23:04:45 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+                                                            Tue Feb 18 2014 23:05:09 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:05:11 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+                                                            Tue Feb 18 2014 23:05:11 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118210511091-Yael-Adam
+                                                            Tue Feb 18 2014 23:05:18 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210511091-Yael-Adam to 
+                                                            Tue Feb 18 2014 23:05:18 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:05:18 GMT+0200 (Jerusalem Standard Time)
+null
+                                                            Tue Feb 18 2014 23:05:23 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210511091-Yael-Adam to 
+                                                            Tue Feb 18 2014 23:05:23 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:05:23 GMT+0200 (Jerusalem Standard Time)
+null
+                                                            Tue Feb 18 2014 23:07:04 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210511091-Yael-Adam to 
+                                                            Tue Feb 18 2014 23:07:04 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:07:30 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:07:30 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210511091-Yael-Adam to 
+                                                            Tue Feb 18 2014 23:08:27 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+                                                            Tue Feb 18 2014 23:08:29 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:08:29 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118210829210-Adam-Yael
+                                                            Tue Feb 18 2014 23:08:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:08:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:08:36 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:08:36 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:08:38 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:08:38 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:08:40 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:08:40 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:08:41 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:08:41 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:08:43 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:08:43 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:10:43 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118210829210-Adam-Yael to 
+                                                            Tue Feb 18 2014 23:10:43 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:11:22 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:11:24 GMT+0200 (Jerusalem Standard Time)
+START: Adam
+                                                            Tue Feb 18 2014 23:11:24 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118211124793-Yael-Adam
+                                                            Tue Feb 18 2014 23:11:29 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118211124793-Yael-Adam to 
+                                                            Tue Feb 18 2014 23:11:29 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:15:19 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:15:21 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:15:21 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118211521064-Yael-Adams
+                                                            Tue Feb 18 2014 23:15:25 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118211521064-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:15:25 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:15:55 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:15:57 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:15:57 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118211557596-Adams-Yael
+                                                            Tue Feb 18 2014 23:17:57 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:20:16 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:20:16 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118212016524-Yael-Adams
+                                                            Tue Feb 18 2014 23:21:03 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:21:05 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:21:05 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014011821215788-Adams-Yael
+                                                            Tue Feb 18 2014 23:21:29 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:21:31 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:21:31 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118212131554-Yael-Adams
+                                                            Tue Feb 18 2014 23:23:31 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:23:35 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118212131554-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:23:35 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:25:07 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:25:11 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:25:11 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118212511056-Adams-Yael
+                                                            Tue Feb 18 2014 23:25:17 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118212511056-Adams-Yael to 
+                                                            Tue Feb 18 2014 23:25:17 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:27:17 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118212511056-Adams-Yael to 
+                                                            Tue Feb 18 2014 23:27:17 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:29:48 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:29:53 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:29:53 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118212953210-Yael-Adams
+                                                            Tue Feb 18 2014 23:29:57 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118212953210-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:29:57 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:30:05 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118212953210-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:30:05 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:31:26 GMT+0200 (Jerusalem Standard Time)
+START: Yael
+                                                            Tue Feb 18 2014 23:31:28 GMT+0200 (Jerusalem Standard Time)
+START: Adams
+                                                            Tue Feb 18 2014 23:31:28 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140118213128418-Yael-Adams
+                                                            Tue Feb 18 2014 23:31:31 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118213128418-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:31:31 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:31:42 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118213128418-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:31:42 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Tue Feb 18 2014 23:33:42 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140118213128418-Yael-Adams to 
+                                                            Tue Feb 18 2014 23:33:42 GMT+0200 (Jerusalem Standard Time)
+[object Object]

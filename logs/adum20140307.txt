@@ -1,0 +1,231 @@
+Fri Mar 07 2014 08:06:27 GMT-0800 (Pacific Standard Time)  adum restarting their server.
+Fri Mar 07 2014 08:06:41 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:07:07 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:07:08 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:07:10 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 08:07:10 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. We are still looking for a partner for you.
+Fri Mar 07 2014 08:07:10 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 08:07:11 GMT-0800 (Pacific Standard Time)  Disconnecting before hello.
+Fri Mar 07 2014 08:07:46 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:07:52 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 08:07:52 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. We are still looking for a partner for you.
+Fri Mar 07 2014 08:07:52 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 08:07:57 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 08:07:57 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307160757835-adam1-adam2-0.4.3
+Fri Mar 07 2014 08:08:05 GMT-0800 (Pacific Standard Time)  Disconnecting adam1
+Fri Mar 07 2014 08:08:06 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 08:08:06 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 08:09:10 GMT-0800 (Pacific Standard Time)  Disconnecting adam2
+Fri Mar 07 2014 08:09:11 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 08:09:11 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307160911811-adam1-adam2-0.4.3
+Fri Mar 07 2014 08:10:56 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:10:58 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 08:10:58 GMT-0800 (Pacific Standard Time)  Updating convid 20140307160911811-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 08:10:58 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 08:10:59 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 08:10:59 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 08:10:59 GMT-0800 (Pacific Standard Time)  Updating convid 20140307160911811-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 08:11:43 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:11:45 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 08:11:45 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 08:11:45 GMT-0800 (Pacific Standard Time)  Updating convid 20140307160911811-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 08:11:46 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 08:11:46 GMT-0800 (Pacific Standard Time)  Updating convid 20140307160911811-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 08:11:46 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 08:11:55 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 08:11:57 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 08:11:57 GMT-0800 (Pacific Standard Time)  waiting adam2
+Fri Mar 07 2014 08:11:57 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 08:11:58 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 08:11:58 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307161158738-adam2-adam1-0.4.3
+Fri Mar 07 2014 08:12:21 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161158738-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 08:13:19 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:13:21 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 08:13:21 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 08:13:21 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161158738-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 08:13:32 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 08:13:34 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 08:13:34 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 08:13:34 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161158738-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 08:13:35 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 08:13:35 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 08:13:37 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 08:13:38 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 08:13:38 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307161338675-adam1-adam2-0.4.3
+Fri Mar 07 2014 08:13:41 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 1
+Fri Mar 07 2014 08:14:06 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 2
+Fri Mar 07 2014 08:14:10 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 3
+Fri Mar 07 2014 08:14:41 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 4
+Fri Mar 07 2014 08:14:45 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:13:49 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 09:13:49 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 09:13:54 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:13:54 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:13:54 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:13:55 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:13:55 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:13:55 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:15:52 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:15:54 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:15:54 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:15:54 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:15:55 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:15:55 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:15:55 GMT-0800 (Pacific Standard Time)  Updating convid 20140307161338675-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:15:57 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 09:15:58 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 09:15:58 GMT-0800 (Pacific Standard Time)  waiting adam2
+Fri Mar 07 2014 09:15:59 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 09:16:01 GMT-0800 (Pacific Standard Time)  Creating conversation 2014030717161032-adam2-adam1-0.4.3
+Fri Mar 07 2014 09:16:01 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 09:16:03 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:18:42 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:18:44 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:18:44 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:18:44 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:18:45 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:18:45 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:18:45 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:21:33 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:21:35 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:21:35 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:21:35 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:21:36 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:21:36 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:21:36 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:21:52 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:21:53 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:21:55 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:21:55 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:21:55 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:21:56 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:21:56 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:21:56 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717161032-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 09:21:57 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 09:21:59 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 09:21:59 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 09:22:00 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 09:22:02 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 09:22:02 GMT-0800 (Pacific Standard Time)  Creating conversation 2014030717222039-adam1-adam2-0.4.3
+Fri Mar 07 2014 09:22:14 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717222039-adam1-adam2-0.4.3 to length 1
+Fri Mar 07 2014 09:22:19 GMT-0800 (Pacific Standard Time)  Updating convid 2014030717222039-adam1-adam2-0.4.3 to length 2
+Fri Mar 07 2014 09:22:33 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 09:34:22 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:34:24 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 09:34:24 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 09:34:36 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 09:34:36 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307173436312-adam1-adam2-0.4.3
+Fri Mar 07 2014 09:37:42 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:37:44 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:37:44 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:37:44 GMT-0800 (Pacific Standard Time)  Updating convid 20140307173436312-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 09:37:45 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:37:45 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:37:45 GMT-0800 (Pacific Standard Time)  Updating convid 20140307173436312-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 09:38:20 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:38:22 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 09:38:22 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. Please continue your conversation.
+Fri Mar 07 2014 09:38:22 GMT-0800 (Pacific Standard Time)  Updating convid 20140307173436312-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 09:38:23 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:38:23 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:38:23 GMT-0800 (Pacific Standard Time)  Updating convid 20140307173436312-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 09:47:42 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:47:44 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam2"}
+Fri Mar 07 2014 09:47:44 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam2. Please continue your conversation.
+Fri Mar 07 2014 09:47:44 GMT-0800 (Pacific Standard Time)  Updating convid 20140307173436312-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 09:47:45 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 09:47:45 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 09:47:45 GMT-0800 (Pacific Standard Time)  Someone disconnected before hello.
+Fri Mar 07 2014 09:47:47 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 09:47:47 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307174747172-adam1-adam2-0.4.3
+Fri Mar 07 2014 09:47:49 GMT-0800 (Pacific Standard Time)  Updating convid 20140307174747172-adam1-adam2-0.4.3 to length 1
+Fri Mar 07 2014 09:47:51 GMT-0800 (Pacific Standard Time)  Updating convid 20140307174747172-adam1-adam2-0.4.3 to length 2
+Fri Mar 07 2014 09:47:52 GMT-0800 (Pacific Standard Time)  Updating convid 20140307174747172-adam1-adam2-0.4.3 to length 3
+Fri Mar 07 2014 09:48:00 GMT-0800 (Pacific Standard Time)  Updating convid 20140307174747172-adam1-adam2-0.4.3 to length 4
+Fri Mar 07 2014 09:48:54 GMT-0800 (Pacific Standard Time)  Updating convid 20140307174747172-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:53:31 GMT-0800 (Pacific Standard Time)  Signing out adam2
+Fri Mar 07 2014 09:53:31 GMT-0800 (Pacific Standard Time)  Updating convid 20140307174747172-adam1-adam2-0.4.3 to length 5
+Fri Mar 07 2014 09:53:31 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 09:53:31 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 09:57:14 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 09:57:18 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 09:57:18 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 09:57:19 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 09:57:19 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307175719943-adam1-adam2-0.4.3
+Fri Mar 07 2014 10:03:56 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:03:58 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:03:58 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:04:01 GMT-0800 (Pacific Standard Time)  Signing out adam2
+Fri Mar 07 2014 10:04:01 GMT-0800 (Pacific Standard Time)  Updating convid 20140307175719943-adam1-adam2-0.4.3 to length 0
+Fri Mar 07 2014 10:04:01 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:04:01 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:05:41 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 10:05:48 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 10:05:52 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:05:52 GMT-0800 (Pacific Standard Time)  waiting adam2
+Fri Mar 07 2014 10:05:55 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:05:55 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180555893-adam2-adam1-0.4.3
+Fri Mar 07 2014 10:06:00 GMT-0800 (Pacific Standard Time)  Updating convid 20140307180555893-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 10:07:13 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:07:14 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:07:14 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:07:15 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:07:16 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:07:16 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180716585-adam1-adam2-0.4.3
+Fri Mar 07 2014 10:07:44 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:07:45 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:07:45 GMT-0800 (Pacific Standard Time)  waiting adam2
+Fri Mar 07 2014 10:07:46 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:07:47 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:07:47 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180747878-adam2-adam1-0.4.3
+Fri Mar 07 2014 10:08:22 GMT-0800 (Pacific Standard Time)  Updating convid 20140307180747878-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 10:08:54 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:08:55 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:08:55 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:08:56 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:08:57 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:08:57 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180857417-adam1-adam2-0.4.3
+Fri Mar 07 2014 10:09:11 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:09:12 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:09:12 GMT-0800 (Pacific Standard Time)  waiting adam2
+Fri Mar 07 2014 10:09:13 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:09:15 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180915084-adam2-adam1-0.4.3
+Fri Mar 07 2014 10:09:15 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:09:24 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:09:25 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:09:25 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:09:25 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:09:26 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:09:26 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180926679-adam1-adam2-0.4.3
+Fri Mar 07 2014 10:09:33 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:09:34 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:09:34 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:09:35 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:09:37 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:09:37 GMT-0800 (Pacific Standard Time)  Creating conversation 20140307180937001-adam1-adam2-0.4.3
+Fri Mar 07 2014 10:09:49 GMT-0800 (Pacific Standard Time)  Updating convid 20140307180937001-adam1-adam2-0.4.3 to length 1
+Fri Mar 07 2014 10:10:00 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:10:01 GMT-0800 (Pacific Standard Time)  hello adam2
+Fri Mar 07 2014 10:10:01 GMT-0800 (Pacific Standard Time)  waiting adam2
+Fri Mar 07 2014 10:10:02 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:10:03 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:10:03 GMT-0800 (Pacific Standard Time)  Creating conversation 2014030718103501-adam2-adam1-0.4.3
+Fri Mar 07 2014 10:10:11 GMT-0800 (Pacific Standard Time)  Updating convid 2014030718103501-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 10:26:25 GMT-0800 (Pacific Standard Time)  Signing out adam1
+Fri Mar 07 2014 10:26:25 GMT-0800 (Pacific Standard Time)  Updating convid 2014030718103501-adam2-adam1-0.4.3 to length 1
+Fri Mar 07 2014 10:26:25 GMT-0800 (Pacific Standard Time)  adam2 disconnected
+Fri Mar 07 2014 10:26:25 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:27:12 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 10:27:20 GMT-0800 (Pacific Standard Time)  hello adam1
+Fri Mar 07 2014 10:27:20 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:29:13 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 10:29:15 GMT-0800 (Pacific Standard Time)  rlog {"msg":"reconnect","wid":"adam1"}
+Fri Mar 07 2014 10:29:15 GMT-0800 (Pacific Standard Time)  Thanks for reconnecting adam1. We are still looking for a partner for you.
+Fri Mar 07 2014 10:29:15 GMT-0800 (Pacific Standard Time)  waiting adam1
+Fri Mar 07 2014 10:29:42 GMT-0800 (Pacific Standard Time)  adam1 disconnected
+Fri Mar 07 2014 10:37:02 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 10:55:14 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 11:12:14 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 11:36:00 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 11:39:31 GMT-0800 (Pacific Standard Time)  adum restarting his server.
+Fri Mar 07 2014 11:42:31 GMT-0800 (Pacific Standard Time)  adum restarting his server.

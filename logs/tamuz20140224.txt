@@ -1,0 +1,36 @@
+                                                            Mon Feb 24 2014 18:26:46 GMT+0200 (EST)
+hello test1
+                                                            Mon Feb 24 2014 18:26:46 GMT+0200 (EST)
+Waiting test1
+                                                            Mon Feb 24 2014 18:26:50 GMT+0200 (EST)
+hello test2
+                                                            Mon Feb 24 2014 18:26:50 GMT+0200 (EST)
+Creating conversation 20140224162650257-test1-test2-0.4.3
+                                                            Mon Feb 24 2014 18:26:52 GMT+0200 (EST)
+Updating convid 20140224162650257-test1-test2-0.4.3 to 
+                                                            Mon Feb 24 2014 18:26:52 GMT+0200 (EST)
+[object Object]
+                                                            Mon Feb 24 2014 18:27:03 GMT+0200 (EST)
+Updating convid 20140224162650257-test1-test2-0.4.3 to 
+                                                            Mon Feb 24 2014 18:27:03 GMT+0200 (EST)
+[object Object]
+                                                            Mon Feb 24 2014 18:27:08 GMT+0200 (EST)
+Updating convid 20140224162650257-test1-test2-0.4.3 to 
+                                                            Mon Feb 24 2014 18:27:08 GMT+0200 (EST)
+[object Object]
+                                                            Mon Feb 24 2014 18:27:16 GMT+0200 (EST)
+Updating convid 20140224162650257-test1-test2-0.4.3 to 
+                                                            Mon Feb 24 2014 18:27:16 GMT+0200 (EST)
+[object Object]
+                                                            Mon Feb 24 2014 18:27:28 GMT+0200 (EST)
+Updating convid 20140224162650257-test1-test2-0.4.3 to 
+                                                            Mon Feb 24 2014 18:27:28 GMT+0200 (EST)
+[object Object]
+                                                            Mon Feb 24 2014 18:27:34 GMT+0200 (EST)
+Updating convid 20140224162650257-test1-test2-0.4.3 to 
+                                                            Mon Feb 24 2014 18:27:34 GMT+0200 (EST)
+[object Object]
+                                                            Mon Feb 24 2014 18:29:39 GMT+0200 (EST)
+Disconnecting test2
+                                                            Mon Feb 24 2014 18:29:40 GMT+0200 (EST)
+Disconnecting test1

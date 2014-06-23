@@ -1,0 +1,658 @@
+                                                            Thu Feb 20 2014 11:07:39 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:07:59 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:07:59 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120090759743-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:08:24 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120090759743-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:08:24 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:08:32 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120090759743-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:08:32 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:08:37 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120090759743-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:08:37 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:08:54 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120090759743-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:08:54 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:10:09 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:10:11 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:10:11 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120091011882-Jennifer-Christian
+                                                            Thu Feb 20 2014 11:10:15 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120091011882-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:10:15 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:10:17 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120091011882-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:10:17 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:10:21 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120091011882-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:10:21 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:14:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120091011882-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:14:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:20:48 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:21:38 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:21:38 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:21:43 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:21:43 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120092143428-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:21:45 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:21:45 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092143428-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:21:54 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092143428-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:21:54 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:24:12 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:24:15 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:24:15 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120092415842-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:24:16 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092415842-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:24:16 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:25:23 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092415842-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:25:23 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:26:56 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:27:13 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:27:13 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120092713344-Jennifer-Christian
+                                                            Thu Feb 20 2014 11:27:30 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092713344-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:27:30 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:27:35 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092713344-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:27:35 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:27:41 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092713344-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:27:41 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:27:44 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092713344-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:27:44 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:27:47 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120092713344-Jennifer-Christian to 
+                                                            Thu Feb 20 2014 11:27:47 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:32:19 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:32:24 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:32:24 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120093224386-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:32:32 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093224386-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:32:32 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:32:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093224386-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:32:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:33:44 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:33:46 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:33:46 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120093346090-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:33:49 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093346090-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:33:49 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:33:50 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093346090-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:33:50 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:35:29 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:35:32 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:35:32 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120093532322-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:35:40 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093532322-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:35:40 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:35:42 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093532322-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:35:42 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:36:05 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:36:06 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:36:06 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014012009366038-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:36:46 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012009366038-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:36:46 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:36:48 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012009366038-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:36:48 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:37:32 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012009366038-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:37:32 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:37:36 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012009366038-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:37:36 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:37:54 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:37:58 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:37:58 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120093758897-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:38:01 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093758897-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:38:01 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:38:04 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120093758897-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:38:04 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:40:17 GMT+0200 (Jerusalem Standard Time)
+START: Christian
+                                                            Thu Feb 20 2014 11:40:22 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:40:22 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120094022144-Christian-Jennifer
+                                                            Thu Feb 20 2014 11:40:24 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:40:24 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:40:25 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:40:25 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:40:27 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:40:27 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:40:31 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:40:31 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:40:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:40:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:42:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:42:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:58:07 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120094022144-Christian-Jennifer to 
+                                                            Thu Feb 20 2014 11:58:07 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 11:58:15 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 11:59:05 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 11:59:10 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:00:00 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 12:00:07 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:00:08 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:00:57 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 12:00:58 GMT+0200 (Jerusalem Standard Time)
+giveUp*: Jennifer
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 12:01:12 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:01:13 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:01:57 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:02 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:02 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 12:02:04 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:06 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:09 GMT+0200 (Jerusalem Standard Time)
+START: Jenniferd
+                                                            Thu Feb 20 2014 12:02:09 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014012010029354-Jennifer-Jenniferd
+                                                            Thu Feb 20 2014 12:02:22 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:02:23 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:02:25 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:02:26 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:26 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120100226577-JHohn-Jennifer
+                                                            Thu Feb 20 2014 12:02:26 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:28 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120100226577-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:02:28 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:02:37 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:37 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:41 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:02:41 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:06 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:06 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:07 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:08 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:16 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:16 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:03:57 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:04:03 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:04:03 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:04:06 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014012010046022-Jennifer-JHohn
+                                                            Thu Feb 20 2014 12:04:06 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:04:30 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012010046022-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:04:30 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:04:32 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012010046022-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:04:32 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:04:33 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012010046022-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:04:33 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:04:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012010046022-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:04:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:07:01 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:07:03 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:07:03 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014012010073428-Jennifer-JHohn
+                                                            Thu Feb 20 2014 12:07:05 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012010073428-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:07:05 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:07:19 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012010073428-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:07:19 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:09:20 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:09:25 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:09:25 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120100925008-Jennifer-JHohn
+                                                            Thu Feb 20 2014 12:09:28 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120100925008-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:09:28 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:09:31 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120100925008-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:09:31 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:11:17 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:12:07 GMT+0200 (Jerusalem Standard Time)
+giveUp: JHohn
+                                                            Thu Feb 20 2014 12:25:43 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:25:49 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:25:49 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120102549296-JHohn-Jennifer
+                                                            Thu Feb 20 2014 12:26:14 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120102549296-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:26:14 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:26:38 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:26:40 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:26:40 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120102640223-Jennifer-JHohn
+                                                            Thu Feb 20 2014 12:26:41 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120102640223-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:26:41 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:28:42 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120102640223-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:28:42 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:29:18 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:29:21 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:29:21 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120102921765-JHohn-Jennifer
+                                                            Thu Feb 20 2014 12:29:23 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120102921765-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:29:23 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:29:25 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120102921765-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:29:25 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:31:26 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120102921765-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:31:26 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:33:43 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:33:46 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:33:46 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120103346236-JHohn-Jennifer
+                                                            Thu Feb 20 2014 12:33:50 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:33:50 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:33:52 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:33:52 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:34:20 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:34:20 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:34:25 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:34:25 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:34:34 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:34:34 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:34:36 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:34:36 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:36:36 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103346236-JHohn-Jennifer to 
+                                                            Thu Feb 20 2014 12:36:36 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:38:34 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 12:38:40 GMT+0200 (Jerusalem Standard Time)
+START: JHohn
+                                                            Thu Feb 20 2014 12:38:40 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120103840860-Jennifer-JHohn
+                                                            Thu Feb 20 2014 12:38:45 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103840860-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:38:45 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:38:55 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103840860-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:38:55 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:39:02 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103840860-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:39:02 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 12:41:02 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120103840860-Jennifer-JHohn to 
+                                                            Thu Feb 20 2014 12:41:02 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 14:14:39 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:15:29 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 14:16:39 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:17:05 GMT+0200 (Jerusalem Standard Time)
+giveUp*: Jennifer
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 14:17:50 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:18:35 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:18:39 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:18:40 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:18:49 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:18:49 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:19:39 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 14:20:50 GMT+0200 (Jerusalem Standard Time)
+START: Jennifer
+                                                            Thu Feb 20 2014 14:21:40 GMT+0200 (Jerusalem Standard Time)
+giveUp: Jennifer
+                                                            Thu Feb 20 2014 14:43:59 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:44:49 GMT+0200 (Jerusalem Standard Time)
+giveUp: Al
+                                                            Thu Feb 20 2014 14:45:59 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:46:22 GMT+0200 (Jerusalem Standard Time)
+giveUp*: Al
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 14:46:31 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:46:57 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:46:58 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:48:03 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:48:26 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:48:29 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:49:19 GMT+0200 (Jerusalem Standard Time)
+giveUp: Al
+                                                            Thu Feb 20 2014 14:50:30 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 14:51:20 GMT+0200 (Jerusalem Standard Time)
+giveUp: Al
+                                                            Thu Feb 20 2014 15:10:22 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:11:12 GMT+0200 (Jerusalem Standard Time)
+giveUp: Al
+                                                            Thu Feb 20 2014 15:12:10 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:12:10 GMT+0200 (Jerusalem Standard Time)
+giveUp: Al
+                                                            Thu Feb 20 2014 15:13:09 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:13:39 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:13:40 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:13:44 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:13:44 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 15:14:34 GMT+0200 (Jerusalem Standard Time)
+giveUp: Al
+                                                            Thu Feb 20 2014 15:15:02 GMT+0200 (Jerusalem Standard Time)
+giveUp*: Al
+* But we weren't waiting for them anyway.
+                                                            Thu Feb 20 2014 15:15:02 GMT+0200 (Jerusalem Standard Time)
+START: Al
+                                                            Thu Feb 20 2014 16:16:25 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 16:16:25 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 16:17:34 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 16:17:34 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 16:17:38 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 16:17:38 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120141738982-Al2-Al
+                                                            Thu Feb 20 2014 16:17:38 GMT+0200 (Jerusalem Standard Time)
+Created conversation 20140120141738982-Al2-Al
+                                                            Thu Feb 20 2014 16:58:19 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 16:58:19 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 16:59:12 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 16:59:12 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 17:22:29 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 17:22:29 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:22:56 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 17:22:56 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:22:59 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 17:22:59 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:50:21 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 17:50:21 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 17:52:36 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 17:52:36 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 17:53:03 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 17:53:03 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 17:53:45 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:53:45 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 17:55:21 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:55:21 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 17:57:01 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:57:01 GMT+0200 (Jerusalem Standard Time)
+Waiting Al
+                                                            Thu Feb 20 2014 17:57:02 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 17:57:02 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014012015572443-Al-Al2
+                                                            Thu Feb 20 2014 17:57:02 GMT+0200 (Jerusalem Standard Time)
+Created conversation 2014012015572443-Al-Al2
+                                                            Thu Feb 20 2014 17:57:03 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012015572443-Al-Al2 to 
+                                                            Thu Feb 20 2014 17:57:03 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 17:57:25 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012015572443-Al-Al2 to 
+                                                            Thu Feb 20 2014 17:57:25 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 17:57:27 GMT+0200 (Jerusalem Standard Time)
+Updating convid 2014012015572443-Al-Al2 to 
+                                                            Thu Feb 20 2014 17:57:27 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 17:57:33 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 17:57:33 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 17:57:35 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 17:57:35 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140120155735613-Al2-Al
+                                                            Thu Feb 20 2014 17:57:35 GMT+0200 (Jerusalem Standard Time)
+Created conversation 20140120155735613-Al2-Al
+                                                            Thu Feb 20 2014 17:57:41 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120155735613-Al2-Al to 
+                                                            Thu Feb 20 2014 17:57:41 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 17:57:44 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120155735613-Al2-Al to 
+                                                            Thu Feb 20 2014 17:57:44 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 17:57:47 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120155735613-Al2-Al to 
+                                                            Thu Feb 20 2014 17:57:47 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 17:57:49 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120155735613-Al2-Al to 
+                                                            Thu Feb 20 2014 17:57:49 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 18:04:06 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140120155735613-Al2-Al to 
+                                                            Thu Feb 20 2014 18:04:06 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 18:14:10 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 18:14:10 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 18:14:12 GMT+0200 (Jerusalem Standard Time)
+hello Al
+                                                            Thu Feb 20 2014 18:14:12 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 20140220161412517-Al2-Al
+                                                            Thu Feb 20 2014 18:14:12 GMT+0200 (Jerusalem Standard Time)
+Created conversation 20140220161412517-Al2-Al
+                                                            Thu Feb 20 2014 18:14:30 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140220161412517-Al2-Al to 
+                                                            Thu Feb 20 2014 18:14:30 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 18:14:36 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140220161412517-Al2-Al to 
+                                                            Thu Feb 20 2014 18:14:36 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 18:14:48 GMT+0200 (Jerusalem Standard Time)
+Updating convid 20140220161412517-Al2-Al to 
+                                                            Thu Feb 20 2014 18:14:48 GMT+0200 (Jerusalem Standard Time)
+[object Object]
+                                                            Thu Feb 20 2014 18:30:57 GMT+0200 (Jerusalem Standard Time)
+hello Al2
+                                                            Thu Feb 20 2014 18:30:57 GMT+0200 (Jerusalem Standard Time)
+Waiting Al2
+                                                            Thu Feb 20 2014 18:31:01 GMT+0200 (Jerusalem Standard Time)
+hello 
+                                                            Thu Feb 20 2014 18:31:01 GMT+0200 (Jerusalem Standard Time)
+Creating conversation 2014022016311338-Al2-
+                                                            Thu Feb 20 2014 18:31:01 GMT+0200 (Jerusalem Standard Time)
+Created conversation 2014022016311338-Al2-

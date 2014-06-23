@@ -1,0 +1,140 @@
+                                                            Fri Feb 21 2014 01:23:24 GMT+0200 (IST)
+hello omer
+                                                            Fri Feb 21 2014 01:23:24 GMT+0200 (IST)
+Waiting omer
+                                                            Fri Feb 21 2014 01:24:22 GMT+0200 (IST)
+hello omer
+                                                            Fri Feb 21 2014 01:24:22 GMT+0200 (IST)
+Waiting omer
+                                                            Fri Feb 21 2014 01:25:00 GMT+0200 (IST)
+hello omer
+                                                            Fri Feb 21 2014 01:25:00 GMT+0200 (IST)
+Waiting omer
+                                                            Fri Feb 21 2014 01:41:58 GMT+0200 (IST)
+hello xyz
+                                                            Fri Feb 21 2014 01:41:58 GMT+0200 (IST)
+Creating conversation 20140220234158919-omer-xyz
+                                                            Fri Feb 21 2014 01:42:02 GMT+0200 (IST)
+hello abc
+                                                            Fri Feb 21 2014 01:42:02 GMT+0200 (IST)
+Waiting abc
+                                                            Fri Feb 21 2014 01:42:06 GMT+0200 (IST)
+hello xyz
+                                                            Fri Feb 21 2014 01:42:06 GMT+0200 (IST)
+Creating conversation 2014022023426492-abc-xyz
+                                                            Fri Feb 21 2014 01:42:17 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:42:17 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:42:23 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:42:23 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:42:37 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:42:37 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:43:33 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:43:33 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:43:38 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:43:38 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:43:56 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:43:56 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:44:01 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:44:01 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:44:15 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:44:15 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:44:26 GMT+0200 (IST)
+Updating convid 2014022023426492-abc-xyz to 
+                                                            Fri Feb 21 2014 01:44:26 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:45:23 GMT+0200 (IST)
+hello xyz
+                                                            Fri Feb 21 2014 01:45:23 GMT+0200 (IST)
+Waiting xyz
+                                                            Fri Feb 21 2014 01:45:25 GMT+0200 (IST)
+hello abc
+                                                            Fri Feb 21 2014 01:45:25 GMT+0200 (IST)
+Creating conversation 20140220234525947-xyz-abc
+                                                            Fri Feb 21 2014 01:45:41 GMT+0200 (IST)
+Updating convid 20140220234525947-xyz-abc to 
+                                                            Fri Feb 21 2014 01:45:41 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:45:47 GMT+0200 (IST)
+Updating convid 20140220234525947-xyz-abc to 
+                                                            Fri Feb 21 2014 01:45:47 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:48:09 GMT+0200 (IST)
+hello xyz
+                                                            Fri Feb 21 2014 01:48:09 GMT+0200 (IST)
+Waiting xyz
+                                                            Fri Feb 21 2014 01:48:11 GMT+0200 (IST)
+hello abc
+                                                            Fri Feb 21 2014 01:48:11 GMT+0200 (IST)
+Creating conversation 20140220234811569-xyz-abc
+                                                            Fri Feb 21 2014 01:48:18 GMT+0200 (IST)
+Updating convid 20140220234811569-xyz-abc to 
+                                                            Fri Feb 21 2014 01:48:18 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:49:28 GMT+0200 (IST)
+hello 1
+                                                            Fri Feb 21 2014 01:49:28 GMT+0200 (IST)
+Waiting 1
+                                                            Fri Feb 21 2014 01:49:30 GMT+0200 (IST)
+hello 
+                                                            Fri Feb 21 2014 01:49:30 GMT+0200 (IST)
+Creating conversation 20140220234930708-1-
+                                                            Fri Feb 21 2014 01:49:35 GMT+0200 (IST)
+hello 2
+                                                            Fri Feb 21 2014 01:49:35 GMT+0200 (IST)
+Waiting 2
+                                                            Fri Feb 21 2014 01:49:40 GMT+0200 (IST)
+hello 3
+                                                            Fri Feb 21 2014 01:49:40 GMT+0200 (IST)
+Creating conversation 20140220234940193-2-3
+                                                            Fri Feb 21 2014 01:49:43 GMT+0200 (IST)
+hello 4
+                                                            Fri Feb 21 2014 01:49:43 GMT+0200 (IST)
+Waiting 4
+                                                            Fri Feb 21 2014 01:49:45 GMT+0200 (IST)
+hello 5
+                                                            Fri Feb 21 2014 01:49:45 GMT+0200 (IST)
+Creating conversation 20140220234945462-4-5
+                                                            Fri Feb 21 2014 01:49:47 GMT+0200 (IST)
+hello 6
+                                                            Fri Feb 21 2014 01:49:47 GMT+0200 (IST)
+Waiting 6
+                                                            Fri Feb 21 2014 01:49:51 GMT+0200 (IST)
+hello 7
+                                                            Fri Feb 21 2014 01:49:51 GMT+0200 (IST)
+Creating conversation 20140220234951702-6-7
+                                                            Fri Feb 21 2014 01:49:55 GMT+0200 (IST)
+hello 8
+                                                            Fri Feb 21 2014 01:49:55 GMT+0200 (IST)
+Waiting 8
+                                                            Fri Feb 21 2014 01:49:57 GMT+0200 (IST)
+Updating convid 20140220234930708-1- to 
+                                                            Fri Feb 21 2014 01:49:57 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:50:05 GMT+0200 (IST)
+Updating convid 20140220234940193-2-3 to 
+                                                            Fri Feb 21 2014 01:50:05 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:50:11 GMT+0200 (IST)
+Updating convid 20140220234945462-4-5 to 
+                                                            Fri Feb 21 2014 01:50:11 GMT+0200 (IST)
+[object Object]
+                                                            Fri Feb 21 2014 01:50:17 GMT+0200 (IST)
+Updating convid 20140220234951702-6-7 to 
+                                                            Fri Feb 21 2014 01:50:17 GMT+0200 (IST)
+[object Object]

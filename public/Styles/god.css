@@ -1,0 +1,15 @@
+.messages{
+    margin-left: 100px;
+}
+
+.chat-line-one{
+    color: blue;
+}
+
+.chat-line-two{
+    color: green;
+}
+
+.not-a-suggestion{
+    text-decoration: underline;
+}
