@@ -1,0 +1,203 @@
+Mon Jun 23 2014 20:07:13 GMT-0400 (EDT)  muggle restarting his server.
+Mon Jun 23 2014 20:07:25 GMT-0400 (EDT)  New connection "q73us25BAJkOFfwgMqoH"
+Mon Jun 23 2014 20:07:25 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 20:07:25 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 20:07:34 GMT-0400 (EDT)  New connection "BjPewrjsSC0hTABNMqoI"
+Mon Jun 23 2014 20:07:34 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 20:07:34 GMT-0400 (EDT)  Creating conversation 20140624000734817-hh-5-0.4.3
+Mon Jun 23 2014 20:09:23 GMT-0400 (EDT)  Updating convid 20140624000734817-hh-5-0.4.3 to length 1
+Mon Jun 23 2014 20:12:50 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 20:12:57 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 20:12:59 GMT-0400 (EDT)  New connection "O5EQ3OGMdzfp55cjMqoJ"
+Mon Jun 23 2014 20:12:59 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 20:12:59 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 20:13:04 GMT-0400 (EDT)  New connection "Frfk9y7OZysIwCaJMqoK"
+Mon Jun 23 2014 20:13:04 GMT-0400 (EDT)  hello t
+Mon Jun 23 2014 20:13:04 GMT-0400 (EDT)  Creating conversation 2014062400134471-hh-t-0.4.3
+Mon Jun 23 2014 20:13:12 GMT-0400 (EDT)  Updating convid 2014062400134471-hh-t-0.4.3 to length 1
+Mon Jun 23 2014 20:13:14 GMT-0400 (EDT)  Simsimi: I bump into your mom ==> *Gets tiny dick in moms huge pussy
+Mon Jun 23 2014 20:49:37 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 20:49:38 GMT-0400 (EDT)  t disconnected
+Mon Jun 23 2014 20:49:43 GMT-0400 (EDT)  New connection "CFUXRiJnIGvpjSvtMqoL"
+Mon Jun 23 2014 20:49:43 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 20:49:43 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 20:49:49 GMT-0400 (EDT)  New connection "YXnPNS2doauBgM8bMqoM"
+Mon Jun 23 2014 20:49:49 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 20:49:49 GMT-0400 (EDT)  Creating conversation 20140624004949195-hh-5-0.4.3
+Mon Jun 23 2014 20:50:11 GMT-0400 (EDT)  Updating convid 20140624004949195-hh-5-0.4.3 to length 1
+Mon Jun 23 2014 20:56:35 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 20:56:36 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 20:56:40 GMT-0400 (EDT)  New connection "RJ5fhEcV2kF0Ta9LMqoN"
+Mon Jun 23 2014 20:56:40 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 20:56:40 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 20:56:45 GMT-0400 (EDT)  New connection "jHR_w7Z8V0Vx782_MqoO"
+Mon Jun 23 2014 20:56:45 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 20:56:45 GMT-0400 (EDT)  Creating conversation 20140624005645230-hh-gg-0.4.3
+Mon Jun 23 2014 20:56:56 GMT-0400 (EDT)  Updating convid 20140624005645230-hh-gg-0.4.3 to length 1
+Mon Jun 23 2014 20:56:59 GMT-0400 (EDT)  Simsimi: I bump into my mom ==> i own that
+Mon Jun 23 2014 21:01:17 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 21:01:18 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 21:01:20 GMT-0400 (EDT)  New connection "c_3sU7Se_dhBeT49MqoP"
+Mon Jun 23 2014 21:01:20 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 21:01:20 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 21:01:25 GMT-0400 (EDT)  New connection "dyCdc34kYHvFI811MqoQ"
+Mon Jun 23 2014 21:01:25 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 21:01:25 GMT-0400 (EDT)  Creating conversation 20140624010125136-hh-5-0.4.3
+Mon Jun 23 2014 21:01:36 GMT-0400 (EDT)  Updating convid 20140624010125136-hh-5-0.4.3 to length 1
+Mon Jun 23 2014 21:01:37 GMT-0400 (EDT)  Using cached Simsimi: I bump into your mom ==> *Gets tiny dick in moms huge pussy
+Mon Jun 23 2014 21:02:43 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 21:02:44 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 21:02:48 GMT-0400 (EDT)  New connection "wID7g_wwd5-PMEibMqoR"
+Mon Jun 23 2014 21:02:48 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 21:02:48 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 21:02:54 GMT-0400 (EDT)  New connection "8tBX90sSNR6CIEATMqoS"
+Mon Jun 23 2014 21:02:54 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 21:02:54 GMT-0400 (EDT)  Creating conversation 20140624010254438-5-gg-0.4.3
+Mon Jun 23 2014 21:03:02 GMT-0400 (EDT)  Updating convid 20140624010254438-5-gg-0.4.3 to length 1
+Mon Jun 23 2014 21:03:03 GMT-0400 (EDT)  Using cached Simsimi: I bump into my mom ==> i own that
+Mon Jun 23 2014 21:38:23 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 21:38:23 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 21:38:28 GMT-0400 (EDT)  New connection "qtbpaPtOflUYkvvAMqoT"
+Mon Jun 23 2014 21:38:28 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 21:38:28 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 21:38:31 GMT-0400 (EDT)  New connection "gupFRF61tIe3twcbMqoU"
+Mon Jun 23 2014 21:38:31 GMT-0400 (EDT)  hello 8
+Mon Jun 23 2014 21:38:31 GMT-0400 (EDT)  Creating conversation 20140624013831503-5-8-0.4.3
+Mon Jun 23 2014 21:38:40 GMT-0400 (EDT)  Updating convid 20140624013831503-5-8-0.4.3 to length 1
+Mon Jun 23 2014 21:38:42 GMT-0400 (EDT)  Using cached Simsimi: I bump into your mom ==> *Gets tiny dick in moms huge pussy
+Mon Jun 23 2014 21:44:22 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 21:44:22 GMT-0400 (EDT)  8 disconnected
+Mon Jun 23 2014 21:44:26 GMT-0400 (EDT)  New connection "DglxXExvn1Sj0tvWMqoV"
+Mon Jun 23 2014 21:44:26 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 21:44:26 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 21:44:31 GMT-0400 (EDT)  New connection "w0fYTJisXC8smV9QMqoW"
+Mon Jun 23 2014 21:44:31 GMT-0400 (EDT)  hello 8
+Mon Jun 23 2014 21:44:31 GMT-0400 (EDT)  Creating conversation 20140624014431379-5-8-0.4.3
+Mon Jun 23 2014 21:44:41 GMT-0400 (EDT)  Updating convid 20140624014431379-5-8-0.4.3 to length 1
+Mon Jun 23 2014 21:44:42 GMT-0400 (EDT)  Using cached Simsimi: I bump into your mom ==> *Gets tiny dick in moms huge pussy
+Mon Jun 23 2014 21:48:28 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 21:48:29 GMT-0400 (EDT)  8 disconnected
+Mon Jun 23 2014 21:48:33 GMT-0400 (EDT)  New connection "z8oyXhkVr5vSbP_JMqoX"
+Mon Jun 23 2014 21:48:33 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 21:48:33 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 21:48:38 GMT-0400 (EDT)  New connection "YutoPwvflOB3OY3YMqoY"
+Mon Jun 23 2014 21:48:38 GMT-0400 (EDT)  Creating conversation 20140624014838614-5-gg-0.4.3
+Mon Jun 23 2014 21:48:38 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 21:48:51 GMT-0400 (EDT)  Updating convid 20140624014838614-5-gg-0.4.3 to length 1
+Mon Jun 23 2014 21:48:52 GMT-0400 (EDT)  Simsimi: I've done ==> *sings Within you by David Bowie
+Mon Jun 23 2014 21:50:27 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 21:50:27 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 21:50:30 GMT-0400 (EDT)  New connection "wgVXQ1S_n9t9bUbGMqoZ"
+Mon Jun 23 2014 21:50:31 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 21:50:31 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 21:50:34 GMT-0400 (EDT)  New connection "15agw6B92Dtv2YNOMqoa"
+Mon Jun 23 2014 21:50:34 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 21:50:34 GMT-0400 (EDT)  Creating conversation 20140624015034491-5-gg-0.4.3
+Mon Jun 23 2014 21:50:39 GMT-0400 (EDT)  Updating convid 20140624015034491-5-gg-0.4.3 to length 1
+Mon Jun 23 2014 21:50:42 GMT-0400 (EDT)  Using cached Simsimi: I've done ==> *sings Within you by David Bowie
+Mon Jun 23 2014 22:00:49 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 22:00:49 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 22:00:54 GMT-0400 (EDT)  New connection "vrVnrrVjlJQ_RWNKMqob"
+Mon Jun 23 2014 22:00:54 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:00:54 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:01:05 GMT-0400 (EDT)  New connection "qng-9oOBCYFOqdAAMqoc"
+Mon Jun 23 2014 22:01:06 GMT-0400 (EDT)  hello t
+Mon Jun 23 2014 22:01:06 GMT-0400 (EDT)  Creating conversation 2014062402016050-hh-t-0.4.3
+Mon Jun 23 2014 22:04:08 GMT-0400 (EDT)  Updating convid 2014062402016050-hh-t-0.4.3 to length 1
+Mon Jun 23 2014 22:04:09 GMT-0400 (EDT)  Simsimi: I love you ==> Awwww!!! I love me too!!
+Mon Jun 23 2014 22:11:57 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 22:11:58 GMT-0400 (EDT)  t disconnected
+Mon Jun 23 2014 22:12:06 GMT-0400 (EDT)  New connection "D-F73QUpnNcaWLomMqod"
+Mon Jun 23 2014 22:12:06 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:12:06 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:12:11 GMT-0400 (EDT)  New connection "qk1jLogQlEJtOqVnMqoe"
+Mon Jun 23 2014 22:12:11 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 22:12:11 GMT-0400 (EDT)  Creating conversation 20140624021211926-hh-5-0.4.3
+Mon Jun 23 2014 22:12:20 GMT-0400 (EDT)  Updating convid 20140624021211926-hh-5-0.4.3 to length 1
+Mon Jun 23 2014 22:12:21 GMT-0400 (EDT)  Simsimi: I heart egg ==> go to dead
+Mon Jun 23 2014 22:22:49 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 22:22:49 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 22:22:56 GMT-0400 (EDT)  New connection "VorYPwv55rH8vJhlMqof"
+Mon Jun 23 2014 22:22:56 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:22:56 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:23:18 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 22:23:23 GMT-0400 (EDT)  New connection "s_VGCiNtmI3TiOtSMqog"
+Mon Jun 23 2014 22:23:23 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 22:23:23 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 22:24:49 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 22:24:52 GMT-0400 (EDT)  New connection "fhGQTPoyZVliibm5Mqoh"
+Mon Jun 23 2014 22:24:52 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:24:52 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:24:57 GMT-0400 (EDT)  New connection "P5Dtg1zTQ4wD0l2MMqoi"
+Mon Jun 23 2014 22:24:57 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 22:24:57 GMT-0400 (EDT)  Creating conversation 20140624022457574-hh-gg-0.4.3
+Mon Jun 23 2014 22:25:05 GMT-0400 (EDT)  Updating convid 20140624022457574-hh-gg-0.4.3 to length 1
+Mon Jun 23 2014 22:25:07 GMT-0400 (EDT)  Simsimi: I've got enought ==> two tickets to paradise
+Mon Jun 23 2014 22:27:32 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 22:27:34 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 22:27:36 GMT-0400 (EDT)  New connection "FkL7-87xix5yBCanMqoj"
+Mon Jun 23 2014 22:27:36 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 22:27:36 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 22:27:39 GMT-0400 (EDT)  New connection "6f0MUXcBmGZL2K0fMqok"
+Mon Jun 23 2014 22:27:39 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 22:27:39 GMT-0400 (EDT)  Creating conversation 20140624022739786-5-gg-0.4.3
+Mon Jun 23 2014 22:27:44 GMT-0400 (EDT)  Updating convid 20140624022739786-5-gg-0.4.3 to length 1
+Mon Jun 23 2014 22:27:46 GMT-0400 (EDT)  Simsimi: I need you ==> im right here ;)
+Mon Jun 23 2014 22:31:18 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 22:31:19 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 22:31:23 GMT-0400 (EDT)  New connection "mKvPRx2ZjyOWMzw1Mqol"
+Mon Jun 23 2014 22:31:23 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:31:23 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:31:26 GMT-0400 (EDT)  New connection "BP4PJ5gWB_hKx9skMqom"
+Mon Jun 23 2014 22:31:26 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 22:31:26 GMT-0400 (EDT)  Creating conversation 20140624023126223-hh-gg-0.4.3
+Mon Jun 23 2014 22:31:30 GMT-0400 (EDT)  Updating convid 20140624023126223-hh-gg-0.4.3 to length 1
+Mon Jun 23 2014 22:31:32 GMT-0400 (EDT)  Simsimi: I hate you ==> I smile when I see you
+Mon Jun 23 2014 22:34:06 GMT-0400 (EDT)  muggle restarting his server.
+Mon Jun 23 2014 22:34:23 GMT-0400 (EDT)  New connection "vwNAj4IZCkPvA-9BuSRL"
+Mon Jun 23 2014 22:34:23 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:34:23 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:34:33 GMT-0400 (EDT)  New connection "2rDqzmXXwiXfCz75uSRM"
+Mon Jun 23 2014 22:34:33 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 22:34:33 GMT-0400 (EDT)  Creating conversation 20140624023433302-hh-5-0.4.3
+Mon Jun 23 2014 22:34:43 GMT-0400 (EDT)  Updating convid 20140624023433302-hh-5-0.4.3 to length 1
+Mon Jun 23 2014 22:34:44 GMT-0400 (EDT)  Simsimi: I don't know ==> So, i don't have to know
+Mon Jun 23 2014 22:39:17 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 22:39:18 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 22:39:21 GMT-0400 (EDT)  New connection "9zoyohqlaF4507D9uSRN"
+Mon Jun 23 2014 22:39:21 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 22:39:21 GMT-0400 (EDT)  waiting 5
+Mon Jun 23 2014 22:39:26 GMT-0400 (EDT)  New connection "Uvzjrt1oQpvfPZs_uSRO"
+Mon Jun 23 2014 22:39:26 GMT-0400 (EDT)  hello gg
+Mon Jun 23 2014 22:39:26 GMT-0400 (EDT)  Creating conversation 20140624023926740-5-gg-0.4.3
+Mon Jun 23 2014 22:39:33 GMT-0400 (EDT)  Updating convid 20140624023926740-5-gg-0.4.3 to length 1
+Mon Jun 23 2014 22:39:35 GMT-0400 (EDT)  Using cached Simsimi: I don't know ==> So, i don't have to know
+Mon Jun 23 2014 22:40:28 GMT-0400 (EDT)  5 disconnected
+Mon Jun 23 2014 22:40:28 GMT-0400 (EDT)  gg disconnected
+Mon Jun 23 2014 22:40:31 GMT-0400 (EDT)  New connection "BkXlXotCvIelJ2VuuSRP"
+Mon Jun 23 2014 22:40:32 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:40:32 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:40:35 GMT-0400 (EDT)  New connection "klkK7MSrCDGzaSnIuSRQ"
+Mon Jun 23 2014 22:40:35 GMT-0400 (EDT)  hello t
+Mon Jun 23 2014 22:40:35 GMT-0400 (EDT)  Creating conversation 20140624024035783-hh-t-0.4.3
+Mon Jun 23 2014 22:40:42 GMT-0400 (EDT)  Updating convid 20140624024035783-hh-t-0.4.3 to length 1
+Mon Jun 23 2014 22:40:44 GMT-0400 (EDT)  Simsimi: i don't know ==> oh
+Mon Jun 23 2014 22:41:36 GMT-0400 (EDT)  muggle restarting his server.
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  New connection "Jngdu0T74Xaaybs1wAJB"
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  New connection "PzMGufj5s6_GY79XwAJC"
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  rlog {"msg":"reconnect","wid":"hh"}
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  Thanks for reconnecting hh. Please continue your conversation.
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  Updating convid 20140624024035783-hh-t-0.4.3 to length 1
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  rlog {"msg":"reconnect","wid":"t"}
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  Thanks for reconnecting t. Please continue your conversation.
+Mon Jun 23 2014 22:41:41 GMT-0400 (EDT)  Updating convid 20140624024035783-hh-t-0.4.3 to length 1
+Mon Jun 23 2014 22:41:44 GMT-0400 (EDT)  Someone disconnected before hello.
+Mon Jun 23 2014 22:41:46 GMT-0400 (EDT)  Someone disconnected before hello.
+Mon Jun 23 2014 22:41:49 GMT-0400 (EDT)  New connection "J-GcooKXbMIYzh5awAJD"
+Mon Jun 23 2014 22:41:49 GMT-0400 (EDT)  hello hh
+Mon Jun 23 2014 22:41:49 GMT-0400 (EDT)  waiting hh
+Mon Jun 23 2014 22:41:54 GMT-0400 (EDT)  New connection "D4CH70Adv_xgHNPBwAJE"
+Mon Jun 23 2014 22:41:54 GMT-0400 (EDT)  hello 5
+Mon Jun 23 2014 22:41:54 GMT-0400 (EDT)  Creating conversation 20140624024154370-hh-5-0.4.3
+Mon Jun 23 2014 22:42:03 GMT-0400 (EDT)  Updating convid 20140624024154370-hh-5-0.4.3 to length 1
+Mon Jun 23 2014 22:42:29 GMT-0400 (EDT)  Simsimi: I don't know ==> Oh, ok

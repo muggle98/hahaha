@@ -93,7 +93,22 @@ function simsimi(txt) {
             console.log(jxhr.responseText);
         }
     });
-    console.log("call simsimi in suggest.js!");
+    return res;
+}
+
+function tokennizer(txt) {
+   var res;
+    $.ajax({
+        url: "/tokennizer.html?text=" + encodeURIComponent(txt),
+        type: 'GET',
+        async: false,
+        success: function (data) {
+            res = data;
+        },
+        error: function (jxhr) {
+            console.log(jxhr.responseText);
+        }
+    });
     return res;
 }
 
@@ -139,8 +154,9 @@ var createSuggestionsManual = function (msgs) {
 	var ss = []; 
     if (msgs.length > 0)
     {
-        var last = msgs[msgs.length - 1].text;       
-	}
+        var last = msgs[msgs.length - 1].text;
+        console.log(tokennizer(last));       
+	  }
     if (msgs.length == 0)
         ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!" ];
     else if (last == "Knock knock!")

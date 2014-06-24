@@ -16,8 +16,6 @@ var G = { waiting: null, sockets: {}, convs: {} };
 var prefix = (process.env.USER || process.env.USERNAME);
 if (prefix === "azureuser") prefix = "";
 
-var tokenizer = new natural.WordTokenizer();
-console.log(tokenizer.tokenize("I'm happy dog has fleas."));
 
 function log(msg, error) { // log a message to the console and to the log
     if (error) console.error(msg); 
@@ -56,7 +54,7 @@ function newConv(wid0, wid1) { // for now just 2 people
 
 
 function simsimi(str, callback, that) { // get a simsimi result (and cache it) for string, call callback.call(that, result)
-	console.log("call simsimi!");
+	
     options = {
         host: "api.simsimi.com",
         port: 80,
@@ -121,6 +119,15 @@ app.get('/god.html', function (req, res) {
 app.get('/updategod.html', function (req, res) {
     exec('python private/collect.py');
     res.send('done');
+});
+
+
+app.get('/tokennizer.html', function (req, res) {
+	
+	var query = url.parse(req.url, true).query.text;
+	console.log("call tokennizer!"+ query);
+	var tokenizer = new natural.WordTokenizer();
+    res.send(tokenizer.tokenize(query));
 });
 
 app.use('/', express.static(__dirname + '/public'));
