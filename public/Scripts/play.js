@@ -226,8 +226,38 @@ var insertSuggestions = function(suggs){
     $(".ha").click(sayHa);
 }
 
+
+function suggestions(txt) {
+	   var res;	 	   
+	 //   var str = txt[0].text;
+	   
+	    $.ajax({
+	        url: "/suggestions",
+	        type: 'POST',
+	        data: JSON.stringify( txt ),
+	        contentType: "application/json",
+	        success: function (data) {
+	        	 console.log("success "+data);
+	            res = data;
+	        },
+	        error: function (jxhr) {
+	            console.log("error!!!");
+	        }
+	    });
+	    
+	    return res;
+	    
+}
+
+
 var updateSuggestions = function(msgs){
-    global.suggs = createSuggestions(msgs);
+    global.suggs = createSuggestions(msgs); // in suggest.js, try to move that to server.js 
+	if (msgs.length > 0)//my testcode
+    {//my testcode
+		var suggestlines = suggestions(msgs); // call server to provide suggestions
+    }   //my testcode
+    
+    
     insertSuggestions(global.suggs);
     $("#suggestion-instructions").html("Choose what to say:");
 }
@@ -253,8 +283,6 @@ var sayHa = function(){
     speak($(this).html(), true);
 }
 
-
-
 function init() {
     global.wid = location.search.slice(5);
     console.log(new Date() + " Worker id: " + global.wid);
@@ -262,7 +290,7 @@ function init() {
     $(".suggestion").click(acceptSuggestion);
     joinConv();
     $("#free-text").keypress(function (e) {
-        if (e.keyCode === 13) { e.preventDefault(); speakFreeText(); }
+        if (e.keyCode === 13) { e.preventDefault(); speakFreeText(); } //enter key, speak
     });
     if (document.URL.match(/localhost/i)) {
         document.title = "local TurkTalk";

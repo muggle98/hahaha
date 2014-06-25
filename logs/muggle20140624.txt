@@ -201,3 +201,67 @@ Mon Jun 23 2014 22:41:54 GMT-0400 (EDT)  hello 5
 Mon Jun 23 2014 22:41:54 GMT-0400 (EDT)  Creating conversation 20140624024154370-hh-5-0.4.3
 Mon Jun 23 2014 22:42:03 GMT-0400 (EDT)  Updating convid 20140624024154370-hh-5-0.4.3 to length 1
 Mon Jun 23 2014 22:42:29 GMT-0400 (EDT)  Simsimi: I don't know ==> Oh, ok
+Mon Jun 23 2014 22:44:34 GMT-0400 (EDT)  hh disconnected
+Mon Jun 23 2014 22:44:35 GMT-0400 (EDT)  5 disconnected
+Tue Jun 24 2014 19:49:23 GMT-0400 (EDT)  muggle restarting his server.
+Tue Jun 24 2014 19:49:31 GMT-0400 (EDT)  New connection "402r1_gKWBw58lYwSK8n"
+Tue Jun 24 2014 19:49:31 GMT-0400 (EDT)  hello 5
+Tue Jun 24 2014 19:49:31 GMT-0400 (EDT)  waiting 5
+Tue Jun 24 2014 19:49:39 GMT-0400 (EDT)  New connection "lR8J_4PX8IeKN6J0SK8o"
+Tue Jun 24 2014 19:49:39 GMT-0400 (EDT)  hello 8
+Tue Jun 24 2014 19:49:39 GMT-0400 (EDT)  Creating conversation 20140624234939339-5-8-0.4.3
+Tue Jun 24 2014 19:49:53 GMT-0400 (EDT)  Updating convid 20140624234939339-5-8-0.4.3 to length 1
+Tue Jun 24 2014 19:49:54 GMT-0400 (EDT)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 19:51:02 GMT-0400 (EDT)  muggle restarting his server.
+Tue Jun 24 2014 19:51:17 GMT-0400 (EDT)  New connection "MEQ9MmtTAqXySfEuSjPO"
+Tue Jun 24 2014 19:51:17 GMT-0400 (EDT)  hello hh
+Tue Jun 24 2014 19:51:17 GMT-0400 (EDT)  waiting hh
+Tue Jun 24 2014 19:51:20 GMT-0400 (EDT)  New connection "Bzke7uiK0vlQDoEySjPP"
+Tue Jun 24 2014 19:51:20 GMT-0400 (EDT)  hello 5
+Tue Jun 24 2014 19:51:20 GMT-0400 (EDT)  Creating conversation 20140624235120824-hh-5-0.4.3
+Tue Jun 24 2014 19:51:40 GMT-0400 (EDT)  Updating convid 20140624235120824-hh-5-0.4.3 to length 1
+Tue Jun 24 2014 19:51:41 GMT-0400 (EDT)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 19:53:03 GMT-0400 (EDT)  muggle restarting his server.
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  New connection "1gWhO87jRefpo7vuTA2v"
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  New connection "XpdZPq3v9PyoBOUyTA2w"
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  rlog {"msg":"reconnect","wid":"hh"}
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  Thanks for reconnecting hh. Please continue your conversation.
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  Updating convid 20140624235120824-hh-5-0.4.3 to length 1
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  rlog {"msg":"reconnect","wid":"5"}
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  Thanks for reconnecting 5. Please continue your conversation.
+Tue Jun 24 2014 19:53:05 GMT-0400 (EDT)  Updating convid 20140624235120824-hh-5-0.4.3 to length 1
+Tue Jun 24 2014 19:53:12 GMT-0400 (EDT)  Someone disconnected before hello.
+Tue Jun 24 2014 19:53:12 GMT-0400 (EDT)  Someone disconnected before hello.
+Tue Jun 24 2014 19:53:15 GMT-0400 (EDT)  New connection "05WRFrEbdkZXzeqGTA2x"
+Tue Jun 24 2014 19:53:15 GMT-0400 (EDT)  hello 5
+Tue Jun 24 2014 19:53:15 GMT-0400 (EDT)  waiting 5
+Tue Jun 24 2014 19:53:18 GMT-0400 (EDT)  New connection "OZiIoqNH0uZThM--TA2y"
+Tue Jun 24 2014 19:53:18 GMT-0400 (EDT)  hello hh
+Tue Jun 24 2014 19:53:18 GMT-0400 (EDT)  Creating conversation 20140624235318685-5-hh-0.4.3
+Tue Jun 24 2014 19:53:26 GMT-0400 (EDT)  Updating convid 20140624235318685-5-hh-0.4.3 to length 1
+Tue Jun 24 2014 19:53:27 GMT-0400 (EDT)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 19:58:31 GMT-0400 (EDT)  muggle restarting his server.
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  New connection "iaweC8Q1DVO7DGUIUQwK"
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  New connection "jbY390W89ahH03yFUQwL"
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  rlog {"msg":"reconnect","wid":"5"}
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  Thanks for reconnecting 5. Please continue your conversation.
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  Updating convid 20140624235318685-5-hh-0.4.3 to length 1
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  rlog {"msg":"reconnect","wid":"hh"}
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  Thanks for reconnecting hh. Please continue your conversation.
+Tue Jun 24 2014 19:58:32 GMT-0400 (EDT)  Updating convid 20140624235318685-5-hh-0.4.3 to length 1
+Tue Jun 24 2014 19:58:35 GMT-0400 (EDT)  Someone disconnected before hello.
+Tue Jun 24 2014 19:58:36 GMT-0400 (EDT)  Someone disconnected before hello.
+Tue Jun 24 2014 19:58:38 GMT-0400 (EDT)  New connection "l67kdCo2wWFeJd_cUQwM"
+Tue Jun 24 2014 19:58:38 GMT-0400 (EDT)  hello 5
+Tue Jun 24 2014 19:58:38 GMT-0400 (EDT)  waiting 5
+Tue Jun 24 2014 19:58:50 GMT-0400 (EDT)  New connection "k-D6VeVHiTcXffjsUQwN"
+Tue Jun 24 2014 19:58:50 GMT-0400 (EDT)  hello gg
+Tue Jun 24 2014 19:58:50 GMT-0400 (EDT)  Creating conversation 20140624235850335-5-gg-0.4.3
+Tue Jun 24 2014 19:59:02 GMT-0400 (EDT)  Updating convid 20140624235850335-5-gg-0.4.3 to length 1
+Tue Jun 24 2014 19:59:04 GMT-0400 (EDT)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 19:59:41 GMT-0400 (EDT)  5 disconnected
+Tue Jun 24 2014 19:59:41 GMT-0400 (EDT)  gg disconnected
+Tue Jun 24 2014 19:59:46 GMT-0400 (EDT)  New connection "oCo6xHfqa7nVd4_KUQwO"
+Tue Jun 24 2014 19:59:46 GMT-0400 (EDT)  hello 5
+Tue Jun 24 2014 19:59:46 GMT-0400 (EDT)  waiting 5
+Tue Jun 24 2014 19:59:57 GMT-0400 (EDT)  muggle restarting his server.

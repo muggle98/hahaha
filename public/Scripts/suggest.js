@@ -165,7 +165,7 @@ var createSuggestionsManual = function (msgs) {
         ss = ["Honey bee", "Cows go", "Says"];
     else if (last.length > 0 && last[last.length - 1] == "?")
         ss = ["I dunno", "I would rather not comment on that", "stop asking me that!"];
-    else if (mentionTabooWord(last) == true||urban(last)> 0)
+    else if (mentionTabooWord(last) == true||urban(last)> 1)
         ss = ["... that's what she said"];
     else{
         words = last.replace(/[^a-zA-Z\s]+/g, '').toLowerCase().split(" ")

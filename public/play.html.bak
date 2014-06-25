@@ -8,6 +8,7 @@
     <script type="text/ecmascript" src="Scripts/play.js"></script>
     <script type="text/ecmascript" src="Scripts/hahaha.js"></script>
     <script type="text/ecmascript" src="Scripts/doge.js"></script>
+    <script type="text/ecmascript" src="Scripts/json2.js"></script>
     <script type="text/ecmascript" src="dic/TooSexyNouns.js"></script>
     <script type="text/ecmascript" src="dic/LIWCSexual.js"></script>
     <script type="text/ecmascript" src="dic/AUTOCORRECT.js"></script>
@@ -50,7 +51,6 @@
                 </div>
                 <input name="custom" type="text" style="margin-left:10pt;font-size:175%" placeholder="...or type your own." id="free-text" size="60" />
                 <input type='button' value='AutoCorrect' onclick='AutoCorrect()' />
-                <input type='button' value='Natural' onclick='HelloWorld()' />
             </div>
         </div>
     </div>

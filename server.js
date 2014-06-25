@@ -9,6 +9,7 @@ var version = require(__dirname + '/public/Scripts/hahaha.js').version;
 var doge = require('./public/Scripts/doge.js');
 var url = require('url');
 var natural = require('natural');
+var funnysuggestions = require('./funnysuggestions.js');
 
 
 var G = { waiting: null, sockets: {}, convs: {} };
@@ -16,6 +17,15 @@ var G = { waiting: null, sockets: {}, convs: {} };
 var prefix = (process.env.USER || process.env.USERNAME);
 if (prefix === "azureuser") prefix = "";
 
+
+var port = parseInt(process.env.PORT, 10) || 8080;
+
+app.listen(port);
+
+app.configure(function(){
+  app.use(express.bodyParser());
+  app.use(app.router);
+});
 
 function log(msg, error) { // log a message to the console and to the log
     if (error) console.error(msg); 
@@ -53,8 +63,7 @@ function newConv(wid0, wid1) { // for now just 2 people
 }
 
 
-function simsimi(str, callback, that) { // get a simsimi result (and cache it) for string, call callback.call(that, result)
-	
+function simsimi(str, callback, that) { // get a simsimi result (and cache it) for string, call callback.call(that, result)	
     options = {
         host: "api.simsimi.com",
         port: 80,
@@ -90,7 +99,6 @@ function simsimi(str, callback, that) { // get a simsimi result (and cache it) f
  
 server.listen(3000);
  
- 
 app.get('/doge.html', function (req, res) {
     var query = url.parse(req.url, true).query;
     res.send(doge.doge2html((query && query.texts || 'very generate, little AI, wow').split(/,\s*/g))
@@ -101,8 +109,6 @@ app.get('/simsimi.html', function (req, res) {
     var query = url.parse(req.url, true).query;
     simsimi(query.text, res.send, res);
 });
-
-
 
 app.get('/god.html', function (req, res) {
 //    console.log('stdout: ' + stdout);
@@ -122,8 +128,24 @@ app.get('/updategod.html', function (req, res) {
 });
 
 
-app.get('/tokennizer.html', function (req, res) {
-	
+
+app.get('/', function(req, res){
+    var html = fs.readFileSync('index.html');
+    res.header("Content-Type", "text/html");
+    res.send(html);
+});
+
+app.post('/suggestions', function(req, res){
+	console.log("last text = "+req.body[0].text+" "+req.body.length);
+	var sugg = funnysuggestions.createSuggestionsManual(req.body);
+	 console.log(sugg);
+	 res.send("here");
+});
+
+
+
+
+app.get('/tokennizer.html', function (req, res) {	
 	var query = url.parse(req.url, true).query.text;
 	console.log("call tokennizer!"+ query);
 	var tokenizer = new natural.WordTokenizer();

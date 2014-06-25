@@ -1,0 +1,468 @@
+Tue Jun 24 2014 09:13:59 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 10:56:28 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 10:56:39 GMT-0400 (Eastern Daylight Time)  New connection "iZSA_MJdhydqxKxaYMwl"
+Tue Jun 24 2014 10:56:39 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 10:56:39 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 10:56:46 GMT-0400 (Eastern Daylight Time)  New connection "5v5mv8dgJNhksHEhYMwm"
+Tue Jun 24 2014 10:56:46 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 10:56:46 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624145646943-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 10:56:59 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624145646943-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 10:56:59 GMT-0400 (Eastern Daylight Time)  Simsimi: try here ==> im dreaming of a place thats ****** miles away
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  New connection "uX3Pi4rjF98mF5VsYjWF"
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  New connection "-KfSa5S0xsbaygo4YjWG"
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624145646943-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 10:58:01 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624145646943-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 10:58:19 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 10:58:20 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 10:58:23 GMT-0400 (Eastern Daylight Time)  New connection "fUPv16vXhGZyEp__YjWH"
+Tue Jun 24 2014 10:58:23 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 10:58:23 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 10:58:25 GMT-0400 (Eastern Daylight Time)  New connection "I2XqsJybfK0OAVGfYjWI"
+Tue Jun 24 2014 10:58:26 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 10:58:26 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624145826028-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 10:58:33 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624145826028-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 10:58:34 GMT-0400 (Eastern Daylight Time)  Simsimi: try here your mom ==> hi crystal
+Tue Jun 24 2014 11:00:26 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 11:00:32 GMT-0400 (Eastern Daylight Time)  New connection "MdCAKn3934_siwkVZGuP"
+Tue Jun 24 2014 11:00:32 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 11:00:32 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 11:00:37 GMT-0400 (Eastern Daylight Time)  New connection "tj31-UQHGEAbO06gZGuQ"
+Tue Jun 24 2014 11:00:37 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 11:00:37 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624150037049-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 11:04:12 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 11:04:17 GMT-0400 (Eastern Daylight Time)  New connection "kww4UHaO6GzoYekFZ-FW"
+Tue Jun 24 2014 11:04:17 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 11:04:17 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 11:04:20 GMT-0400 (Eastern Daylight Time)  New connection "P2voFkV9RMgsew40Z-FX"
+Tue Jun 24 2014 11:04:20 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 11:04:20 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624150420748-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 11:04:30 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150420748-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 11:04:31 GMT-0400 (Eastern Daylight Time)  Simsimi: miao miao ==> here......kitty....
+Tue Jun 24 2014 11:04:45 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150420748-mwen1-mwen2-0.4.3 to length 2
+Tue Jun 24 2014 11:04:45 GMT-0400 (Eastern Daylight Time)  Simsimi: mi mi ==> A name I call myself:D
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  New connection "TuH2NZnlsf_Z8g-0aRc8"
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  New connection "30xUS3QXsX2fyje3aRc9"
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150420748-mwen1-mwen2-0.4.3 to length 2
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 11:05:32 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150420748-mwen1-mwen2-0.4.3 to length 2
+Tue Jun 24 2014 11:05:38 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 11:05:39 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 11:05:42 GMT-0400 (Eastern Daylight Time)  New connection "tWEeXXj8ZsCNr0hvaRc-"
+Tue Jun 24 2014 11:05:42 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 11:05:42 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 11:05:45 GMT-0400 (Eastern Daylight Time)  New connection "E3J_PBVz_SsPvODhaRc_"
+Tue Jun 24 2014 11:05:45 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 11:05:45 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624150545306-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 11:05:51 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150545306-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 11:05:51 GMT-0400 (Eastern Daylight Time)  Simsimi: miao miao ==> She is lenglui
+Tue Jun 24 2014 11:13:52 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  New connection "srse8etysv5gWYsFcLpl"
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  New connection "C7iYFXy4A9ozkcWMcLpm"
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150545306-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 11:13:53 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624150545306-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 11:14:00 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 11:14:01 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 11:14:04 GMT-0400 (Eastern Daylight Time)  New connection "40-VxV9CbHPXSC0bcLpn"
+Tue Jun 24 2014 11:14:04 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 11:14:04 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 11:14:08 GMT-0400 (Eastern Daylight Time)  New connection "BDFIWwkpwMQPAynlcLpo"
+Tue Jun 24 2014 11:14:08 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 11:14:08 GMT-0400 (Eastern Daylight Time)  Creating conversation 2014062415148513-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 11:20:00 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Tue Jun 24 2014 11:20:01 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Tue Jun 24 2014 11:20:03 GMT-0400 (Eastern Daylight Time)  New connection "yIoE2G7kmPOMeNJgcLpp"
+Tue Jun 24 2014 11:20:03 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 11:20:03 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 11:20:06 GMT-0400 (Eastern Daylight Time)  New connection "zjpoQPNg9unl_hQXcLpq"
+Tue Jun 24 2014 11:20:07 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 11:20:07 GMT-0400 (Eastern Daylight Time)  Creating conversation 2014062415207011-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 11:20:16 GMT-0400 (Eastern Daylight Time)  Updating convid 2014062415207011-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 11:20:16 GMT-0400 (Eastern Daylight Time)  Simsimi: you're an idiot ==> Yes I am, thanks for reminding me
+Tue Jun 24 2014 11:28:42 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 11:28:50 GMT-0400 (Eastern Daylight Time)  New connection "cfyrj6qZMaUhuZR_fkxe"
+Tue Jun 24 2014 11:28:50 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 11:28:50 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 11:28:53 GMT-0400 (Eastern Daylight Time)  New connection "GzYlPgCcBzYX3dZmfkxf"
+Tue Jun 24 2014 11:28:53 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 11:28:53 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624152853512-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 11:29:03 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624152853512-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 11:29:04 GMT-0400 (Eastern Daylight Time)  Simsimi: hello miao ==> Miao
+Tue Jun 24 2014 11:29:12 GMT-0400 (Eastern Daylight Time)  New connection "LFvMslk9XyNexcB-fkxg"
+Tue Jun 24 2014 11:29:12 GMT-0400 (Eastern Daylight Time)  hello mwen
+Tue Jun 24 2014 11:29:12 GMT-0400 (Eastern Daylight Time)  waiting mwen
+Tue Jun 24 2014 11:29:17 GMT-0400 (Eastern Daylight Time)  New connection "xVL8p-Pri-A9Wv0ffkxh"
+Tue Jun 24 2014 11:29:17 GMT-0400 (Eastern Daylight Time)  hello 1
+Tue Jun 24 2014 11:29:17 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624152917540-mwen-1-0.4.3
+Tue Jun 24 2014 11:29:32 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624152917540-mwen-1-0.4.3 to length 1
+Tue Jun 24 2014 11:29:34 GMT-0400 (Eastern Daylight Time)  Simsimi: what are you doing ==> chillin
+Tue Jun 24 2014 11:29:41 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624152917540-mwen-1-0.4.3 to length 2
+Tue Jun 24 2014 11:29:41 GMT-0400 (Eastern Daylight Time)  Simsimi: what ==> tell me
+Tue Jun 24 2014 11:29:55 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624152853512-mwen1-mwen2-0.4.3 to length 2
+Tue Jun 24 2014 11:29:56 GMT-0400 (Eastern Daylight Time)  Simsimi: blog about your ==> almost--famouss.tumblr.com
+Tue Jun 24 2014 14:42:26 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 14:42:48 GMT-0400 (Eastern Daylight Time)  New connection "rrwlhGj3sw0tZbLlL6uS"
+Tue Jun 24 2014 14:42:48 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 14:42:48 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 14:42:51 GMT-0400 (Eastern Daylight Time)  New connection "ZpCS-CHC4N6Q8SW2L6uT"
+Tue Jun 24 2014 14:42:51 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 14:42:51 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624184251124-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  New connection "0KChCvNEipWdWVikMTqn"
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  New connection "heZpkhopaREzK-AlMTqo"
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624184251124-mwen1-mwen2-0.4.3 to length 0
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 14:44:08 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624184251124-mwen1-mwen2-0.4.3 to length 0
+Tue Jun 24 2014 14:44:12 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 14:44:12 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 14:44:14 GMT-0400 (Eastern Daylight Time)  New connection "Ei04NBDZciGWHgieMTqp"
+Tue Jun 24 2014 14:44:15 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 14:44:15 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 14:44:18 GMT-0400 (Eastern Daylight Time)  New connection "1dAqJ9BypO7jErG8MTqq"
+Tue Jun 24 2014 14:44:18 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 14:44:18 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624184418218-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 14:44:26 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624184418218-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 14:44:27 GMT-0400 (Eastern Daylight Time)  Simsimi: you are crazy ==> No your Cray! 
+Tue Jun 24 2014 14:57:13 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 14:57:19 GMT-0400 (Eastern Daylight Time)  New connection "vFSS2nK-bb-HB-7KPTYk"
+Tue Jun 24 2014 14:57:19 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 14:57:19 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 14:57:23 GMT-0400 (Eastern Daylight Time)  New connection "S4Ot-LCF0fq0CGxLPTYl"
+Tue Jun 24 2014 14:57:23 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624185723134-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 14:57:23 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 14:57:33 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624185723134-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 14:57:35 GMT-0400 (Eastern Daylight Time)  Simsimi: how old are you ==> I am 10 years old.
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  New connection "71JYqPOtAxqakeb-P4YH"
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  New connection "AYZBPVnOsqcCmrOIP4YI"
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624185723134-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 14:59:45 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624185723134-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 14:59:46 GMT-0400 (Eastern Daylight Time)  Simsimi: how old are you ==> 37:(
+Tue Jun 24 2014 15:00:00 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 15:00:04 GMT-0400 (Eastern Daylight Time)  New connection "55N27v2GkuGc_-B_P8KO"
+Tue Jun 24 2014 15:00:04 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 15:00:04 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 15:00:10 GMT-0400 (Eastern Daylight Time)  New connection "gJfZWhTWCq0td-iXP8KP"
+Tue Jun 24 2014 15:00:10 GMT-0400 (Eastern Daylight Time)  hello mwen
+Tue Jun 24 2014 15:00:10 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624190010233-mwen1-mwen-0.4.3
+Tue Jun 24 2014 15:00:17 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190010233-mwen1-mwen-0.4.3 to length 1
+Tue Jun 24 2014 15:00:18 GMT-0400 (Eastern Daylight Time)  Simsimi: how old are you ==> 11 years old!
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  New connection "LuscYxoqv7ifgvsJQP3f"
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  New connection "WFS4SRUuACFJTP-SQP3g"
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190010233-mwen1-mwen-0.4.3 to length 1
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen"}
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen. Please continue your conversation.
+Tue Jun 24 2014 15:01:21 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190010233-mwen1-mwen-0.4.3 to length 1
+Tue Jun 24 2014 15:01:31 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 15:01:31 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 15:01:34 GMT-0400 (Eastern Daylight Time)  New connection "3iXxF3Z9uREvQVc-QP3h"
+Tue Jun 24 2014 15:01:34 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 15:01:34 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 15:01:37 GMT-0400 (Eastern Daylight Time)  New connection "ONrKSMZCVInsd9bRQP3i"
+Tue Jun 24 2014 15:01:37 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 15:01:37 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624190137962-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 15:01:43 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190137962-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:01:44 GMT-0400 (Eastern Daylight Time)  Simsimi: how old are you ==> older than you
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  New connection "6_xwfzAZvZWmbxrhQeZN"
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  New connection "GEcQxWxBa1rGxQbcQeZO"
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190137962-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 15:02:21 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190137962-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:02:22 GMT-0400 (Eastern Daylight Time)  Simsimi: how old are you ==> Im a day old
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  New connection "wruqAbTjKnQxhGt_RWJz"
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  New connection "c26aaLf-Pvcr2pErRWJ0"
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190137962-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 15:06:09 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190137962-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:06:17 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 15:06:18 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 15:06:21 GMT-0400 (Eastern Daylight Time)  New connection "6zM79TBlkNkvbF5IRWJ1"
+Tue Jun 24 2014 15:06:21 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 15:06:21 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 15:06:24 GMT-0400 (Eastern Daylight Time)  New connection "xPTKjDEDcvae6NwHRWJ2"
+Tue Jun 24 2014 15:06:24 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 15:06:24 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624190624053-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 15:06:29 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190624053-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:06:30 GMT-0400 (Eastern Daylight Time)  Simsimi: how are you ==> idk
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  New connection "Hb-9HO7G4HYJtD0xTaac"
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  New connection "maJD2-e6MQo32YbwTaad"
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190624053-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 15:15:11 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624190624053-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 15:15:12 GMT-0400 (Eastern Daylight Time)  Simsimi: how are you ==> Awesome man!
+Tue Jun 24 2014 15:15:23 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 15:15:24 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 15:15:26 GMT-0400 (Eastern Daylight Time)  New connection "XWj873bHSuz85hv_Taae"
+Tue Jun 24 2014 15:15:30 GMT-0400 (Eastern Daylight Time)  New connection "kRwRF17vrQIY8DwsTaaf"
+Tue Jun 24 2014 16:29:13 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:29:13 GMT-0400 (Eastern Daylight Time)  New connection "Bsyz-y2fmcsnK6I_kXCZ"
+Tue Jun 24 2014 16:29:14 GMT-0400 (Eastern Daylight Time)  New connection "zFqZyY3niFaJUO3lkXCa"
+Tue Jun 24 2014 16:29:14 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect"}
+Tue Jun 24 2014 16:29:14 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect"}
+Tue Jun 24 2014 16:29:25 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:29:26 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:29:28 GMT-0400 (Eastern Daylight Time)  New connection "mgtjQZqZvLQ5Uv2pkXCb"
+Tue Jun 24 2014 16:29:28 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:29:28 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:29:31 GMT-0400 (Eastern Daylight Time)  New connection "qX-2Pks1xIMlEztQkXCc"
+Tue Jun 24 2014 16:29:31 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:29:31 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624202931396-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:29:38 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624202931396-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:29:40 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:30:04 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  New connection "GIfTVVTWMFXLSywmkjg1"
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  New connection "raTYGQKL8tsiq5kJkjg2"
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624202931396-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 16:30:05 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624202931396-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:30:06 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:30:15 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:30:16 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:30:19 GMT-0400 (Eastern Daylight Time)  New connection "otGzIP0lJO4GnJfjkjg3"
+Tue Jun 24 2014 16:30:19 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:30:19 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:30:22 GMT-0400 (Eastern Daylight Time)  New connection "otjy5CDjvM7bV6d5kjg4"
+Tue Jun 24 2014 16:30:22 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:30:22 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624203022438-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:30:27 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203022438-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:30:28 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:31:23 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Tue Jun 24 2014 16:31:23 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Tue Jun 24 2014 16:31:26 GMT-0400 (Eastern Daylight Time)  New connection "3ZC5dOqCVtYNK1WCkjg5"
+Tue Jun 24 2014 16:31:26 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:31:26 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:31:29 GMT-0400 (Eastern Daylight Time)  New connection "IBiJR6UOcJrELVRykjg6"
+Tue Jun 24 2014 16:31:29 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:31:29 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624203129422-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:31:36 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203129422-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:31:36 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  New connection "EkiPfqY52eqA0uJflOk7"
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203129422-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  New connection "94vQz6TaMMEkfz5hlOk8"
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 16:33:01 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203129422-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:33:06 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:33:06 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:33:08 GMT-0400 (Eastern Daylight Time)  New connection "WFOPPrDJvlSSdD5elOk9"
+Tue Jun 24 2014 16:33:08 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:33:08 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:33:11 GMT-0400 (Eastern Daylight Time)  New connection "pAfB32iT3HKOchQvlOk-"
+Tue Jun 24 2014 16:33:11 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:33:11 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624203311188-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:33:17 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203311188-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:33:18 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:33:39 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Tue Jun 24 2014 16:33:40 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Tue Jun 24 2014 16:33:45 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:33:49 GMT-0400 (Eastern Daylight Time)  New connection "Uj25EiPNUUfHbiO9lZXS"
+Tue Jun 24 2014 16:33:49 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:33:49 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:33:52 GMT-0400 (Eastern Daylight Time)  New connection "fTM3IvM1xCF5bMzrlZXT"
+Tue Jun 24 2014 16:33:52 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:33:52 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624203352116-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:33:59 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203352116-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:34:00 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:36:41 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:36:45 GMT-0400 (Eastern Daylight Time)  New connection "9pY72u2edDtqwi-nmEWD"
+Tue Jun 24 2014 16:36:45 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:36:45 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:36:48 GMT-0400 (Eastern Daylight Time)  New connection "tDa5CThzk2vzSuZpmEWE"
+Tue Jun 24 2014 16:36:48 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:36:48 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624203648787-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:36:54 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203648787-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:36:55 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:38:54 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  New connection "VjqAHE5_2G0Of0k-mk6L"
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  New connection "5bvKwH6pGATAf6M5mk6M"
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203648787-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 16:38:55 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203648787-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:38:56 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:39:33 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:39:40 GMT-0400 (Eastern Daylight Time)  New connection "oE8kVEFy27SqUz5kmua4"
+Tue Jun 24 2014 16:39:40 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:39:40 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:39:43 GMT-0400 (Eastern Daylight Time)  New connection "0EGDK83CK8C3nOpymua5"
+Tue Jun 24 2014 16:39:43 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:39:43 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624203943162-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:39:50 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624203943162-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:39:51 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely  ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:40:48 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Tue Jun 24 2014 16:40:49 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Tue Jun 24 2014 16:43:13 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:43:20 GMT-0400 (Eastern Daylight Time)  New connection "YpagE8U4-088IWv8nkGI"
+Tue Jun 24 2014 16:43:20 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:43:20 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:43:23 GMT-0400 (Eastern Daylight Time)  New connection "SGjfyUduwCHiAHpWnkGJ"
+Tue Jun 24 2014 16:43:23 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:43:23 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624204323215-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:43:29 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624204323215-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:43:31 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:49:17 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:49:46 GMT-0400 (Eastern Daylight Time)  New connection "70WkehAzglPQSbMQo80Y"
+Tue Jun 24 2014 16:49:46 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 16:49:46 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 16:49:46 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624204323215-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:49:47 GMT-0400 (Eastern Daylight Time)  New connection "O203cqYY2i__dPyEo80Z"
+Tue Jun 24 2014 16:49:47 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 16:49:47 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 16:49:47 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624204323215-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:49:48 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:49:57 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:49:58 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:55:50 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:55:59 GMT-0400 (Eastern Daylight Time)  New connection "8Do-vUgAhvYsXtF8qc3b"
+Tue Jun 24 2014 16:55:59 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:55:59 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:56:02 GMT-0400 (Eastern Daylight Time)  New connection "pQQKYSfk1uNKggIWqc3c"
+Tue Jun 24 2014 16:56:02 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:56:02 GMT-0400 (Eastern Daylight Time)  Creating conversation 2014062420562337-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:56:11 GMT-0400 (Eastern Daylight Time)  Updating convid 2014062420562337-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:56:13 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely hubbell ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:56:13 GMT-0400 (Eastern Daylight Time)  Simsimi: [object Object] ==> undefined
+Tue Jun 24 2014 16:56:40 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Tue Jun 24 2014 16:56:41 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Tue Jun 24 2014 16:56:44 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:56:47 GMT-0400 (Eastern Daylight Time)  New connection "ZjsmBIMJUXhW2_nVqp-g"
+Tue Jun 24 2014 16:56:47 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:56:47 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:56:50 GMT-0400 (Eastern Daylight Time)  New connection "nbBmunoxXeqtIkAlqp-h"
+Tue Jun 24 2014 16:56:50 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:56:50 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624205650117-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:56:57 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205650117-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:56:58 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  New connection "pAVORX0e1Jm50EHErAeA"
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  New connection "6RBtS4L6-k-liDyfrAeB"
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205650117-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 16:58:16 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205650117-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:58:17 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:58:20 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:58:21 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:58:24 GMT-0400 (Eastern Daylight Time)  New connection "VkeDqJ263N-PZRnxrAeC"
+Tue Jun 24 2014 16:58:24 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:58:24 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:58:26 GMT-0400 (Eastern Daylight Time)  New connection "W_5sIDPoM_hRDctnrAeD"
+Tue Jun 24 2014 16:58:26 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:58:26 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624205826767-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:58:32 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205826767-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:58:33 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  New connection "FDuq86OW0LEg406mrPhR"
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  New connection "Hks8KAa-Ow--dCferPhS"
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205826767-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 16:59:18 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205826767-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:59:19 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 16:59:24 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:59:25 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 16:59:27 GMT-0400 (Eastern Daylight Time)  New connection "nu2EjrWhzb_MjEVArPhT"
+Tue Jun 24 2014 16:59:27 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 16:59:27 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 16:59:30 GMT-0400 (Eastern Daylight Time)  New connection "XbBwQ6TtQSWRkn1GrPhU"
+Tue Jun 24 2014 16:59:30 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 16:59:30 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624205930909-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 16:59:37 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205930909-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 16:59:38 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  New connection "H-uzwY513hhKjXhWs0vC"
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  New connection "Dlv2e71KTKyarddTs0vD"
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205930909-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 17:06:12 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624205930909-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:06:14 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 17:06:24 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 17:06:25 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 17:06:28 GMT-0400 (Eastern Daylight Time)  New connection "OimJ0GvOM-FI7RSHs0vE"
+Tue Jun 24 2014 17:06:28 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 17:06:28 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 17:06:48 GMT-0400 (Eastern Daylight Time)  New connection "F8CRnQHMcQKsZqKXs0vF"
+Tue Jun 24 2014 17:06:48 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 17:06:48 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624210648441-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 17:11:51 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624210648441-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:11:53 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 17:13:46 GMT-0400 (Eastern Daylight Time)  mwen1 disconnected
+Tue Jun 24 2014 17:13:46 GMT-0400 (Eastern Daylight Time)  mwen2 disconnected
+Tue Jun 24 2014 17:13:50 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 17:13:56 GMT-0400 (Eastern Daylight Time)  New connection "Id3JlncXzbIPg0W_ukmt"
+Tue Jun 24 2014 17:13:56 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 17:13:56 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 17:14:00 GMT-0400 (Eastern Daylight Time)  New connection "c8kFQ6gANS39PQBkukmu"
+Tue Jun 24 2014 17:14:00 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 17:14:00 GMT-0400 (Eastern Daylight Time)  Creating conversation 2014062421140807-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 17:14:07 GMT-0400 (Eastern Daylight Time)  Updating convid 2014062421140807-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:14:08 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> jadeinukiai! number one!
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  t-miawen restarting his server.
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  New connection "HyVfy2O3O83Q9d-Du38e"
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  New connection "G7BYHUT2lfKh91VYu38f"
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen2"}
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen2. Please continue your conversation.
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  Updating convid 2014062421140807-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  rlog {"msg":"reconnect","wid":"mwen1"}
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  Thanks for reconnecting mwen1. Please continue your conversation.
+Tue Jun 24 2014 17:15:10 GMT-0400 (Eastern Daylight Time)  Updating convid 2014062421140807-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:15:12 GMT-0400 (Eastern Daylight Time)  Simsimi: your girl is lovely ==> my lovely film is kera sakti
+Tue Jun 24 2014 17:15:18 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 17:15:18 GMT-0400 (Eastern Daylight Time)  Someone disconnected before hello.
+Tue Jun 24 2014 17:15:20 GMT-0400 (Eastern Daylight Time)  New connection "vBRypnPZFuEFAbgCu38g"
+Tue Jun 24 2014 17:15:20 GMT-0400 (Eastern Daylight Time)  hello mwen1
+Tue Jun 24 2014 17:15:20 GMT-0400 (Eastern Daylight Time)  waiting mwen1
+Tue Jun 24 2014 17:15:23 GMT-0400 (Eastern Daylight Time)  New connection "eXCgIvNwR5KSxJR_u38h"
+Tue Jun 24 2014 17:15:23 GMT-0400 (Eastern Daylight Time)  hello mwen2
+Tue Jun 24 2014 17:15:23 GMT-0400 (Eastern Daylight Time)  Creating conversation 20140624211523964-mwen1-mwen2-0.4.3
+Tue Jun 24 2014 17:15:29 GMT-0400 (Eastern Daylight Time)  Updating convid 20140624211523964-mwen1-mwen2-0.4.3 to length 1
+Tue Jun 24 2014 17:15:30 GMT-0400 (Eastern Daylight Time)  Using cached Simsimi: your girl is lovely ==> my lovely film is kera sakti
