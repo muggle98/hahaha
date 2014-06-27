@@ -1,0 +1,11 @@
+node_modules
+*.bak
+chats
+logs
+.dropbox
+public/Scripts/hist.js
+public/Audio
+hist.js
+.settings
+dic
+*~
