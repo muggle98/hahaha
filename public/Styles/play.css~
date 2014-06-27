@@ -34,3 +34,12 @@ body, html
    float: right;
    color:grey;
 }
+
+.meme-pic{
+    z-index: -1;
+    margin: 30px;
+}
+
+#free-text {
+    color: #111 !important;
+}

@@ -30,9 +30,18 @@ body, html
     font-weight:bold;
 }    
 
+#timer-and-counter {
+    float: right;
+}
+
 #timer {
-   float: right;
    color:grey;
+   float: right;
+}
+
+#laugh-counter-title{
+    text-align:center;
+    font-weight: bold;
 }
 
 .meme-pic{
@@ -42,4 +51,17 @@ body, html
 
 #free-text {
     color: #111 !important;
+}
+
+#HaCounter {
+    font-size: big;
+    color: red;
+}
+
+#PartnerHaCount{
+    font-size: 120%;
+}
+
+#MyHaCount{
+    font-size: 420%;
 }

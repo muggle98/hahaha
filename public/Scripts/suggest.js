@@ -1,6 +1,7 @@
 // make sure to include CHATS.js, TooSexyNouns.js, AUTOCORRECT.js as well
 //var AUTOCORRECT = require('AUTOCORRECT');
 
+
 function normalize(matches){
     var sumDist = 0.0;
     for (var m in matches)
@@ -23,11 +24,7 @@ function corr(msgs, hist, histLen){
     var j = msgs.length;
     for (var i = histLen; i > 0 && j > 0; --i){
         if (standardize(msgs[j-1].text) == standardize(hist[i - 1].text))
-        {
-        	 console.log(standardize(msgs[j-1].text));
-        	 console.log(hist[i - 1].text);
             d += Math.pow(expo, histLen - i);
-        }
         --j;
     }
     d += Math.pow(expo, Math.max(histLen, msgs.length) - 1);
@@ -42,11 +39,7 @@ function calculateMatches(msgs){
             for (var j = 0; j < CHATS[i].msgs.length - 1; ++j){
                 if (CHATS[i].msgs[j].text.length == 0)
                     continue;
-                var d = Math.pow(corr(msgs, CHATS[i].msgs, j), 3); 
-             //   console.log(j);
-             //   console.log(msgs);
-              //  console.log(CHATS[i].msgs);
-             //   console.log(d);
+                var d = Math.pow(corr(msgs, CHATS[i].msgs, j), 3);
                 if (d > 0){
                     if (CHATS[i].msgs[j].text in matches)
                         matches[CHATS[i].msgs[j].text] += d;
@@ -60,6 +53,8 @@ function calculateMatches(msgs){
 
 
 var createSuggestionsSimilarity = function (msgs, numSuggestions) {
+
+
     matches = calculateMatches(msgs);
     
     var ss = [];
@@ -80,6 +75,7 @@ var createSuggestionsSimilarity = function (msgs, numSuggestions) {
     return ss;
 }
  
+
 function simsimi(txt) {
     var res;
     $.ajax({
@@ -96,48 +92,10 @@ function simsimi(txt) {
     return res;
 }
 
-function tokennizer(txt) {
-   var res;
-    $.ajax({
-        url: "/tokennizer.html?text=" + encodeURIComponent(txt),
-        type: 'GET',
-        async: false,
-        success: function (data) {
-            res = data;
-        },
-        error: function (jxhr) {
-            console.log(jxhr.responseText);
-        }
-    });
-    return res;
-}
-
-function urban(query) {
-	var cnt = 0;
-	var xmlHttp = null;
-	var s = query.split(" ");
-	 for (var i = 0; i < s.length; ++i){
-			xmlHttp = new XMLHttpRequest();
-			xmlHttp.open("GET",'http://api.urbandictionary.com/v0/define?term='+encodeURIComponent(s[i]),false);
-			xmlHttp.send(null);
-			var data=JSON.parse(xmlHttp.responseText).tags;
-		//	console.log(data);
-			for(var j=0;j<LIWCSexual.length;j++){
-				var re = new RegExp("\\b"+LIWCSexual[j]);
-				if(re.exec(data) != null)
-				{
-					cnt++;
-			//		alert(re);
-				}
-			}
-	 }
-	 console.log("Cnt "+cnt);
-	return cnt;
-}
 
 var mentionTabooWord = function (lastmsg){
 
-	for(var i=0;i<AUTOCORRECT.length;i++){
+	for(var i=0;i<TooSexyNouns.length;i++){
 		var re = new RegExp("\\b"+TooSexyNouns[i]);
 		
 	//	if(lastmsg.indexOf(TooSexyNouns[i]) > -1)
@@ -149,14 +107,31 @@ var mentionTabooWord = function (lastmsg){
 	return false;
 }
 
-var createSuggestionsManual = function (msgs) {
+var mentionAutoCorrectWord = function (lastmsg){
+	var modified = false;
+	for (var key in AUTOCORRECT) {
+		var re = new RegExp("\\b"+key);
+		if(re.exec(lastmsg) != null)
+		{
+			modified = true;
+			lastmsg = lastmsg.replace(key, AUTOCORRECT[key]);
+		}
+	}
+	if(modified){
+		return lastmsg;
+	}else{
+		return "";
+	}
 	
-	var ss = []; 
+}
+
+var createSuggestionsManual = function (msgs) {
+    var ss = []; 
     if (msgs.length > 0)
     {
         var last = msgs[msgs.length - 1].text;
-        console.log(tokennizer(last));       
-	  }
+        var autocor = mentionAutoCorrectWord(last);
+	}
     if (msgs.length == 0)
         ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!" ];
     else if (last == "Knock knock!")
@@ -165,8 +140,12 @@ var createSuggestionsManual = function (msgs) {
         ss = ["Honey bee", "Cows go", "Says"];
     else if (last.length > 0 && last[last.length - 1] == "?")
         ss = ["I dunno", "I would rather not comment on that", "stop asking me that!"];
-    else if (mentionTabooWord(last) == true||urban(last)> 1)
-        ss = ["... that's what she said"];
+    else if (mentionTabooWord(last) == true)
+        ss = ["... that's what she said", last + "... in bed"];
+    else if (autocor !== "")
+    {
+      ss = [autocor];
+		}	
     else{
         words = last.replace(/[^a-zA-Z\s]+/g, '').toLowerCase().split(" ")
         if (words.length < 3 || words.length > 10 )

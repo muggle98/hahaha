@@ -99,4 +99,6 @@ AUTOCORRECT["luck"] = "fuck";
 AUTOCORRECT["sick"] = "dick";
 AUTOCORRECT["boil"] = "ball";
 
-module.exports = AUTOCORRECT;
+exports.AUTO = function(word)
+{
+	

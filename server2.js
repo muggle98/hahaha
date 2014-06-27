@@ -8,24 +8,13 @@ var io = require('socket.io').listen(server); io.set('log level', 1);
 var version = require(__dirname + '/public/Scripts/hahaha.js').version;
 var doge = require('./public/Scripts/doge.js');
 var url = require('url');
-var funnysuggestions = require('./funnysuggestions.js');
 var master = require('./master.js');
-var god = require('./godMode.js');
+
 
 var G = { waiting: null, sockets: {}, convs: {} };
 
 var prefix = (process.env.USER || process.env.USERNAME);
 if (prefix === "azureuser") prefix = "";
-
-
-var port = parseInt(process.env.PORT, 10) || 8080;
-
-app.listen(port);
-
-app.configure(function(){
-  app.use(express.bodyParser());
-  app.use(app.router);
-});
 
 function log(msg, error) { // log a message to the console and to the log
     if (error) console.error(msg); 
@@ -49,16 +38,12 @@ function pad0(n, len) { // pad an integer to be length n
 
 function newConv(wid0, wid1) { // for now just 2 people
     var date = new Date();
-    var ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!", "Where are you from?"];
-    ss = ss.map(function (s) { return { txt: s, deriv: "manual" }; });
     var id = date.getUTCFullYear() + pad0(date.getUTCMonth() + 1, 2) + pad0(date.getUTCDate(), 2) + pad0(date.getUTCHours(), 2) + pad0(date.getUTCMinutes(), 2) + pad0(date.getUTCSeconds(), 0) + pad0(date.getUTCMilliseconds(), 3) + "-" + wid0 + "-" + wid1 + "-" + version;
     var conv = {
         id: id,
         wid0: wid0,
         wid1: wid1,
         msgs: [],
-        curSuggs: ss, //current suggestions
-        cntHa: [0,0], //count how many "Ha"s each user receives
         startMS: new Date().getTime(),
         elapsedMS: 0
     };
@@ -67,24 +52,71 @@ function newConv(wid0, wid1) { // for now just 2 people
 }
 
 
-
+function simsimi(str, callback, that) { // get a simsimi result (and cache it) for string, call callback.call(that, result)
+    options = {
+        host: "api.simsimi.com",
+        port: 80,
+        method: 'GET',
+        path: '/request.p?key=d123e1ac-c047-4e00-89ef-fcae8851fdde&lc=en&ft=1.0&text=' + encodeURIComponent(str)
+    };
+    if (!simsimi.cache) simsimi.cache = {};
+    if (str in simsimi.cache) {
+        log("Using cached Simsimi: " + str + " ==> " + simsimi.cache[str]);
+        callback.call(that, simsimi.cache[str]);
+        return;
+    }
+    var callback2 = function (str, callback, that) {
+        return function (resp) {
+            resp.on('data', function (chunk) {
+                try {
+                    chunk = eval("(" + chunk +")");
+                    log("Simsimi: " + str + " ==> " + chunk.response);
+                    callback.call(that, chunk.response);
+                    simsimi.cache[str] = chunk.response;
+                } catch(e) {
+                    error("Simsimi error: " + e);
+                }
+            });
+        }
+    }(str, callback, that);
+    http.get(options, callback2).on("error", function (e) { error("Simsimi server error: " + e.message); });
+}
 
 // ---------------------------------------------------------------------------------------------------------
 // Server stuff
 // ---------------------------------------------------------------------------------------------------------
-master.init(function () { // this replaces the old line that was just server.listen(3000);
+ 
 
+master.init(function () {
     console.log("Loaded " + Object.keys(master.allChats).length + " chats");
-
     master.prettyPrint();
-
     server.listen(3000);
+});
+ 
+ 
+app.get('/doge.html', function (req, res) {
+    var query = url.parse(req.url, true).query;
+    res.send(doge.doge2html((query && query.texts || 'very generate, little AI, wow').split(/,\s*/g))
+        + "<div><form action='doge.html'><input placeholder='very generate, little AI, wow' value='" + (query && query.texts || "") + "' name='texts' style='width:600px;' /><br /><input type='submit' value='wow' /></form></div>");
+});
 
+app.get('/simsimi.html', function (req, res) {
+    var query = url.parse(req.url, true).query;
+    simsimi(query.text, res.send, res);
 });
 
 
+
 app.get('/god.html', function (req, res) {
-    res.send(god.god(master.allChats));
+//    console.log('stdout: ' + stdout);
+//    console.log('stderr: ' + stderr);
+//    if (error !== null) {
+//        res.send('exec error: ' + error);
+//        return;
+//    }
+    fs.readFile('public/god.html', function (err, data) {
+        res.end(data);
+    });
 });
 
 app.get('/updategod.html', function (req, res) {
@@ -92,46 +124,8 @@ app.get('/updategod.html', function (req, res) {
     res.send('done');
 });
 
-
-/*
-app.get('/', function(req, res){
-    var html = fs.readFileSync('index.html');
-    res.header("Content-Type", "text/html");
-    res.send(html);
-});
-*/
-
-app.get('/tokennizer.html', function (req, res) {	
-	var query = url.parse(req.url, true).query.text;
-	console.log("call tokennizer!"+ query);
-	var tokenizer = new natural.WordTokenizer();
-    res.send(tokenizer.tokenize(query));
-});
-
 app.use('/', express.static(__dirname + '/public'));
 
-function rankByMaster(suggs, cnt)
-{
-    //  if (s) ss.push({ txt: s, deriv: "simsimi", conf: undefined });
-    for(var i = 0;i<suggs.length;i++)
-    {
-        for (var j = suggs.length-1; j > i; j--)
-        {
-            scorej = master.score(suggs[j].conf, suggs[j].deriv);
-            scorej_1 = master.score(suggs[j - 1].conf, suggs[j - 1].deriv);
-        //    console.log(scorej + " " + scorej_1);
-            if(scorej > scorej_1)
-            {
-                temp = suggs[j];
-                suggs[j] = suggs[j - 1];
-                suggs[j - 1] = temp;
-            }
-        }
-    } 
-    suggs.splice(cnt,suggs.length-cnt);
-    return suggs;
-
-}
 
 io.sockets.on('connection', function (socket) {    
     log("New connection " + JSON.stringify(socket.id));
@@ -155,37 +149,22 @@ io.sockets.on('connection', function (socket) {
         log("hello " + data.wid);
         hi(data.wid);
     });
-    function update(conv, isHa) { // merge to longest conversation and update participants
+    function update(conv) { // merge to longest conversation and update participants
         if (!conv) return;
         if (conv.startMS) conv.elapsedMS = new Date().getTime() - conv.startMS;
-        var c2 = G.convs[conv.id] || conv;
-        console.log(conv.msgs.length + " " + c2.msgs.length);
-        if (conv.msgs.length < c2.msgs.length) 
-        {
-        	 conv.msgs = c2.msgs;
-        	 master.updateConv(conv);
-            // conv.curSuggs = funnysuggestions.createSuggestions(conv.msgs);
+        var c2 = G.convs[conv.id] || conv; 
+        if (conv.msgs.length < c2.msgs.length) {
+            conv.msgs = c2.msgs;
+            master.updateConv(conv);
         }
         if (conv.elapsedMS < c2.elapsedMS) conv.elapsedMS = c2.elapsedMS;
         if (c2.dead) conv.dead = true;
         G.convs[conv.id] = conv;
         log("Updating convid " + conv.id + " to length " + conv.msgs.length);
-  
-        if (!isHa) {
-            suggs = funnysuggestions.createSuggestions(conv.msgs);
-            //    console.log("suggs ");
-            //    console.log(suggs);
-            conv.curSuggs = rankByMaster(suggs, 4);
-
-            //     console.log("master suggs ");
-            //     console.log(conv.curSuggs);
-
-
-            fs.writeFile(__dirname + "/chats/" + prefix + conv.id + ".json", JSON.stringify(conv), function (err) { if (err) { log("Error writing chat"); log(err); } });
-        }
         [conv.wid0, conv.wid1].forEach(function (wid) {
             if (wid && G.sockets[wid]) G.sockets[wid].emit("update", { conv: conv });
         });
+        fs.writeFile(__dirname + "/chats/" + prefix + conv.id + ".json", JSON.stringify(conv), function (err) { if (err) { log("Error writing chat"); log(err); } });
     }
 
     socket.on('hiAgain', function (data) {
@@ -203,9 +182,9 @@ io.sockets.on('connection', function (socket) {
     });
 
     socket.on('update', function (data) {
-        if (!data.wid) error("got update with no wid"); else {        
-                G.sockets[data.wid] = socket; // just in case the server restarted
-                update(data.conv,data.isHa);
+        if (!data.wid) error("got update with no wid"); else {
+            G.sockets[data.wid] = socket; // just in case the server restarted
+            update(data.conv);
         }
     });
     socket.on('signOut', function (data) {

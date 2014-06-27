@@ -23,6 +23,10 @@ socket.on('connect_failed', function () {
     waitedLongEnough.timeout = null;    
 });
 
+socket.on('disconnect', function () {
+    console.log('disconnect');
+});
+
 socket.on('reconnect', function () {
     console.log("reconnect");
     socket.emit("rlog", { msg: "reconnect", wid: global.wid });
@@ -40,15 +44,42 @@ socket.on("update", function (data) {
     updateConv(data.conv);
 });
 
-function speak(msg) {
-    console.log("Trying to say " + msg);
-    global.conv.msgs.push({ text: msg, wid: global.wid, suggestions: global.suggs });
-    updateChatHistory(global.conv.msgs);
-    hideSuggestions();
-    socket.emit("update", {
-        wid: global.wid,
-        conv: global.conv
-    });
+function speak(msg, cntHas) {
+    if (cntHas>0) {
+        global.conv.msgs[global.conv.msgs.length - 1].gotHa += cntHas;
+        if (global.conv.msgs[global.conv.msgs.length - 1].wid == global.conv.wid0)
+        {        
+            global.conv.cntHa[0] += cntHas;
+        } else {
+            global.conv.cntHa[1] += cntHas;
+        }
+
+        playSound(msg.toLowerCase());
+
+        socket.emit("update", {
+            wid: global.wid,
+            conv: global.conv,
+            isHa: true
+        });
+    }else {
+            global.conv.msgs.push(
+            {
+                text: msg,
+                wid: global.wid,
+                suggestions: global.conv.curSuggs,
+                gotHa: 0
+            });
+        updateChatHistory(global.conv.msgs);
+        hideSuggestions();
+        console.log("log suggestions:");
+        console.log(msg);
+        console.log(global.conv.curSuggs);
+        socket.emit("update", {
+            wid: global.wid,
+            conv: global.conv,
+            isHa: false
+        });
+    }
 }
 
 function updateConv(conv) {
@@ -64,22 +95,66 @@ function updateConv(conv) {
     }
     var first = (conv.wid0 === global.wid);
     updateChatHistory(global.conv.msgs);
+    
+    var cleanMsgs = conv.msgs.filter(function (x) { return !x.isHa; });
 
-    if (conv.msgs.length === 0 && first || conv.msgs.length > 0 && conv.msgs[conv.msgs.length - 1].wid !== global.wid) { // your turn
-        updateSuggestions(global.conv.msgs);
+    var n = cleanMsgs.length;
+    var iWasLast = n > 0 ? (cleanMsgs[n - 1].wid === global.wid) : false;
+    if (n === 0 && first || 
+        (n > 0 && !iWasLast))
+    { // your turn
+       // updateSuggestions(cleanMsgs); // now updateSuggestions doesn't have to deal with Ha's
+      
+        insertSuggestions(conv.curSuggs);
+        if (global.wid == conv.wid0) {
+            $("#MyHaCounter").html("<p><font size=\"4\">You've won <strong>" + conv.cntHa[0] + "</strong> \"Ha\"s!</p>");
+            $("#MyHaCounter").css("color", "red");
+            $("#MyHaCounter").css("font-size", "big");
+
+            $("#PartnerHaCounter").html("<p><font size=\"4\">Your partner've won <strong>" + conv.cntHa[1] + "</strong> \"Ha\"s!</font></p>");
+            $("#PartnerHaCounter").css("color", "red");
+            $("#PartnerHaCounter").css("font-size", "big");
+        } else {
+            $("#MyHaCounter").html("<p><font size=\"4\">You've won <strong>" + conv.cntHa[1] + "</strong> \"Ha\"s!</font></p>");
+            $("#MyHaCounter").css("color", "red");
+            $("#MyHaCounter").css("font-size", "big");
+
+            $("#PartnerHaCounter").html("<p><font size=\"4\">Your partner've won <strong>" + conv.cntHa[0] + "</strong> \"Ha\"s!</font></p>");
+            $("#PartnerHaCounter").css("color", "red");
+            $("#PartnerHaCounter").css("font-size", "big");
+        }
+        $("#suggestion-instructions").html("Choose what to say:");
+
         $("#suggestion-list-free").show();
-        scrollBottom();
     } else { // not your turn
+        if (global.wid == conv.wid0) {
+            $("#MyHaCounter").html("<p><font size=\"4\">You've won <strong>" + conv.cntHa[0] + "</strong> \"Ha\"s!</font></p>");
+            $("#MyHaCounter").css("color", "red");
+
+            $("#PartnerHaCounter").html("<p><font size=\"4\">Your partner've won <strong>" + conv.cntHa[1] + "</strong> \"Ha\"s!</font></p>");
+            $("#PartnerHaCounter").css("color", "red");
+            $("#PartnerHaCounter").css("font-size", "big");
+        } else {
+            $("#MyHaCounter").html("<p><font size=\"4\">You've won <strong>" + conv.cntHa[1] + "</strong> \"Ha\"s!</font></p>");
+            $("#MyHaCounter").css("color", "red");
+            $("#MyHaCounter").css("font-size", "big");
+
+            $("#PartnerHaCounter").html("<p><font size=\"4\">Your partner've won <strong>" + conv.cntHa[0] + "</strong> \"Ha\"s!</font></p>");
+            $("#PartnerHaCounter").css("color", "red");
+            $("#PartnerHaCounter").css("font-size", "big");
+        }
         hideSuggestions();
     }
+    scrollBottom();
 
 }
 
-
 function startTimer() { // starts timer when there is at least one message and the timer hasn't been restarted 
+    console.log('starting timer');
     if (!global.conv || !global.conv.msgs || "time" in startTimer) return; // timer already started or nobody said anything
     startTimer.time = new Date().getTime(); 
     startTimer.timer = setInterval(function () {
+        console.log("updating timer");
         var delta = new Date().getTime() - startTimer.time;
         delta = Math.floor((delta) / 60000);
         if (delta > 0) {
@@ -90,7 +165,7 @@ function startTimer() { // starts timer when there is at least one message and t
                 $("#timer").html(delta + " min elapsed");
             }
         }
-    }, 1000);
+    }, 10000);
 }
 
 function stopTimer() {
@@ -120,10 +195,41 @@ function signOut() {
     endConversation();
 }
 
+var mentionAutoCorrectWord = function (lastmsg){
+	var modified = false;
+	for (var key in AUTOCORRECT) {
+		var re = new RegExp("\\b"+key);
+		if(re.exec(lastmsg) != null)
+		{
+			modified = true;
+			lastmsg = lastmsg.replace(key, AUTOCORRECT[key]);
+		}
+	}
+	if(modified){
+		return lastmsg;
+	}else{
+		return "";
+	}	
+}
+
+function AutoCorrect() { //"Autocorrect" a word to a taboo word, and add the corrected sentence to the suggest
+	 var text = $("#free-text").val();
+	 var autocor = mentionAutoCorrectWord(text);	 
+	 if (autocor !== "")
+	 {
+	//	 var TheTextBox = document.getElementById("free-text");
+	//	 TheTextBox.value = autocor;		 
+		 var s = $('#suggestion-list').html();
+		 s += "<button class='suggestion button blue brackets'>" + autocor + "</button><br />\n";
+		 $('#suggestion-list').html(s);
+	 }	
+}
+
 function joinConv() {
     if(!waitedLongEnough.timeout) waitedLongEnough.timeout = setTimeout(waitedLongEnough, 300000);
     console.log("Trying to join conversation...");
-    socket.emit("hello", { wid: global.wid });
+    var t = socket.emit("hello", { wid: global.wid });
+    console.log(t);
 }
 
 var speakFreeText = function(){
@@ -131,37 +237,55 @@ var speakFreeText = function(){
     if (text.slice(0, 5) === "html:") text = text.slice(5);
     else text = text.replace(/</g, "&lt;").replace(/>/g, "&gt;");
     $("#free-text").val("");
-    speak(text);
+    speak(text, false);
 }
 
 var updateChatHistory = function(msgs){
     var s = "";
     for (var i =0; i < msgs.length; ++i) {
-        if (msgs[i].wid == global.wid)
-            s += "<div class='my-chats button bubble-l blue disabled'>";
-        else
-            s += "<div class='others-chats button bubble-r green disabled'>";
+        var color = "blue";
+        if (msgs[i].wid == global.wid){
+            var classId = "my-chats";
+            var shape = "bubble-l";
+        }
+        else{
+            var classId = "others-chats";
+            var shape = "bubble-r";
+        }
+    /*    if (msgs[i].isHa){
+            var shape = "shield";
+            color = "pink";
+        } */
+        s += "<div class='" + classId + " button " + shape + " " + color + " disabled'>";
         s += msgs[i].text;
         s += "</div><div class='clr'></div>";
     }
     $('#chat').html(s);
+    var n = msgs.length
+ /*   if (n > 0 && msgs[n - 1].isHa && msgs[n - 1].wid != global.wid){
+        console.log(msgs[n-1].text.toLowerCase());
+        playSound(msgs[n-1].text.toLowerCase());
+        
+    }*/
 }
 
 
 
 var insertSuggestions = function(suggs){
-     var s = "";
+    var s = "";
+    if ($('#chat').html().length > 0){
+        s += "<button class='ha button pink shield'>Ha</button>\n";
+        s += "<button class='ha button pink shield'>HaHa</button>\n";
+        s += "<button class='ha button pink shield'>HaHaHa</button>\n";
+        s += "if you think that was funny<br/>"
+    }
     for (var i =0; i < suggs.length; ++i) 
         s += "<button class='suggestion button blue brackets'>" + suggs[i].txt + "</button><br />\n";
     $('#suggestion-list').html(s);
     $(".suggestion").click(acceptSuggestion);
+    $(".ha").click(sayHa);
 }
 
-var updateSuggestions = function(msgs){
-    global.suggs = createSuggestions(msgs);
-    insertSuggestions(global.suggs);
-    $("#suggestion-instructions").html("Choose what to say:");
-}
 
 function scrollBottom() {
     $("html, body").scrollTop($(document).height());
@@ -177,10 +301,18 @@ var hideSuggestions = function(){
 
 
 var acceptSuggestion = function(){
-    speak($(this).html());
+    speak($(this).html(), 0);
 }
 
-
+var sayHa = function () {
+    var ha = $(this).html();
+    var cnt = 3;
+    if (ha === "Ha")
+        cnt = 1;
+    else if (ha === "HaHa")
+        cnt = 2;
+    speak(ha, cnt);
+}
 
 function init() {
     global.wid = location.search.slice(5);
@@ -189,7 +321,7 @@ function init() {
     $(".suggestion").click(acceptSuggestion);
     joinConv();
     $("#free-text").keypress(function (e) {
-        if (e.keyCode == 13) { e.preventDefault(); speakFreeText(); }
+        if (e.keyCode === 13) { e.preventDefault(); speakFreeText(); } //enter key, speak
     });
     if (document.URL.match(/localhost/i)) {
         document.title = "local TurkTalk";

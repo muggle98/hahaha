@@ -2,7 +2,12 @@ minutes = function(t){
     return ("0" + Math.floor(t / 60000) % 60).slice(-2);
 }
 
-seconds = function(t){
+var escapeQuotes = function (s) {
+    return s.replace(/'/g, "&#39;").replace(/"/g, "&#34;");
+}
+
+
+seconds = function (t) {
     return ("0" + Math.floor(t / 1000) % 60).slice(-2);
 }
 
@@ -22,29 +27,30 @@ isSuggestion = function(msgs){
     return false;
 }
 
-function init() {
-    chatHist.sort(function(c, d){ return d.startMS - c.startMS; });
-    var s = [];
-    for (var i = 0; i < chatHist.length; ++i){
+exports.god = function(allChats) {
+    keys = Object.keys(allChats);
+    keys.sort(function (c, d) { return allChats[d].startMS - allChats[c].startMS; });
+    var s = '<html><head><title>TurkTalk - God Page</title><link rel="stylesheet" href="Styles/god.css" /><link rel="stylesheet" href="Styles/hahaha.css" /></head><body>';
+    for (var i = 0; i < keys.length; ++i){
         s += "<div class='chat-link' id='chat-" + i + "'>\n";
-        s += timeAgo(chatHist[i].startMS) + " with ";
-        s += "<span class='chat-line-one'>" + chatHist[i].wid0 + "</span>";
+        s += timeAgo(allChats[keys[i]].startMS) + " with ";
+        s += "<span class='chat-line-one'>" + allChats[keys[i]].wid0 + "</span>";
         s += " and ";
-        s += "<span class='chat-line-two'>" + chatHist[i].wid1 + "</span>";
-        s += ", duration " + timeString(chatHist[i].elapsedMS) + "<br/>\n";
+        s += "<span class='chat-line-two'>" + allChats[keys[i]].wid1 + "</span>";
+        s += ", duration " + timeString(allChats[keys[i]].elapsedMS) + "<br/>\n";
         s += "<div class='messages'>\n";
-        for (var j = 0; j < chatHist[i].msgs.length; ++j){
+        for (var j = 0; j < allChats[keys[i]].msgs.length; ++j){
             s += "<div class='";
             if (j % 2 == 0)
                 s += "chat-line-one";
             else
                 s += "chat-line-two";
-            if (chatHist[i].msgs[j].suggestions && !isSuggestion(chatHist[i].msgs[j]))
+            if (allChats[keys[i]].msgs[j].suggestions && !isSuggestion(allChats[keys[i]].msgs[j]))
                 s += " not-a-suggestion";
             s += "'"; 
             s += "title='"
-            if (chatHist[i].msgs[j].suggestions)
-                s += escapeQuotes(chatHist[i].msgs[j].suggestions.map(
+            if (allChats[keys[i]].msgs[j].suggestions)
+                s += escapeQuotes(allChats[keys[i]].msgs[j].suggestions.map(
                     function(x){ 
                         y = (typeof x==="string") ? x : x.txt.replace(/</g, "&lt;").replace(/>/g, "&gt;"); 
                         if (y.length > 100)
@@ -53,15 +59,13 @@ function init() {
                     }).join('\n'));
             s += "'";
             s += ">\n";
-            s += chatHist[i].msgs[j].text;
+            s += allChats[keys[i]].msgs[j].text;
             s +=  "</br>\n";
            s += "</div>\n"
         }
         s += "</div>";
         s += "</div><br>";
     }
-    $("#chats").html(s);
-
+    s += "</body></html>";
+    return s;
 }
-
-window.onload = init;

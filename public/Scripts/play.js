@@ -44,20 +44,55 @@ socket.on("update", function (data) {
     updateConv(data.conv);
 });
 
-function speak(msg, isHa) {
-    console.log("Trying to say " + msg);
-    global.conv.msgs.push(
-        { text: msg, 
-          wid: global.wid, 
-          suggestions: global.suggs, 
-          isHa: isHa
+function speak(msg, cntHas) {
+    if (cntHas>0) {
+        global.conv.msgs[global.conv.msgs.length - 1].gotHa += cntHas;
+        if (global.conv.msgs[global.conv.msgs.length - 1].wid == global.conv.wid0)
+        {        
+            global.conv.cntHa[0] += cntHas;
+        } else {
+            global.conv.cntHa[1] += cntHas;
+        }
+
+        playSound(msg.toLowerCase());
+
+        socket.emit("update", {
+            wid: global.wid,
+            conv: global.conv,
+            isHa: true
         });
-    updateChatHistory(global.conv.msgs);
-    hideSuggestions();
-    socket.emit("update", {
-        wid: global.wid,
-        conv: global.conv
-    });
+    }else {
+            global.conv.msgs.push(
+            {
+                text: msg,
+                wid: global.wid,
+                suggestions: global.conv.curSuggs,
+                gotHa: 0
+            });
+        updateChatHistory(global.conv.msgs);
+        hideSuggestions();
+        console.log("log suggestions:");
+        console.log(msg);
+        console.log(global.conv.curSuggs);
+        socket.emit("update", {
+            wid: global.wid,
+            conv: global.conv,
+            isHa: false
+        });
+    }
+}
+
+function updateHaCount(conv) {
+    
+    if (global.wid == conv.wid0) {
+        $("#MyHaCount").html(conv.cntHa[0]);
+        
+        $("#PartnerHaCount").html(conv.cntHa[1]);
+    } else {
+        $("#MyHaCount").html(conv.cntHa[1]);
+        
+        $("#PartnerHaCount").html(conv.cntHa[0]);
+    }    
 }
 
 function updateConv(conv) {
@@ -78,12 +113,17 @@ function updateConv(conv) {
 
     var n = cleanMsgs.length;
     var iWasLast = n > 0 ? (cleanMsgs[n - 1].wid === global.wid) : false;
-    if (n === 0 && first || 
-        (n > 0 && !iWasLast))
+    if (n === 0 && first || (n > 0 && !iWasLast))
     { // your turn
-        updateSuggestions(cleanMsgs); // now updateSuggestions doesn't have to deal with Ha's
+       // updateSuggestions(cleanMsgs); // now updateSuggestions doesn't have to deal with Ha's
+      
+        insertSuggestions(conv.curSuggs);
+        updateHaCount(conv);
+        $("#suggestion-instructions").html("Choose what to say:");
+
         $("#suggestion-list-free").show();
     } else { // not your turn
+        updateHaCount(conv);
         hideSuggestions();
     }
     scrollBottom();
@@ -193,20 +233,21 @@ var updateChatHistory = function(msgs){
             var classId = "others-chats";
             var shape = "bubble-r";
         }
-        if (msgs[i].isHa){
+    /*    if (msgs[i].isHa){
             var shape = "shield";
             color = "pink";
-        }
+        } */
         s += "<div class='" + classId + " button " + shape + " " + color + " disabled'>";
         s += msgs[i].text;
         s += "</div><div class='clr'></div>";
     }
     $('#chat').html(s);
     var n = msgs.length
-    if (n > 0 && msgs[n - 1].isHa && msgs[n - 1].wid != global.wid){
+ /*   if (n > 0 && msgs[n - 1].isHa && msgs[n - 1].wid != global.wid){
         console.log(msgs[n-1].text.toLowerCase());
         playSound(msgs[n-1].text.toLowerCase());
-    }
+        
+    }*/
 }
 
 
@@ -214,9 +255,9 @@ var updateChatHistory = function(msgs){
 var insertSuggestions = function(suggs){
     var s = "";
     if ($('#chat').html().length > 0){
-        s += "<button class='ha button pink shield'>Ha</button>\n";
-        s += "<button class='ha button pink shield'>HaHa</button>\n";
-        s += "<button class='ha button pink shield'>HaHaHa</button>\n";
+        s += "<button class='ha button pink shield'>HA</button>\n";
+        s += "<button class='ha button pink shield'>HAHA</button>\n";
+        s += "<button class='ha button pink shield'>HAHAHA</button>\n";
         s += "if you think that was funny<br/>"
     }
     for (var i =0; i < suggs.length; ++i) 
@@ -226,41 +267,6 @@ var insertSuggestions = function(suggs){
     $(".ha").click(sayHa);
 }
 
-
-function suggestions(txt) {
-	   var res;	 	   
-	 //   var str = txt[0].text;
-	   
-	    $.ajax({
-	        url: "/suggestions",
-	        type: 'POST',
-	        data: JSON.stringify( txt ),
-	        contentType: "application/json",
-	        success: function (data) {
-	        	 console.log("success "+data);
-	            res = data;
-	        },
-	        error: function (jxhr) {
-	            console.log("error!!!");
-	        }
-	    });
-	    
-	    return res;
-	    
-}
-
-
-var updateSuggestions = function(msgs){
-    global.suggs = createSuggestions(msgs); // in suggest.js, try to move that to server.js 
-	if (msgs.length > 0)//my testcode
-    {//my testcode
-		var suggestlines = suggestions(msgs); // call server to provide suggestions
-    }   //my testcode
-    
-    
-    insertSuggestions(global.suggs);
-    $("#suggestion-instructions").html("Choose what to say:");
-}
 
 function scrollBottom() {
     $("html, body").scrollTop($(document).height());
@@ -276,11 +282,22 @@ var hideSuggestions = function(){
 
 
 var acceptSuggestion = function(){
-    speak($(this).html(), false);
+    speak($(this).html(), 0);
 }
 
-var sayHa = function(){
-    speak($(this).html(), true);
+var sayHa = function () {
+    var ha = $(this).html();
+    var cnt = 3;
+    if (ha === "Ha")
+        cnt = 1;
+    else if (ha === "HaHa")
+        cnt = 2;
+    $("#PartnerHaCount").css("font-size","400%");
+    setTimeout(function() 
+               { $("#PartnerHaCount").css("font-size","120%"); }, 
+               2000);
+
+    speak(ha, cnt);
 }
 
 function init() {

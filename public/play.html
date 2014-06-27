@@ -4,7 +4,6 @@
     <script type="text/ecmascript" src="Scripts/jquery-1.8.2.js"></script>
     <script type="text/ecmascript" src="Scripts/socket.io.js"></script>
     <script type="text/ecmascript" src="Scripts/CHATS.js"></script>
-    <script type="text/ecmascript" src="Scripts/suggest.js"></script>
     <script type="text/ecmascript" src="Scripts/play.js"></script>
     <script type="text/ecmascript" src="Scripts/hahaha.js"></script>
     <script type="text/ecmascript" src="Scripts/doge.js"></script>
@@ -43,14 +42,24 @@
                 <div id="waitingDiv" class="my-chats button bracket green
                                             disabled">Waiting for chat game partner...</div>
         </div>
-        <div id="timer"></div>
-        <div>
+        <div id="timer-and-counter">
+            <div id="HaCounter" class="well">
+                <div id="laugh-counter-title">Laugh counter </div>
+                <br>            
+                <br>            
+                <span id="MyHaCount">0</span> HAs
+                <br>
+                <br>
+                Your partner got <span id="PartnerHaCount">0</span> HAs
+            </div>
+            <div id="timer"></div>
+        </div>
+         <div>
             <div class="instructions" id="suggestion-instructions"></div>
             <div id="suggestion-list-free" style="display:none;">
                 <div id="suggestion-list">
                 </div>
                 <input name="custom" type="text" style="margin-left:10pt;font-size:175%" placeholder="...or type your own." id="free-text" size="60" />
-                <input type='button' value='AutoCorrect' onclick='AutoCorrect()' />
             </div>
         </div>
     </div>

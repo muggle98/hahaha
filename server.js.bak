@@ -8,7 +8,8 @@ var io = require('socket.io').listen(server); io.set('log level', 1);
 var version = require(__dirname + '/public/Scripts/hahaha.js').version;
 var doge = require('./public/Scripts/doge.js');
 var url = require('url');
-var natural = require('natural');
+var funnysuggestions = require('./funnysuggestions.js');
+var master = require('./master.js');
 
 
 var G = { waiting: null, sockets: {}, convs: {} };
@@ -16,9 +17,15 @@ var G = { waiting: null, sockets: {}, convs: {} };
 var prefix = (process.env.USER || process.env.USERNAME);
 if (prefix === "azureuser") prefix = "";
 
-var natural = require('natural'),
-  tokenizer = new natural.WordTokenizer();
-console.log(tokenizer.tokenize("I'm happy dog has fleas."));
+
+var port = parseInt(process.env.PORT, 10) || 8080;
+
+app.listen(port);
+
+app.configure(function(){
+  app.use(express.bodyParser());
+  app.use(app.router);
+});
 
 function log(msg, error) { // log a message to the console and to the log
     if (error) console.error(msg); 
@@ -42,12 +49,15 @@ function pad0(n, len) { // pad an integer to be length n
 
 function newConv(wid0, wid1) { // for now just 2 people
     var date = new Date();
+    var ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!", "Where are you from?"];
+    ss = ss.map(function (s) { return { txt: s, deriv: "manual" }; });
     var id = date.getUTCFullYear() + pad0(date.getUTCMonth() + 1, 2) + pad0(date.getUTCDate(), 2) + pad0(date.getUTCHours(), 2) + pad0(date.getUTCMinutes(), 2) + pad0(date.getUTCSeconds(), 0) + pad0(date.getUTCMilliseconds(), 3) + "-" + wid0 + "-" + wid1 + "-" + version;
     var conv = {
         id: id,
         wid0: wid0,
         wid1: wid1,
         msgs: [],
+        curSuggs: ss, //current suggestions
         startMS: new Date().getTime(),
         elapsedMS: 0
     };
@@ -56,55 +66,20 @@ function newConv(wid0, wid1) { // for now just 2 people
 }
 
 
-function simsimi(str, callback, that) { // get a simsimi result (and cache it) for string, call callback.call(that, result)
-	console.log("call simsimi!");
-    options = {
-        host: "api.simsimi.com",
-        port: 80,
-        method: 'GET',
-        path: '/request.p?key=d123e1ac-c047-4e00-89ef-fcae8851fdde&lc=en&ft=1.0&text=' + encodeURIComponent(str)
-    };
-    if (!simsimi.cache) simsimi.cache = {};
-    if (str in simsimi.cache) {
-        log("Using cached Simsimi: " + str + " ==> " + simsimi.cache[str]);
-        callback.call(that, simsimi.cache[str]);
-        return;
-    }
-    var callback2 = function (str, callback, that) {
-        return function (resp) {
-            resp.on('data', function (chunk) {
-                try {
-                    chunk = eval("(" + chunk +")");
-                    log("Simsimi: " + str + " ==> " + chunk.response);
-                    callback.call(that, chunk.response);
-                    simsimi.cache[str] = chunk.response;
-                } catch(e) {
-                    error("Simsimi error: " + e);
-                }
-            });
-        }
-    }(str, callback, that);
-    http.get(options, callback2).on("error", function (e) { error("Simsimi server error: " + e.message); });
-}
+
 
 // ---------------------------------------------------------------------------------------------------------
 // Server stuff
 // ---------------------------------------------------------------------------------------------------------
- 
-server.listen(3000);
- 
- 
-app.get('/doge.html', function (req, res) {
-    var query = url.parse(req.url, true).query;
-    res.send(doge.doge2html((query && query.texts || 'very generate, little AI, wow').split(/,\s*/g))
-        + "<div><form action='doge.html'><input placeholder='very generate, little AI, wow' value='" + (query && query.texts || "") + "' name='texts' style='width:600px;' /><br /><input type='submit' value='wow' /></form></div>");
-});
+master.init(function () { // this replaces the old line that was just server.listen(3000);
 
-app.get('/simsimi.html', function (req, res) {
-    var query = url.parse(req.url, true).query;
-    simsimi(query.text, res.send, res);
-});
+    console.log("Loaded " + Object.keys(master.allChats).length + " chats");
 
+    master.prettyPrint();
+
+    server.listen(3000);
+
+});
 
 
 app.get('/god.html', function (req, res) {
@@ -122,6 +97,22 @@ app.get('/god.html', function (req, res) {
 app.get('/updategod.html', function (req, res) {
     exec('python private/collect.py');
     res.send('done');
+});
+
+
+
+app.get('/', function(req, res){
+    var html = fs.readFileSync('index.html');
+    res.header("Content-Type", "text/html");
+    res.send(html);
+});
+
+
+app.get('/tokennizer.html', function (req, res) {	
+	var query = url.parse(req.url, true).query.text;
+	console.log("call tokennizer!"+ query);
+	var tokenizer = new natural.WordTokenizer();
+    res.send(tokenizer.tokenize(query));
 });
 
 app.use('/', express.static(__dirname + '/public'));
@@ -153,11 +144,17 @@ io.sockets.on('connection', function (socket) {
         if (!conv) return;
         if (conv.startMS) conv.elapsedMS = new Date().getTime() - conv.startMS;
         var c2 = G.convs[conv.id] || conv; 
-        if (conv.msgs.length < c2.msgs.length) conv.msgs = c2.msgs;
+        if (conv.msgs.length < c2.msgs.length) 
+        {
+        	 conv.msgs = c2.msgs;
+        	 master.updateConv(conv);
+        	 conv.curSuggs = funnysuggestions.createSuggestions(conv.msgs);
+        }
         if (conv.elapsedMS < c2.elapsedMS) conv.elapsedMS = c2.elapsedMS;
         if (c2.dead) conv.dead = true;
         G.convs[conv.id] = conv;
         log("Updating convid " + conv.id + " to length " + conv.msgs.length);
+  
         [conv.wid0, conv.wid1].forEach(function (wid) {
             if (wid && G.sockets[wid]) G.sockets[wid].emit("update", { conv: conv });
         });
