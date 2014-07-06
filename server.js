@@ -11,6 +11,8 @@ var url = require('url');
 var funnysuggestions = require('./funnysuggestions.js');
 var master = require('./master.js');
 var god = require('./godMode.js');
+var FRIENDS = require('./friends.js');
+var EXAMPLE = require('./urbanexample.js');
 
 var G = { waiting: null, sockets: {}, convs: {} };
 
@@ -49,8 +51,12 @@ function pad0(n, len) { // pad an integer to be length n
 
 function newConv(wid0, wid1) { // for now just 2 people
     var date = new Date();
-    var ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!", "Where are you from?"];
-    ss = ss.map(function (s) { return { txt: s, deriv: "manual" }; });
+    var ss = [];
+     ss.push({ txt: "Hi! What's your name?", deriv: "name-question", conf: undefined });  
+     ss.push({ txt: "Why did the chicken cross the road?", deriv: "manual", conf: undefined });  
+     ss.push({ txt: "Where are you from?", deriv: "where-question", conf: undefined });
+     ss.push({ txt: "Knock knock!", deriv: "KnockKnock-line1", conf: undefined });  
+    
     var id = date.getUTCFullYear() + pad0(date.getUTCMonth() + 1, 2) + pad0(date.getUTCDate(), 2) + pad0(date.getUTCHours(), 2) + pad0(date.getUTCMinutes(), 2) + pad0(date.getUTCSeconds(), 0) + pad0(date.getUTCMilliseconds(), 3) + "-" + wid0 + "-" + wid1 + "-" + version;
     var conv = {
         id: id,
@@ -77,6 +83,12 @@ master.init(function () { // this replaces the old line that was just server.lis
     console.log("Loaded " + Object.keys(master.allChats).length + " chats");
 
     master.prettyPrint();
+
+ /*   console.log("name-question");
+    console.log(master.score(1,"name-question"));
+
+    console.log("ma-doge");
+    console.log(master.score(1,"m-doge")); */
 
     server.listen(3000);
 
@@ -137,8 +149,17 @@ io.sockets.on('connection', function (socket) {
     log("New connection " + JSON.stringify(socket.id));
     function hi(wid) {
         G.sockets[wid] = socket;
+        
+        var address = socket.handshake.address; //get ip address
+        console.log("New connection from " + address.address + ":" + address.port);
+      
+      //run once  
+      // EXAMPLE.init();
+        
+     //run once   FRIENDS.init();
+     
         if (G.waiting !== null && G.waiting !== wid) {
-            var conv = newConv(G.waiting, wid);
+            var conv = newConv(wid, G.waiting);
             G.convs[conv.id] = conv;
             var toSend = { conv: conv };
             socket.emit("hello", toSend);
@@ -228,6 +249,12 @@ io.sockets.on('connection', function (socket) {
             if (socket.wid === G.waiting) G.waiting = null;
         } else {
             log("Someone disconnected before hello.");
+        }
+    });
+
+    socket.on('typing', function (data) {
+        if (!data.partnerWid) error("got typing with no partnerWid"); else {
+            if (G.sockets[data.partnerWid]) G.sockets[data.partnerWid].emit("typing", { textSoFar: data.textSoFar });
         }
     });
 

@@ -16,7 +16,7 @@ timeString = function(t){
 
 isSuggestion = function(msgs){
     for (var i = 0; i < msgs.suggestions.length; ++i)
-        if (msgs.text == msgs.suggestions[i].txt)
+        if (msgs.text == msgs.suggestions[i].txt || msgs.text.indexOf("joseph.png") >= 0 || msgs.text.indexOf("doge.png") >= 0)
             return true;
 
     return false;
@@ -35,10 +35,16 @@ function init() {
         s += "<div class='messages'>\n";
         for (var j = 0; j < chatHist[i].msgs.length; ++j){
             s += "<div class='";
-            if (j % 2 == 0)
+           /* if (j % 2 == 0)
                 s += "chat-line-one";
             else
-                s += "chat-line-two";
+                s += "chat-line-two"; */
+            if(chatHist[i].msgs[j].wid == chatHist[i].wid0)
+            {
+            	s += "chat-line-one";
+            }else{
+            	s += "chat-line-two";
+            }
             if (chatHist[i].msgs[j].suggestions && !isSuggestion(chatHist[i].msgs[j]))
                 s += " not-a-suggestion";
             s += "'"; 

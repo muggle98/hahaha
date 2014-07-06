@@ -1,0 +1,92 @@
+<html>
+<head>
+    <title>LoLPong</title>
+    <script type="text/ecmascript" src="Scripts/jquery-1.8.2.js"></script>
+    <script type="text/ecmascript" src="Scripts/socket.io.js"></script>
+    <script type="text/ecmascript" src="Scripts/CHATS.js"></script>
+    <script type="text/ecmascript" src="Scripts/play.js"></script>
+    <script type="text/ecmascript" src="Scripts/hahaha.js"></script>
+    <script type="text/ecmascript" src="Scripts/doge.js"></script>
+    <script type="text/ecmascript" src="Scripts/json2.js"></script>
+    <script type="text/ecmascript" src="dic/TooSexyNouns.js"></script>
+    <script type="text/ecmascript" src="dic/LIWCSexual.js"></script>
+    <script type="text/ecmascript" src="dic/AUTOCORRECT.js"></script>
+    <link rel="stylesheet" href="Styles/play.css" />
+    <link rel="stylesheet" href="Styles/hahaha.css" />
+    <link rel="stylesheet" href="Styles/buttons.css" /> 
+
+    <script type="text/ecmascript" src="Scripts/autocomplete.js"></script>
+
+    <style type="text/css">
+        #autocomplete {
+            border:2px solid #ccc;
+            margin:0;
+            font-size:175%;
+            padding:4px;
+            line-height:30px;
+            box-sizing:border-box;
+            border-top-color: #d9d9d9;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            cursor: default;
+            display:none;
+        }
+        .auto:hover, .auto.selected {
+            background: #ccc;
+        }
+
+    </style>
+
+</head>
+<body>
+
+  
+ 
+    <audio id="notify" src="Audio/notification.wav" preload="auto"></audio>
+    <audio id="ha" src="Audio/ha.wav" preload="auto"></audio>
+    <audio id="haha" src="Audio/haha.wav" preload="auto"></audio>
+    <audio id="hahaha" src="Audio/hahaha.wav" preload="auto"></audio>
+    <h3 id="header"> LoLPoNG <!---<span id="version"></span>---></h3> <!-- Adam 7/3 -->
+    <div id="searching"><h1 style="float:none">Searching for a partner...</h1><br />
+        Please be patient. After 5 minutes, if nobody arrives to chat, we will let you know and you may submit the HIT.</div> <!-- Adam 7/3 -->
+    <div class="main" style="display:block" onkeyup="typing();">
+        <div class="instructions well" id="instructions">
+            <div class="close-button"
+            onclick="$('#instructions').hide()">x</div>
+            <div class="well-title"> Instructions </div>
+            <ul>
+                <li> Have a fun conversion!</li>
+                <li> Choose our suggestions if you like them.</li>
+                <!-- <li> Click "HA", "HAHA" or "HAHAHA" if you think the other person was funny.</li>
+                <li> Your bonus does <font color="red">not</font> depend on the number of times
+                your partner pressed "ha".</li> --> <!-- Adam 7/3 commented out for the time being -->
+                <li> The data you provide will help create funnier
+                    suggestions and artificially intelligent computers.</li>
+                <li> We may also show this to others or publish it, so
+                    don't include private information.</li>
+                <li><b>Thanks and please have fun!</b></li>
+            </ul>
+        </div>
+        <div id="chat" class="chat history"></div><div id="typing" style="margin-top:-20px;height:20px;color:#ccc;margin-left:10px;display:none;">Your partner is typing...</div>
+        <div id="free-text-input">
+            <input name="custom" type="text" placeholder="Chat..." id="free-text" />
+        </div>
+        <div id="autocomplete"></div>
+        <div id="timer-and-counter">
+            <!-- <div id="HaCounter" class="well">
+                <div id="laugh-counter-title">Laugh counter </div>
+                <br>            
+                <br>            
+                <span id="MyHaCount">0</span> HAs
+                <br>
+                <br>
+                Your partner got <span id="PartnerHaCount">0</span> HAs
+            </div>
+                --> <!-- Adam 7/3 commented out for the time being -->
+            <div id="timer"></div>
+        </div>
+        <div id="suggestion-wait">Waiting for partner...</div>
+    </div>
+    <div id="endedDiv" style="display:none">The conversation has ended. You may close the window.</div>
+</body>
+</html>

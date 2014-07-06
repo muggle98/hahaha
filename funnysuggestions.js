@@ -6,8 +6,14 @@ var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var http = require('http');
 var fs = require('fs');
 var DOGE = require('./public/Scripts/doge.js');
+var JOSEPH = require('./public/Scripts/joseph.js');
+var NAME = require('./public/Scripts/name.js');
+//var CONTEXT = require('./context.js');
+var FRIENDS = require('./friends.js');
+var EXAMPLE = require('./urbanexample.js');
 var AUTO = require('./dic/AUTOCORRECT.js');
 var TWSS = require('./dic/TWSS.js');
+var COMMON = require('./dic/commonnames.js');
 var Knock = require('./dic/KnockKnock.js');
 var natural = require('natural');
 var tokenizer = new natural.WordTokenizer();
@@ -15,9 +21,12 @@ var tokenizer = new natural.WordTokenizer();
 var prefix = (process.env.USER || process.env.USERNAME);
 if (prefix === "azureuser") prefix = "";
 
+FRIENDS.init();
+EXAMPLE.init();
+
 log = function (msg, error) { // log a message to the console and to the log
     if (error) console.error("ERROR "+msg);
-    else console.log("HERE "+msg);
+ //   else console.log("HERE "+msg);
     date = new Date();
     var filename = __dirname + "/logs/" + prefix + date.getUTCFullYear() + pad0(date.getUTCMonth() + 1, 2) + pad0(date.getUTCDate(), 2) + (error ? ".error.txt" : ".txt");
     msg = new Date() + "  " + msg;
@@ -186,47 +195,121 @@ var mentionAutoCorrectWord = function (s,lastmsg) {
     return undefined;
 }
 
+var getderiv = function(msg)
+{
+    for(var i=0;i<msg.suggestions.length;i++)
+    {
+        if(msg.text == msg.suggestions[i].txt)
+        {
+            return msg.suggestions[i].deriv;
+        } 
+    }
+    if (msg.text.indexOf("joseph.png")>-1)
+    {
+        return "meme-Joseph";
+    }
+    else if (msg.text.indexOf("doge.png")>-1) {
+        return "meme-doge";
+    }
+    return undefined;
+}
+
 var createSuggestionsManual = function (msgs) {
-	
+
+// states and cities
+    //    CONTEXT.lookupWord("cat");
+    // console.log(CONTEXT.textCosineSimilarity("I sit on the bank.", "I like the bank."));
+    // console.log(CONTEXT.POSCosineSimilarity("I sit on the bank.", "I like the bank."));
+   // console.log(CONTEXT.synsetCosineSimilarity("my cat", "my mom.")); //has problem
 	var ss = []; 
     if (msgs.length > 0)
     {
-        var last = msgs[msgs.length - 1].text; 
-        var index = Knock.isline3();
-	}
+        var last = msgs[msgs.length - 1].text;
+        var lastderiv = getderiv(msgs[msgs.length - 1]);
+    }
+   // console.log(last + " last");
+   // console.log(lastderiv+" lastderiv");
+    if (msgs.length > 1)
+    {
+        var mylast = msgs[msgs.length - 2].text; 
+    }
+
     if (msgs.length == 0) {
-        ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!", "Where are you from?"];
+    	  ss.push({ txt: "Hi! What's your name?", deriv: "name-question", conf: undefined });  
+    	  ss.push({ txt: "Why did the chicken cross the road?", deriv: "manual", conf: undefined });  
+    	  ss.push({ txt: "Where are you from?", deriv: "where-question", conf: undefined });
+    	  ss.push({ txt: "Knock knock!", deriv: "KnockKnock-line1", conf: undefined });                      	
+    }
+    else if (mylast && (mylast.match(/your name/i)))
+    {
+    		var partnername = COMMON.getName(last);
+    		ss = NAME.namejoke(partnername); 
+    	
+    }
+    else if (lastderiv == "TWSS-story")
+    {
+       ss.push({ txt: "...that's what she said", deriv: "TWSS-answer", conf: undefined });        
+    }
+    else if (lastderiv == "meme-Joseph") {
+      //  console.log("HERERE!!");
+        ssA = ["Thein jest maketh me chuckle aloud.", "With mirth and laughter let old wrinkles come.", "Thou hast the most unsavoury similes.",
+            "I shall laugh myself to death at this puppy-headed monster!", "Thou art a Castilian King urinal!", "Away! Thou'rt poison to my blood!"];
+        ss.push({ txt: ssA[Math.floor(Math.random() * ssA.length)], deriv: "meme-Joseph-answer", conf: undefined });
     }
     else if (last == "Where are you from?") {
         //now random, should base on the "tone"
-        ssA = [["You shouldn't end sentences with a preposition."], ["I am from my mother's vagina."], ["Dat's some great quesshun. Guess"],
-            ["I am from the year 2032"], ["Gu3ss"], ["Igpay Atvialay, ifyay youay ouldn'tcay elltay"], ["I am from your heart."]];
-        ss = ssA[Math.floor(Math.random() * ssA.length)];
-    }
+        ssA = ["You shouldn't end sentences with a preposition.", "I am from my mother's vagina.", "Dat's some great quesshun. Guess",
+            "I am from the year 2032", "Gu3ss", "Igpay Atvialay, ifyay youay ouldn'tcay elltay", "I am from your heart."];
+        ss.push({ txt: ssA[Math.floor(Math.random() * ssA.length)], deriv: "where-answer", conf: undefined });   
+    }   
     else if (last == "Knock knock!")
-    	ss = ["Who's there?", "I think there is someone at the door"];
-    else if (last == "Who's there?"){
+    {
+    	ss.push({ txt: "Who's there?", deriv: "KnockKnock-line2", conf: undefined }); 
+    	ss.push({ txt: "I think there is someone at the door", deriv: "KnockKnock-line2", conf: undefined }); 
+    	ss.push({ txt: "Come in!", deriv: "KnockKnock-line2", conf: undefined });
+    }
+    else if (last.match(/Who\'s there/i) || last.match(/Whos there/i) || last.match(/Who\'s dere/i) || last.match(/Who is there/i)) {
       //  ss = ["Honey bee", "Cows go", "Says"];
-    	ss = Knock.line3();
-    	console.log(ss);
+        ss = Knock.line3(3);
+        console.log("line3");
+    		console.log(ss);
+    }
+    else if (mylast && (mylast.match(/Who\'s there/i) || mylast.match(/Whos there/i) || mylast.match(/Who is dere/i) || mylast.match(/Who is there/i)))
+    {
+    		ss.push({ txt: last+" who?", deriv: "KnockKnock-line4", conf: undefined });
+    }
+    else if (last.indexOf(" who?") >= 0 && Knock.isline5(last))
+    {
+    		ss.push({ txt: Knock.isline5(last), deriv: "KnockKnock-line5", conf: undefined });
     }
     else if (last.length > 0 && last[last.length - 1] == "?")
-        ss = ["I dunno", "I would rather not comment on that", "stop asking me that!"];  
-    else {
-        words = last.replace(/[^a-zA-Z\s]+/g, '').toLowerCase().split(" ")
-        if (words.length < 3 || words.length > 10)
-            doge = "WOW. such joke. so laugh. much funny.";
-        else
-            doge = "WOW. such " + words[0] + ".  so " + words[1] + ". much " + words[2] + ".&nbsp";
-        //        doge += doge2html(doge.split(". "), 40);
-        doge = DOGE.doge2html(doge.split(". "), 300);
-        ssA = [[doge], ['"' + last + '" your dad'], ['"' + last + '" your mom'], ["On a different note, how's the weather?"]];
-        ss = ssA[Math.floor(Math.random() * ssA.length)];
+    {
+    		ss.push({ txt: "I dunno", deriv: "manual", conf: undefined });
+    		ss.push({ txt: "I would rather not comment on that", deriv: "manual", conf: undefined });
+    		ss.push({ txt: "stop asking me that!", deriv: "manual", conf: undefined });
     }
-    ss = ss.map(function (s) { return { txt: s, deriv: "manual", conf: undefined }; });
+    else {
+        ssA = [];
+        if (lastderiv != "meme-doge") {
+            words = last.replace(/[^a-zA-Z\s]+/g, '').toLowerCase().split(" ")
+            if (words.length < 3 || words.length > 10)
+                doge = "WOW. such joke. so laugh. much funny.";
+            else
+                doge = "WOW. such " + words[0] + ".  so " + words[1] + ". much " + words[2] + ".&nbsp";
+            //        doge += doge2html(doge.split(". "), 40);
+            doge = DOGE.doge2html(doge.split(". "), 300);
+            ssA.push({ txt: doge, deriv: "meme-doge", conf: undefined });
+        }
+
+        var TWSSline1 = TWSS.line1();
+        ssA.push({ txt: '"' + last + '" your mom', deriv: "manual", conf: undefined });
+        ssA.push({ txt: '"' + last + '" your dad', deriv: "manual", conf: undefined });
+        ssA.push({ txt: "On a different note, how's the weather?", deriv: "weather-line1", conf: undefined });
+        ssA.push({ txt: TWSSline1, deriv: "TWSS-story", conf: confd });
+        ss.push(ssA[Math.floor(Math.random() * ssA.length)]);
+    }
     if (msgs.length > 0 && last) {
         var s = simsimi(last);
-        var b = (s!="Simsimi is down");
      //   console.log("weird "+ b+" "+s);
         if (s && s != "Simsimi is down") ss.push({ txt: s, deriv: "simsimi", conf: undefined });
         
@@ -235,14 +318,49 @@ var createSuggestionsManual = function (msgs) {
         var confd = mentionTabooWord(s);
         if(confd > 0)
         {
-        	ss.push({ txt: "... that's what she said", deriv: "TWSS", conf: confd });
+        	ss.push({ txt: "... that's what she said", deriv: "TWSS-answer", conf: confd });
+        }
+        
+       
+        if (!lastderiv||(lastderiv != "meme-Joseph" && lastderiv != "meme-doge")) {
+
+  					var urbannextline = EXAMPLE.geturbanNextline(last);
+            console.log("here urbannextline "+ urbannextline.conf+" "+last);
+            if (urbannextline.conf > 0) {
+                ss.push(urbannextline);
+            }
+            
+            var friendnextline = FRIENDS.getfriendsNextline(last);
+            //   console.log("friendnextline "+friendnextline.conf);
+            if (friendnextline.conf > 0) {
+                ss.push(friendnextline);
+            }
+            
+
+            var corrected = mentionAutoCorrectWord(s, last);
+            if (corrected) {
+                ss.push({ txt: corrected, deriv: "AutoCorrect", conf: undefined });
+            }
+
+            var joseph = JOSEPH.oldEnglish(last.toLowerCase());
+            if (last.toLowerCase() != joseph.toLowerCase()) {
+                //	console.log("JOSEPH "+joseph);
+                var s = joseph.split(" ");
+                var textt = "", textb = "";
+                for (var i = 0; i < s.length; ++i) {
+                    if (i < s.length / 2) {
+                        textt += s[i] + " ";
+                    } else {
+                        textb += s[i] + " ";
+                    }
+                }
+            //    console.log("WHY  "+lastderiv);
+            //   	console.log(textt+"  "+textb);
+                var joseph = JOSEPH.joseph2html(textt, textb, 200);
+                ss.push({ txt: joseph, deriv: "meme-Joseph", conf: confd });
+            }
         }
 
-        var corrected = mentionAutoCorrectWord(s, last);
-        if(corrected)
-        {
-            ss.push({ txt: corrected, deriv: "AutoCorrect", conf: undefined });
-        }
     }
     return ss;
 }
@@ -250,8 +368,12 @@ var createSuggestionsManual = function (msgs) {
 var suggs = [];
 
 exports.createSuggestions = function (msgs) {
+    var time1 = new Date();
     var ssManual = createSuggestionsManual(msgs);
+    var time2 = new Date();
     var ssSimilarity = createSuggestionsSimilarity(msgs, 3);
+    var time3 = new Date();
+    console.log("Manual: " + ((time2 - time1) / 1000) + " secs, Similarity: " + ((time3 - time2) / 1000) + " secs");
     suggs = ssSimilarity;
     for (var i = 0; i < ssManual.length; ++i){
         var found = false;
@@ -262,7 +384,7 @@ exports.createSuggestions = function (msgs) {
             suggs.push(ssManual[i]);
     }
    // console.log("Created in funnysuggestions:");
-   // console.log(suggs);
+   // console.log(suggs); 
     return suggs;
 }
 
